@@ -1,13 +1,1885 @@
-Verbo, amar, 4
-Substantivo, abajur, 6
-Nome de famoso, Xuxa, 4
-Substantivo, computador, 10
-Verbo, digitar, 7
-Substantivo, cadeira, 7
-Verbo, correr, 6
-Verbo, sorrir, 6
-Verbo, cair, 4
-verbo, cantar, 5
-Nome de famoso, Faustão, 7
+Objetos, cadeira, 7
+Objetos, mesa, 4
+Objetos, garrafa, 7
+Objetos, mochila, 7
+Objetos, lápis, 5
+Objetos, borracha, 8
+Objetos, régua, 5
+Objetos, tesoura, 7
+Objetos, relógio, 7
+Objetos, espelho, 7
+Objetos, lanterna, 8
+Objetos, celular, 7
+Objetos, computador, 10
+Objetos, teclado, 7
+Objetos, mouse, 5
+Objetos, caderno, 7
+Objetos, livro, 5
+Objetos, chave, 5
+Objetos, caneta, 6
+Objetos, quadro, 6
+Objetos, pincel, 6
+Objetos, balde, 5
+Objetos, panela, 6
+Objetos, prato, 5
+Objetos, copo, 4
+Objetos, jarra, 5
+Objetos, almofada, 8
+Objetos, sofá, 4
+Objetos, tapete, 6
+Objetos, cama, 4
+Objetos, travesseiro, 10
+Objetos, cobertor, 8
+Objetos, guarda-chuva, 12
+Objetos, óculos, 6
+Objetos, máscara, 6
+Objetos, capacete, 8
+Objetos, escada, 6
+Objetos, banco, 5
+Objetos, armário, 7
+Objetos, geladeira, 9
+Objetos, fogão, 5
+Objetos, micro-ondas, 11
+Objetos, televisão, 10
+Objetos, controle, 8
+Objetos, rádio, 5
+Objetos, ventilador, 10
+Objetos, aspirador, 9
+Objetos, câmera, 6
+Objetos, tripé, 5
+Objetos, mochila, 7
+Objetos, estojo, 6
+Objetos, envelope, 8
+Objetos, impressora, 10
+Objetos, grampeador, 10
+Objetos, bloco, 5
+Objetos, agenda, 6
+Objetos, pendrive, 8
+Objetos, pasta, 5
+Objetos, detergente, 10
+Objetos, esponja, 7
+Objetos, sabão, 5
+Objetos, balança, 7
+Objetos, tapete, 6
+Objetos, toalha, 6
+Objetos, sabonete, 8
+Objetos, perfume, 7
+Objetos, escova, 6
+Objetos, pente, 5
+Objetos, secador, 7
+Objetos, chapinha, 8
+Objetos, mochila, 7
+Objetos, capacete, 8
+Objetos, martelo, 7
+Objetos, chaveiro, 8
+Objetos, furadeira, 9
+Objetos, trena, 5
+Objetos, serrote, 7
+Objetos, alicate, 7
+Objetos, prego, 5
+Objetos, parafuso, 8
+Objetos, porca, 5
+Objetos, lâmpada, 7
+Objetos, tomada, 6
+Objetos, extensão, 9
+Objetos, fio, 3
+Objetos, pilha, 5
+Objetos, bateria, 7
+Objetos, roteador, 8
+Objetos, modem, 5
+Objetos, caixa, 5
+Objetos, lata, 4
+Objetos, balão, 5
+Objetos, bandeira, 8
+Objetos, velas, 5
+Objetos, fósforo, 7
+Objetos, isqueiro, 8
+Objetos, carteira, 8
+Objetos, bolsa, 5
+Objetos, relógio, 7
+Objetos, bracelete, 9
+Objetos, anel, 4
+Objetos, colar, 5
+Objetos, pulseira, 8
+Objetos, botão, 5
+Objetos, zíper, 4
+Objetos, sapato, 6
+Objetos, chinelo, 7
+Objetos, meia, 4
+Objetos, camisa, 6
+Objetos, camiseta, 8
+Objetos, jaqueta, 7
+Objetos, calça, 5
+Objetos, bermuda, 7
+Objetos, luva, 4
+Objetos, boné, 4
+Objetos, mochila, 7
+Objetos, guarda-roupa, 12
+Objetos, estante, 7
+Objetos, prateleira, 10
+Objetos, moldura, 7
+Objetos, quadro, 6
+Objetos, retrato, 7
+Objetos, porta, 5
+Objetos, janela, 6
+Objetos, cortina, 7
+Objetos, tapete, 6
+Objetos, vaso, 4
+Objetos, jarro, 5
+Objetos, flor, 4
+Objetos, planta, 6
+Objetos, regador, 7
+Objetos, mangueira, 9
+Objetos, pá, 1
+Objetos, enxada, 6
+Objetos, carrinho, 8
+Objetos, bicicleta, 9
+Objetos, capacete, 8
+Objetos, skate, 5
+Objetos, patins, 6
+Objetos, bola, 4
+Objetos, rede, 4
+Objetos, apito, 5
+Objetos, uniforme, 8
+Objetos, mochila, 7
+Objetos, bandeja, 7
+Objetos, colher, 6
+Objetos, garfo, 5
+Objetos, faca, 4
+Objetos, tábua, 5
+Objetos, escumadeira, 11
+Objetos, peneira, 7
+Objetos, espremedor, 10
+Objetos, panela, 6
+Objetos, frigideira, 10
+Objetos, chaleira, 8
+Objetos, bule, 4
+Objetos, xícara, 6
+Objetos, copo, 4
+Objetos, taça, 4
+Objetos, cofre, 5
+Objetos, caixa de som, 12
+Objetos, fone, 4
+Objetos, microfone, 10
+Objetos, guitarra, 8
+Objetos, violão, 6
+Objetos, teclado, 7
+Objetos, bateria, 7
+Objetos, flauta, 6
+Objetos, trompete, 8
+Objetos, violino, 7
+Objetos, banco, 5
+Objetos, bilhete, 7
+Objetos, ingresso, 8
+Objetos, mapa, 4
+Objetos, bússola, 7
+Objetos, lancheira, 9
+Objetos, brinquedo, 9
+Objetos, dominó, 6
+Objetos, dado, 4
+Objetos, baralho, 7
+Objetos, quebra-cabeça, 13
+Objetos, boneca, 6
+Objetos, carrinho, 8
+Objetos, robô, 4
+Objetos, drone, 5
+Objetos, foguete, 7
+Objetos, caixa de areia, 13
+Objetos, pássaro de brinquedo, 18
+Objetos, globo, 5
+Objetos, planeta, 7
+Objetos, telescópio, 10
+Objetos, microscópio, 12
+Objetos, bússola, 7
+Objetos, cronômetro, 10
+Objetos, calendário, 10
+Objetos, relógio, 7
+Objetos, diário, 6
+Objetos, revista, 7
+Objetos, jornal, 6
+Animais, gato, 4
+Animais, cachorro, 8
+Animais, cavalo, 6
+Animais, vaca, 4
+Animais, porco, 5
+Animais, galinha, 7
+Animais, pato, 4
+Animais, ganso, 5
+Animais, peru, 4
+Animais, ovelha, 6
+Animais, cabra, 5
+Animais, bode, 4
+Animais, coelho, 6
+Animais, hamster, 7
+Animais, rato, 4
+Animais, camelo, 6
+Animais, dromedário, 10
+Animais, zebra, 5
+Animais, girafa, 6
+Animais, leão, 4
+Animais, tigre, 5
+Animais, onça, 4
+Animais, pantera, 7
+Animais, lobo, 4
+Animais, raposa, 6
+Animais, urso, 4
+Animais, gorila, 6
+Animais, chimpanzé, 9
+Animais, macaco, 6
+Animais, babuíno, 7
+Animais, orangotango, 11
+Animais, elefante, 8
+Animais, rinoceronte, 11
+Animais, hipopótamo, 10
+Animais, búfalo, 6
+Animais, antílope, 8
+Animais, cervo, 5
+Animais, alce, 4
+Animais, rena, 4
+Animais, javali, 6
+Animais, esquilo, 7
+Animais, morcego, 7
+Animais, preguiça, 8
+Animais, tatu, 4
+Animais, tamanduá, 8
+Animais, bicho-preguiça, 14
+Animais, coala, 5
+Animais, canguru, 7
+Animais, wombat, 6
+Animais, ornitorrinco, 12
+Animais, golfinho, 8
+Animais, baleia, 6
+Animais, tubarão, 7
+Animais, lagosta, 7
+Animais, camarão, 7
+Animais, caranguejo, 10
+Animais, siri, 4
+Animais, polvo, 5
+Animais, estrela-do-mar, 13
+Animais, foca, 4
+Animais, leão-marinho, 12
+Animais, penguim, 7
+Animais, tartaruga, 9
+Animais, jacaré, 6
+Animais, crocodilo, 9
+Animais, lagarto, 7
+Animais, serpente, 8
+Animais, cobra, 5
+Animais, salamandra, 10
+Animais, sapo, 4
+Animais, rã, 2
+Animais, toupeira, 8
+Animais, texugo, 6
+Animais, furão, 5
+Animais, doninha, 7
+Animais, lêmure, 6
+Animais, suricata, 8
+Animais, mangusto, 8
+Animais, hiena, 5
+Animais, chacal, 6
+Animais, coiote, 6
+Animais, esquilo-voador, 14
+Animais, castor, 6
+Animais, lontra, 6
+Animais, foca, 4
+Animais, lince, 5
+Animais, guepardo, 8
+Animais, jaguar, 6
+Animais, pintada, 7
+Animais, falcão, 6
+Animais, águia, 5
+Animais, coruja, 6
+Animais, pomba, 5
+Animais, pombo, 5
+Animais, gavião, 6
+Animais, andorinha, 9
+Animais, beija-flor, 10
+Animais, tucano, 6
+Animais, arara, 5
+Animais, papagaio, 8
+Animais, periquito, 9
+Animais, canário, 7
+Animais, pardal, 6
+Animais, gaivota, 7
+Animais, flamingo, 8
+Animais, cisne, 5
+Animais, pato-selvagem, 13
+Animais, ema, 3
+Animais, avestruz, 8
+Animais, codorna, 7
+Animais, faisão, 6
+Animais, pavão, 5
+Animais, galinha-d'angola, 16
+Animais, formiga, 7
+Animais, abelha, 6
+Animais, vespa, 5
+Animais, marimbondo, 10
+Animais, borboleta, 9
+Animais, libélula, 8
+Animais, besouro, 7
+Animais, joaninha, 8
+Animais, barata, 6
+Animais, grilo, 5
+Animais, gafanhoto, 9
+Animais, louva-a-deus, 11
+Animais, escorpião, 9
+Animais, aranha, 6
+Animais, carrapato, 9
+Animais, pulga, 5
+Animais, piolho, 6
+Animais, minhoca, 7
+Animais, lagarta, 7
+Animais, ostra, 5
+Animais, mexilhão, 8
+Animais, marisco, 7
+Animais, lula, 4
+Animais, vieira, 6
+Animais, cavalo-marinho, 14
+Animais, ouriço, 6
+Animais, caramujo, 8
+Animais, caracol, 7
+Animais, lesma, 5
+Animais, camaleão, 8
+Animais, iguana, 6
+Animais, dragão-de-komodo, 15
+Animais, pavão-misterioso, 16
+Animais, papagaio-do-mar, 15
+Animais, panda, 5
+Animais, panda-vermelho, 13
+Animais, lobo-guará, 9
+Animais, onça-pintada, 12
+Animais, mico-leão-dourado, 17
+Animais, sagui, 5
+Animais, bugio, 5
+Animais, ariranha, 8
+Animais, anta, 4
+Animais, capivara, 8
+Animais, cutia, 5
+Animais, preá, 4
+Animais, paca, 4
+Animais, tatu-bola, 8
+Animais, ema, 3
+Animais, seriema, 7
+Animais, jacutinga, 9
+Animais, mutum, 5
+Animais, jacu, 4
+Animais, javaporco, 9
+Animais, búfalo, 6
+Animais, carneiro, 8
+Animais, lhama, 5
+Animais, alpaca, 6
+Animais, rena, 4
+Animais, iaque, 5
+Animais, boi-almiscarado, 15
+Animais, fura-pau, 8
+Animais, corvo, 5
+Animais, urubu, 5
+Animais, pica-pau, 7
+Animais, tico-tico, 8
+Animais, joão-de-barro, 12
+Animais, suindara, 8
+Animais, corujinha, 9
+Animais, jacaré-açu, 10
+Animais, peixe-boi, 9
+Animais, salmão, 6
+Animais, tilápia, 6
+Animais, bacalhau, 8
+Animais, atum, 4
+Animais, sardinha, 8
+Animais, cavala, 6
+Animais, dourado, 7
+Animais, piranha, 7
+Animais, tambaqui, 8
+Animais, pacu, 4
+Animais, traíra, 6
+Animais, robalo, 6
+Animais, linguado, 8
+Animais, enguia, 6
+Animais, raia, 4
+Animais, peixe-espada, 12
+Animais, baiacu, 6
+Animais, tubarão-lixa, 12
+Animais, tubarão-martelo, 14
+Animais, orca, 4
+Animais, narval, 6
+Animais, beluga, 6
+Animais, lobo-marinho, 12
+Animais, porco-espinho, 13
+Animais, esquilo-terrestre, 16
+Verbos, andar, 5
+Verbos, correr, 6
+Verbos, pular, 5
+Verbos, nadar, 5
+Verbos, brincar, 7
+Verbos, jogar, 5
+Verbos, falar, 5
+Verbos, gritar, 6
+Verbos, sussurrar, 9
+Verbos, cantar, 6
+Verbos, dançar, 6
+Verbos, escrever, 9
+Verbos, ler, 3
+Verbos, desenhar, 8
+Verbos, pintar, 6
+Verbos, estudar, 7
+Verbos, ensinar, 7
+Verbos, aprender, 8
+Verbos, trabalhar, 9
+Verbos, dormir, 6
+Verbos, acordar, 7
+Verbos, comer, 5
+Verbos, beber, 5
+Verbos, cozinhar, 8
+Verbos, limpar, 6
+Verbos, arrumar, 7
+Verbos, consertar, 9
+Verbos, construir, 10
+Verbos, quebrar, 7
+Verbos, abrir, 5
+Verbos, fechar, 6
+Verbos, empurrar, 8
+Verbos, puxar, 5
+Verbos, levantar, 8
+Verbos, sentar, 6
+Verbos, deitar, 6
+Verbos, olhar, 5
+Verbos, ver, 3
+Verbos, observar, 8
+Verbos, imaginar, 8
+Verbos, pensar, 6
+Verbos, acreditar, 10
+Verbos, criar, 5
+Verbos, inventar, 8
+Verbos, planejar, 8
+Verbos, organizar, 9
+Verbos, preparar, 8
+Verbos, esperar, 7
+Verbos, procurar, 8
+Verbos, encontrar, 9
+Verbos, escolher, 8
+Verbos, decidir, 6
+Verbos, visitar, 7
+Verbos, viajar, 6
+Verbos, dirigir, 7
+Verbos, pilotar, 7
+Verbos, voar, 4
+Verbos, caminhar, 8
+Verbos, escalar, 7
+Verbos, deslizar, 8
+Verbos, mergulhar, 9
+Verbos, flutuar, 7
+Verbos, afundar, 7
+Verbos, cortar, 6
+Verbos, costurar, 8
+Verbos, colar, 4
+Verbos, misturar, 8
+Verbos, soprar, 6
+Verbos, cheirar, 7
+Verbos, ouvir, 5
+Verbos, escutar, 7
+Verbos, tocar, 5
+Verbos, sentir, 6
+Verbos, abraçar, 7
+Verbos, beijar, 6
+Verbos, sorrir, 6
+Verbos, chorar, 6
+Verbos, rir, 3
+Verbos, reclamar, 8
+Verbos, agradecer, 10
+Verbos, elogiar, 7
+Verbos, ajudar, 6
+Verbos, salvar, 6
+Verbos, proteger, 8
+Verbos, empilhar, 8
+Verbos, organizar, 9
+Verbos, decorar, 7
+Verbos, iluminar, 8
+Verbos, aquecer, 7
+Verbos, esfriar, 7
+Verbos, derreter, 8
+Verbos, congelar, 8
+Verbos, apagar, 6
+Verbos, acender, 7
+Verbos, medir, 5
+Verbos, pesar, 5
+Verbos, calcular, 8
+Verbos, somar, 5
+Verbos, subtrair, 8
+Verbos, multiplicar, 11
+Verbos, dividir, 7
+Verbos, comparar, 8
+Verbos, ordenar, 7
+Verbos, classificar, 11
+Verbos, arrastar, 7
+Verbos, girar, 5
+Verbos, rodar, 5
+Verbos, virar, 5
+Verbos, dobrar, 6
+Verbos, amarrar, 7
+Verbos, soltar, 6
+Verbos, prender, 7
+Verbos, trancar, 7
+Verbos, destrancar, 10
+Verbos, desligar, 8
+Verbos, ligar, 5
+Verbos, conectar, 8
+Verbos, desligar, 8
+Verbos, configurar, 10
+Verbos, programar, 9
+Verbos, copiar, 6
+Verbos, colar, 4
+Verbos, digitar, 7
+Verbos, deletar, 7
+Verbos, imprimir, 8
+Verbos, fotografar, 11
+Verbos, filmar, 6
+Verbos, gravar, 6
+Verbos, mostrar, 7
+Verbos, apresentar, 10
+Verbos, explicar, 7
+Verbos, demonstrar, 10
+Verbos, questionar, 10
+Verbos, responder, 9
+Verbos, discutir, 8
+Verbos, conversar, 9
+Verbos, debater, 7
+Verbos, anunciar, 8
+Verbos, avisar, 6
+Verbos, informar, 8
+Verbos, relatar, 7
+Verbos, lembrar, 7
+Verbos, esquecer, 8
+Verbos, procurar, 8
+Verbos, esconder, 8
+Verbos, revelar, 7
+Verbos, explorar, 8
+Verbos, descobrir, 9
+Verbos, investigar, 10
+Verbos, examinar, 8
+Verbos, testar, 6
+Verbos, experimentar, 12
+Verbos, verificar, 9
+Verbos, revisar, 7
+Verbos, corrigir, 8
+Verbos, editar, 6
+Verbos, ajustar, 7
+Verbos, melhorar, 8
+Verbos, avançar, 7
+Verbos, recuar, 6
+Verbos, subir, 5
+Verbos, descer, 6
+Verbos, atravessar, 10
+Verbos, ultrapassar, 11
+Verbos, escapar, 7
+Verbos, perseguir, 9
+Verbos, capturar, 8
+Verbos, atacar, 6
+Verbos, defender, 8
+Verbos, vencer, 6
+Verbos, perder, 6
+Verbos, competir, 8
+Verbos, participar, 10
+Verbos, comemorar, 9
+Verbos, festejar, 8
+Verbos, provocar, 8
+Verbos, causar, 6
+Verbos, transformar, 12
+Verbos, modificar, 9
+Verbos, ampliar, 7
+Verbos, reduzir, 7
+Verbos, separar, 7
+Verbos, juntar, 6
+Verbos, combinar, 8
+Verbos, selecionar, 10
+Verbos, curtir, 6
+Verbos, postar, 6
+Verbos, compartilhar, 12
+Verbos, seguir, 6
+Verbos, bloquear, 8
+Verbos, desfazer, 8
+Verbos, construir, 10
+Verbos, fabricar, 8
+Verbos, produzir, 8
+Verbos, cultivar, 8
+Verbos, plantar, 7
+Verbos, colher, 6
+Verbos, regar, 5
+Verbos, podar, 5
+Lugares, escola, 6
+Lugares, hospital, 8
+Lugares, mercado, 7
+Lugares, padaria, 7
+Lugares, farmácia, 8
+Lugares, supermercado, 12
+Lugares, restaurante, 11
+Lugares, lanchonete, 10
+Lugares, cinema, 6
+Lugares, teatro, 6
+Lugares, museu, 5
+Lugares, biblioteca, 10
+Lugares, parque, 6
+Lugares, praça, 5
+Lugares, praia, 5
+Lugares, montanha, 8
+Lugares, floresta, 8
+Lugares, deserto, 7
+Lugares, cachoeira, 9
+Lugares, lago, 4
+Lugares, rio, 3
+Lugares, oceano, 6
+Lugares, cidade, 6
+Lugares, vila, 4
+Lugares, bairro, 6
+Lugares, subúrbio, 7
+Lugares, centro, 6
+Lugares, zona rural, 10
+Lugares, aeroporto, 9
+Lugares, rodoviária, 10
+Lugares, estação, 7
+Lugares, metrô, 5
+Lugares, porto, 5
+Lugares, garagem, 7
+Lugares, oficina, 7
+Lugares, shopping, 8
+Lugares, loja, 4
+Lugares, boutique, 8
+Lugares, academia, 8
+Lugares, estádio, 7
+Lugares, quadra, 6
+Lugares, ginásio, 7
+Lugares, hotel, 5
+Lugares, pousada, 7
+Lugares, resort, 6
+Lugares, camping, 7
+Lugares, castelo, 7
+Lugares, palácio, 7
+Lugares, torre, 5
+Lugares, templo, 6
+Lugares, igreja, 6
+Lugares, catedral, 8
+Lugares, mesquita, 8
+Lugares, sinagoga, 8
+Lugares, cemitério, 9
+Lugares, estacionamento, 14
+Lugares, fábrica, 7
+Lugares, indústria, 9
+Lugares, fazenda, 7
+Lugares, sítio, 5
+Lugares, chácara, 7
+Lugares, rancho, 6
+Lugares, celeiro, 7
+Lugares, estábulo, 8
+Lugares, curral, 6
+Lugares, horta, 5
+Lugares, pomar, 5
+Lugares, jardim, 6
+Lugares, viveiro, 7
+Lugares, zoológico, 9
+Lugares, aquário, 7
+Lugares, laboratório, 11
+Lugares, consultório, 11
+Lugares, escritório, 10
+Lugares, salão, 5
+Lugares, estúdio, 7
+Lugares, galeria, 7
+Lugares, auditório, 9
+Lugares, arena, 5
+Lugares, fábrica, 7
+Lugares, armazém, 7
+Lugares, depósito, 8
+Lugares, banco, 5
+Lugares, lotérica, 8
+Lugares, prefeitura, 10
+Lugares, tribunal, 8
+Lugares, delegacia, 9
+Lugares, quartel, 7
+Lugares, prisão, 6
+Lugares, cadeia, 6
+Lugares, penitenciária, 13
+Lugares, sala, 4
+Lugares, cozinha, 7
+Lugares, banheiro, 8
+Lugares, quarto, 6
+Lugares, varanda, 7
+Lugares, garagem, 7
+Lugares, quintal, 7
+Lugares, porão, 5
+Lugares, sótão, 5
+Lugares, corredor, 7
+Lugares, escada, 6
+Lugares, elevador, 8
+Lugares, telhado, 7
+Lugares, escritório, 10
+Lugares, sala de aula, 11
+Lugares, laboratório, 11
+Lugares, auditório, 9
+Lugares, refeitório, 10
+Lugares, pátio, 5
+Lugares, quadra, 6
+Lugares, ginásio, 7
+Lugares, bosque, 6
+Lugares, trilha, 6
+Lugares, caverna, 7
+Lugares, gruta, 5
+Lugares, vulcão, 6
+Lugares, planície, 8
+Lugares, pântano, 7
+Lugares, savana, 6
+Lugares, tundra, 6
+Lugares, geleira, 7
+Lugares, ilha, 4
+Lugares, península, 9
+Lugares, arquipélago, 11
+Lugares, catarata, 8
+Lugares, cânion, 6
+Lugares, desfiladeiro, 12
+Lugares, vale, 4
+Lugares, colina, 6
+Lugares, serra, 5
+Lugares, pico, 4
+Lugares, acampamento, 11
+Lugares, alojamento, 10
+Lugares, dormitório, 10
+Lugares, cabine, 6
+Lugares, abrigo, 6
+Lugares, refúgio, 6
+Lugares, estalagem, 9
+Lugares, farol, 5
+Lugares, porto, 5
+Lugares, doca, 4
+Lugares, navio, 5
+Lugares, garagem naval, 12
+Lugares, mirante, 7
+Lugares, observatório, 12
+Lugares, planetário, 10
+Lugares, base espacial, 12
+Lugares, estação espacial, 15
+Lugares, laboratório orbital, 18
+Lugares, hangar, 6
+Lugares, pista, 5
+Lugares, torre de controle, 16
+Lugares, aduana, 6
+Lugares, fronteira, 9
+Lugares, embaixada, 9
+Lugares, consulado, 9
+Lugares, praça central, 12
+Lugares, boulevard, 9
+Lugares, avenida, 7
+Lugares, rua, 3
+Lugares, viela, 5
+Lugares, beco, 4
+Lugares, cruzamento, 10
+Lugares, rotatória, 9
+Lugares, túnel, 5
+Lugares, viaduto, 7
+Lugares, ponte, 5
+Lugares, passarela, 9
+Lugares, estação de trem, 14
+Lugares, plataforma, 10
+Lugares, terminal, 8
+Lugares, porto marítimo, 13
+Lugares, cais, 4
+Lugares, fábrica têxtil, 13
+Lugares, mina, 4
+Lugares, pedreira, 8
+Lugares, usina, 5
+Lugares, hidrelétrica, 12
+Lugares, siderúrgica, 11
+Lugares, gráfica, 7
+Lugares, estúdio de TV, 13
+Lugares, emissora, 8
+Lugares, rádio, 5
+Lugares, estação meteorológica, 20
+Lugares, observatório solar, 18
+Lugares, centro comunitário, 17
+Lugares, orfanato, 8
+Lugares, asilo, 5
+Lugares, abrigo infantil, 14
+Lugares, centro esportivo, 15
+Profissões, Médico, 6
+Profissões, Enfermeiro, 10
+Profissões, Professor, 9
+Profissões, Advogado, 8
+Profissões, Engenheiro, 9
+Profissões, Arquiteto, 8
+Profissões, Bombeiro, 8
+Profissões, Carpinteiro, 10
+Profissões, Motorista, 9
+Profissões, Cozinheiro, 9
+Profissões, Garçom, 6
+Profissões, Ator, 4
+Profissões, Atriz, 5
+Profissões, Jornalista, 10
+Profissões, Bibliotecário, 14
+Profissões, Cientista, 9
+Profissões, Astrônomo, 9
+Profissões, Biólogo, 7
+Profissões, Químico, 6
+Profissões, Físico, 6
+Profissões, Psicólogo, 9
+Profissões, Dentista, 8
+Profissões, Farmacêutico, 12
+Profissões, Veterinário, 11
+Profissões, Eletricista, 11
+Profissões, Marceneiro, 10
+Profissões, Pedreiro, 8
+Profissões, Pintor, 6
+Profissões, Cabelereiro, 11
+Profissões, Esteticista, 11
+Profissões, Massagista, 10
+Profissões, Fotógrafo, 9
+Profissões, Cineasta, 8
+Profissões, Designer, 7
+Profissões, Programador, 11
+Profissões, Analista, 8
+Profissões, Desenvolvedor, 13
+Profissões, Técnico, 7
+Profissões, Mecânico, 8
+Profissões, Piloto, 6
+Profissões, Comissário, 10
+Profissões, Marinheiro, 10
+Profissões, Capitão, 7
+Profissões, Soldado, 7
+Profissões, Policial, 8
+Profissões, Delegado, 8
+Profissões, Juiz, 4
+Profissões, Promotor, 8
+Profissões, Fiscal, 6
+Profissões, Correio, 7
+Profissões, Carteiro, 8
+Profissões, Administrador, 13
+Profissões, Contador, 8
+Profissões, Economista, 10
+Profissões, Gestor, 6
+Profissões, Secretário, 9
+Profissões, Recepcionista, 13
+Profissões, Telefonista, 11
+Profissões, Vendedor, 8
+Profissões, Comerciante, 11
+Profissões, Empresário, 10
+Profissões, Empreendedor, 12
+Profissões, Agricultor, 10
+Profissões, Fazendeiro, 10
+Profissões, Pescador, 8
+Profissões, Florista, 8
+Profissões, Frentista, 9
+Profissões, Merendeira, 10
+Profissões, Porteiro, 8
+Profissões, Zelador, 7
+Profissões, Inspetor, 8
+Profissões, Segurança, 9
+Profissões, Vigia, 4
+Profissões, Operador, 8
+Profissões, Operário, 8
+Profissões, Mineiro, 6
+Profissões, Serralheiro, 11
+Profissões, Soldador, 8
+Profissões, Torneiro, 8
+Profissões, Ourives, 7
+Profissões, Joalheiro, 9
+Profissões, Artesão, 7
+Profissões, Costureiro, 10
+Profissões, Estilista, 9
+Profissões, Modelista, 9
+Profissões, Alfaiate, 8
+Profissões, Sapateiro, 9
+Profissões, Padeiro, 7
+Profissões, Confeiteiro, 11
+Profissões, Açougueiro, 10
+Profissões, Queijeiro, 9
+Profissões, Barista, 7
+Profissões, Sommelier, 9
+Profissões, Barman, 6
+Profissões, Copeiro, 7
+Profissões, Diarista, 8
+Profissões, Faxineiro, 9
+Profissões, Jardineiro, 10
+Profissões, Paisagista, 10
+Profissões, Urbanista, 9
+Profissões, Geógrafo, 8
+Profissões, Historiador, 11
+Profissões, Antropólogo, 11
+Profissões, Sociólogo, 9
+Profissões, Filósofo, 8
+Profissões, Teólogo, 7
+Profissões, Padre, 5
+Profissões, Pastor, 6
+Profissões, Missionário, 11
+Profissões, Cantor, 6
+Profissões, Músico, 6
+Profissões, Maestro, 7
+Profissões, Bailarino, 9
+Profissões, Dançarino, 9
+Profissões, Coreógrafo, 10
+Profissões, Escultor, 8
+Profissões, Pintora, 7
+Profissões, Artista, 7
+Profissões, Ilustrador, 10
+Profissões, Editor, 6
+Profissões, Escritor, 8
+Profissões, Poeta, 5
+Profissões, Roteirista, 10
+Profissões, Atendente, 9
+Profissões, Consultor, 8
+Profissões, Treinador, 9
+Profissões, Coach, 5
+Profissões, Psicopedagogo, 13
+Profissões, Pedagogo, 8
+Profissões, Coordenador, 11
+Profissões, Diretor, 7
+Profissões, Reitor, 6
+Profissões, Pesquisador, 11
+Profissões, Inventor, 7
+Profissões, Matemático, 10
+Profissões, Estatístico, 11
+Profissões, Meteorologista, 15
+Profissões, Oceanógrafo, 11
+Profissões, Geólogo, 7
+Profissões, Paleontólogo, 12
+Profissões, Arqueólogo, 10
+Profissões, Astronauta, 10
+Profissões, Controlador, 11
+Profissões, Fiscalizador, 12
+Profissões, Auditor, 7
+Profissões, Banqueiro, 9
+Profissões, Corretor, 8
+Profissões, Investidor, 9
+Profissões, Consultor, 8
+Profissões, Sommelier, 9
+Profissões, Quiropraxista, 13
+Profissões, Radiologista, 13
+Profissões, Paramédico, 9
+Profissões, Socorrista, 10
+Profissões, Enfermeira, 9
+Profissões, Obstetra, 8
+Profissões, Ginecologista, 13
+Profissões, Urologista, 10
+Profissões, Cardiologista, 14
+Profissões, Ortopedista, 11
+Profissões, Dermatologista, 15
+Profissões, Neurologista, 12
+Profissões, Endocrinologista, 16
+Profissões, Fonoaudiólogo, 13
+Profissões, Nutricionista, 13
+Profissões, Terapeuta, 9
+Profissões, Acupunturista, 13
+Profissões, Homeopata, 9
+Profissões, Fitoterapeuta, 14
+Profissões, Baterista, 9
+Profissões, Guitarrista, 11
+Profissões, Violinista, 10
+Profissões, Saxofonista, 11
+Profissões, Trompetista, 11
+Profissões, DJ, 2
+Profissões, Locutor, 7
+Profissões, Apresentador, 12
+Profissões, Influenciador, 13
+Profissões, Youtuber, 8
+Profissões, Streamer, 8
+Profissões, Gamer, 5
+Profissões, Produtor, 8
+Profissões, Técnico, 7
+Profissões, Cenógrafo, 9
+Profissões, Iluminador, 10
+Profissões, Figurinista, 11
+Profissões, Maquiador, 9
+Profissões, Estampador, 10
+Profissões, Ferreiro, 8
+Profissões, Metalúrgico, 11
+Profissões, Vidraceiro, 10
+Profissões, Encadernador, 12
+Profissões, Relojoeiro, 10
+Profissões, Taxista, 7
+Profissões, Motoboy, 7
+Profissões, Caminhoneiro, 12
+Profissões, Entregador, 10
+Profissões, Instrutor, 8
+Profissões, Mediador, 7
+Profissões, Juiz, 4
+Profissões, Árbitro, 6
+Profissões, Atleta, 6
+Profissões, Personal, 8
+Profissões, Bombeiro, 8
+Profissões, Guarda, 6
+Profissões, Detetive, 8
+Profissões, Investigador, 11
+Profissões, Técnico, 7
+Profissões, Almoxarife, 10
+Profissões, Estoquista, 10
+Profissões, Logístico, 8
+Profissões, Cobrador, 8
+Profissões, Operador, 8
+Profissões, Digitador, 9
+Profissões, Diagramador, 11
+Profissões, Publicitário, 12
+Profissões, Marketeiro, 10
+Profissões, Social media, 11
+Profissões, Tradutor, 8
+Profissões, Intérprete, 10
+Profissões, Diplomata, 9
+Profissões, Embaixador, 10
+Profissões, Consul, 5
+Profissões, Arremessador, 12
+Profissões, Pescador, 8
+Profissões, Treinador, 9
+Profissões, Monitor, 7
+Profissões, Educador, 8
+Profissões, Cuidador, 8
+Profissões, Babá, 4
+Profissões, Governanta, 10
+Profissões, Mordomo, 7
+Profissões, Passeador, 9
+Profissões, Dog walker, 9
+Profissões, Adestrador, 10
+Profissões, Criador, 7
+Profissões, Apicultor, 9
+Profissões, Zootecnista, 12
+Comida, Arroz, 5
+Comida, Feijão, 6
+Comida, Macarrão, 8
+Comida, Lasanha, 7
+Comida, Pizza, 5
+Comida, Hambúrguer, 10
+Comida, Sanduíche, 9
+Comida, Salada, 6
+Comida, Sopa, 4
+Comida, Caldo, 5
+Comida, Bolo, 4
+Comida, Pudim, 5
+Comida, Sorvete, 7
+Comida, Gelatina, 8
+Comida, Chocolate, 9
+Comida, Brigadeiro, 10
+Comida, Coxinha, 7
+Comida, Pastel, 6
+Comida, Quibe, 5
+Comida, Empada, 6
+Comida, Esfiha, 6
+Comida, Torta, 5
+Comida, Panqueca, 8
+Comida, Crepe, 5
+Comida, Tapioca, 7
+Comida, Pão, 3
+Comida, Torrada, 7
+Comida, Baguete, 7
+Comida, Croissant, 9
+Comida, Donut, 5
+Comida, Cupcake, 7
+Comida, Muffin, 6
+Comida, Brownie, 7
+Comida, Waffle, 6
+Comida, Omelete, 7
+Comida, Ovos fritos, 10
+Comida, Ovos mexidos, 12
+Comida, Carne, 5
+Comida, Frango, 6
+Comida, Peixe, 5
+Comida, Camarão, 7
+Comida, Lula, 4
+Comida, Polvo, 5
+Comida, Bacalhau, 8
+Comida, Sushi, 5
+Comida, Sashimi, 7
+Comida, Temaki, 6
+Comida, Ramen, 5
+Comida, Yakisoba, 8
+Comida, Nhoque, 6
+Comida, Risoto, 6
+Comida, Purê, 4
+Comida, Batata frita, 12
+Comida, Batata cozida, 13
+Comida, Batata assada, 13
+Comida, Mandioca frita, 14
+Comida, Farofa, 6
+Comida, Cuscuz, 6
+Comida, Polenta, 7
+Comida, Tacos, 5
+Comida, Burrito, 7
+Comida, Nachos, 6
+Comida, Guacamole, 9
+Comida, Chilli, 6
+Comida, Arepa, 5
+Comida, Feijoada, 8
+Comida, Moqueca, 7
+Comida, Vatapá, 6
+Comida, Acarajé, 7
+Comida, Tacacá, 6
+Comida, Pato no tucupi, 14
+Comida, Baião de dois, 12
+Comida, Galinhada, 9
+Comida, Estrogonofe, 11
+Comida, Carne assada, 11
+Comida, Costela, 7
+Comida, Churrasco, 9
+Comida, Rabada, 6
+Comida, Dobradinha, 10
+Comida, Picadinho, 9
+Comida, Almôndega, 9
+Comida, Kafta, 5
+Comida, Tartar, 6
+Comida, Ceviche, 7
+Comida, Falafel, 7
+Comida, Hummus, 6
+Comida, Shawarma, 8
+Comida, Kebab, 5
+Comida, Curry, 5
+Comida, Paneer, 6
+Comida, Tikka masala, 11
+Comida, Naan, 4
+Comida, Samosa, 6
+Comida, Biryani, 7
+Comida, Paella, 6
+Comida, Goulash, 7
+Comida, Schnitzel, 9
+Comida, Fondue, 6
+Comida, Ratatouille, 11
+Comida, Croquete, 8
+Comida, Medalhão, 8
+Comida, Filet mignon, 12
+Comida, Filé de frango, 14
+Comida, Yakitori, 8
+Comida, Curry japonês, 13
+Comida, Takoyaki, 8
+Comida, Oniguiri, 8
+Comida, Kimchi, 6
+Comida, Bibimbap, 8
+Comida, Bulgogi, 7
+Comida, Hot dog, 7
+Comida, Cachorro-quente, 14
+Comida, Hambúrguer vegano, 16
+Comida, Pizza marguerita, 15
+Comida, Pizza calabresa, 14
+Comida, Pizza portuguesa, 15
+Comida, Escondidinho, 12
+Comida, Panetone, 8
+Comida, Chocotone, 9
+Comida, Rocambole, 9
+Comida, Quindim, 7
+Comida, Manjar, 6
+Comida, Pamonha, 7
+Comida, Curau, 5
+Comida, Canjica, 7
+Comida, Mingau, 6
+Comida, Arroz doce, 9
+Comida, Maria mole, 10
+Comida, Pé de moleque, 13
+Comida, Cocada, 6
+Comida, Beijinho, 8
+Comida, Cajuzinho, 9
+Comida, Biscoito, 8
+Comida, Bolacha, 7
+Comida, Torrone, 7
+Comida, Bala, 4
+Comida, Pirulito, 8
+Comida, Caramelo, 8
+Comida, Mashmallow, 11
+Comida, Paçoca, 6
+Comida, Pipoca, 6
+Comida, Amendoim, 8
+Comida, Castanha, 8
+Comida, Nozes, 5
+Comida, Avelã, 5
+Comida, Pistache, 8
+Comida, Fruta, 5
+Comida, Maçã, 3
+Comida, Banana, 6
+Comida, Melancia, 8
+Comida, Abacaxi, 7
+Comida, Manga, 5
+Comida, Uva, 3
+Comida, Pera, 4
+Comida, Morango, 7
+Comida, Amora, 5
+Comida, Goiaba, 6
+Comida, Kiwi, 4
+Comida, Laranja, 7
+Comida, Limão, 5
+Comida, Acerola, 7
+Comida, Abacate, 7
+Comida, Coco, 4
+Comida, Maracujá, 8
+Comida, Jabuticaba, 10
+Comida, Pêssego, 7
+Comida, Tâmara, 6
+Comida, Figo, 4
+Comida, Ameixa, 6
+Comida, Caqui, 4
+Comida, Mamão, 5
+Comida, Romã, 4
+Comida, Graviola, 8
+Comida, Jaca, 4
+Comida, Carambola, 9
+Comida, Pitaya, 6
+Comida, Cupuaçu, 7
+Comida, Açaí, 4
+Comida, Aipim, 5
+Comida, Inhame, 6
+Comida, Batata-doce, 11
+Comida, Mandioquinha, 13
+Comida, Espinafre, 9
+Comida, Brócolis, 8
+Comida, Cenoura, 7
+Comida, Abobrinha, 10
+Comida, Abóbora, 7
+Comida, Tomate, 6
+Comida, Pepino, 6
+Comida, Alface, 6
+Comida, Rúcula, 6
+Comida, Agrião, 6
+Comida, Beterraba, 9
+Comida, Chuchu, 6
+Comida, Cebola, 6
+Comida, Alho, 4
+Comida, Gengibre, 8
+Comida, Salsa, 5
+Comida, Coentro, 7
+Comida, Orégano, 7
+Comida, Manjericão, 10
+Comida, Louro, 5
+Comida, Açafrão, 7
+Comida, Páprica, 6
+Comida, Pimenta, 7
+Comida, Molho, 5
+Comida, Maionese, 8
+Comida, Ketchup, 7
+Comida, Mostarda, 8
+Comida, Vinagrete, 9
+Comida, Chimichurri, 11
+Comida, Barbecue, 8
+Transportes, carro, 5
+Transportes, moto, 4
+Transportes, bicicleta, 9
+Transportes, ônibus, 5
+Transportes, caminhão, 8
+Transportes, trem, 4
+Transportes, metrô, 5
+Transportes, avião, 5
+Transportes, helicóptero, 12
+Transportes, barco, 5
+Transportes, navio, 5
+Transportes, submarino, 9
+Transportes, foguete, 7
+Transportes, patinete, 8
+Transportes, skate, 5
+Transportes, trator, 6
+Transportes, quadriciclo, 11
+Transportes, jet ski, 6
+Transportes, lancha, 6
+Transportes, veleiro, 7
+Transportes, balão, 5
+Transportes, asa-delta, 8
+Transportes, paramotor, 9
+Transportes, paraglider, 10
+Transportes, charrete, 8
+Transportes, carroça, 7
+Transportes, buggy, 5
+Transportes, limousine, 9
+Transportes, táxi, 4
+Transportes, bonde, 5
+Transportes, van, 3
+Transportes, caminhonete, 11
+Transportes, carreta, 7
+Transportes, cavalo, 6
+Transportes, jegue, 5
+Transportes, camelo, 6
+Transportes, elefante, 8
+Transportes, trenó, 5
+Transportes, reboque, 7
+Transportes, carretilha, 10
+Transportes, monotrilho, 10
+Transportes, funicular, 9
+Transportes, teleférico, 10
+Transportes, bondinho, 8
+Transportes, buggy, 5
+Transportes, hoverboard, 10
+Transportes, segway, 6
+Transportes, motoneta, 8
+Transportes, caminhão-cegonha, 15
+Transportes, caminhão-baú, 11
+Transportes, caminhão-tanque, 14
+Transportes, ambulância, 10
+Transportes, viatura, 7
+Transportes, guincho, 6
+Transportes, blindado, 8
+Transportes, quadriciclo, 11
+Transportes, triciclo, 8
+Transportes, patins, 6
+Transportes, caiaque, 6
+Transportes, canoa, 5
+Transportes, jangada, 7
+Transportes, veleiro, 7
+Transportes, catamarã, 8
+Transportes, escuna, 6
+Transportes, iate, 4
+Transportes, ferryboat, 9
+Transportes, submarino, 9
+Transportes, navete, 6
+Transportes, cápsula espacial, 15
+Transportes, ônibus espacial, 14
+Transportes, módulo lunar, 12
+Transportes, rover, 5
+Transportes, planador, 8
+Transportes, ultraleve, 9
+Transportes, girocóptero, 11
+Transportes, drone, 5
+Transportes, quadricóptero, 12
+Transportes, locomotiva, 10
+Transportes, vagão, 5
+Transportes, dresina, 7
+Transportes, carrinho de golfe, 16
+Transportes, carrinho de mão, 14
+Transportes, empilhadeira, 12
+Transportes, empilhador, 10
+Transportes, guindaste, 9
+Transportes, escavadeira, 11
+Transportes, retroescavadeira, 15
+Transportes, trator agrícola, 14
+Transportes, minibuggy, 9
+Transportes, minivan, 7
+Transportes, micro-ônibus, 11
+Transportes, scooter, 7
+Transportes, cavalinho, 9
+Transportes, trenó puxado, 12
+Transportes, monotrem, 8
+Transportes, trotinete, 9
+Transportes, triciclo elétrico, 16
+Transportes, carro elétrico, 13
+Transportes, caminhão elétrico, 16
+Transportes, patinete elétrico, 17
+Transportes, bicicleta elétrica, 17
+Transportes, metrô leve, 10
+Transportes, ônibus articulado, 17
+Transportes, ônibus biarticulado, 19
+Transportes, táxi aéreo, 9
+Transportes, helicóptero particular, 20
+Transportes, planador motorizado, 19
+Transportes, autogiro, 8
+Transportes, hidroavião, 10
+Transportes, snowmobile, 10
+Transportes, trenó motorizado, 16
+Transportes, bicicleta tandem, 15
+Transportes, bicicleta reclinada, 18
+Transportes, buggy de areia, 14
+Transportes, kart, 4
+Transportes, carro de corrida, 15
+Transportes, fórmula 1, 9
+Transportes, carro de rally, 14
+Transportes, monster truck, 12
+Transportes, quadriciclo esportivo, 20
+Transportes, sidecar esportivo, 18
+Transportes, tanque de guerra, 15
+Transportes, jipe, 4
+Transportes, veículo anfíbio, 15
+Transportes, bote inflável, 13
+Transportes, lancha rápida, 13
+Transportes, barco a vela, 13
+Transportes, cargueiro, 8
+Transportes, petroleiro, 10
+Transportes, rebocador, 9
+Transportes, navio-cruzeiro, 14
+Transportes, navio-escola, 12
+Transportes, catamarã rápido, 15
+Transportes, ônibus turístico, 15
+Transportes, miniônibus, 10
+Transportes, tuk-tuk, 6
+Transportes, riquixá, 7
+Transportes, charrete fechada, 15
+Transportes, carroça aberta, 14
+Transportes, carro-forte, 10
+Transportes, carro pipa, 9
+Transportes, caminhão de lixo, 16
+Transportes, caminhão de bombeiro, 20
+Transportes, food truck, 10
+Transportes, caminhão guincho, 15
+Transportes, caminhão frigorífico, 19
+Transportes, ambulância aérea, 15
+Transportes, helicóptero de resgate, 20
+Transportes, moto aquática, 12
+Transportes, bote salva-vidas, 16
+Transportes, bote de pesca, 12
+Transportes, canoa havaiana, 13
+Transportes, prancha de surf, 15
+Transportes, prancha de bodyboard, 20
+Transportes, prancha de stand-up, 18
+Transportes, cavalo de montaria, 17
+Transportes, camelo de carga, 15
+Transportes, mula de carga, 12
+Transportes, burro de tração, 14
+Transportes, trenó de cães, 12
+Transportes, patinete dobrável, 18
+Transportes, skate elétrico, 14
+Transportes, monociclo elétrico, 18
+Transportes, monociclo, 9
+Transportes, veículo solar, 12
+Transportes, carro híbrido, 12
+Transportes, automóvel, 8
+Transportes, buggy elétrico, 14
+Transportes, tuk-tuk elétrico, 17
+Transportes, quadriciclo infantil, 18
+Transportes, mini-trator, 10
+Transportes, robô entregador, 15
+Transportes, drone cargueiro, 14
+Transportes, cápsula hyperloop, 15
+Transportes, trem-bala, 8
+Transportes, maglev, 6
+Transportes, aerobarco, 9
+Transportes, hovercraft, 10
+Transportes, snowcat, 7
+Transportes, esqui, 4
+Transportes, snowboard, 9
+Transportes, teleférico turístico, 19
+Transportes, gôndola, 7
+Transportes, bote a remo, 10
+Transportes, bote rígido, 11
+Transportes, prancha de windsurf, 18
+Transportes, jetsurf, 7
+Transportes, jetsprint, 9
+Transportes, trike motorizado, 17
+Transportes, paramotor decola-pé, 18
+Transportes, parapente, 9
+Transportes, asa rígida, 9
+Transportes, asa flexível, 12
+Transportes, motoplanador, 12
+Transportes, dirigível, 9
+Transportes, zepelim, 7
+Natureza, sol, 3
+Natureza, lua, 3
+Natureza, estrela, 7
+Natureza, planeta, 7
+Natureza, nuvem, 5
+Natureza, chuva, 5
+Natureza, vento, 5
+Natureza, raio, 4
+Natureza, trovão, 6
+Natureza, relâmpago, 9
+Natureza, neblina, 7
+Natureza, neve, 4
+Natureza, granizo, 7
+Natureza, orvalho, 7
+Natureza, arco-íris, 8
+Natureza, montanha, 8
+Natureza, vale, 4
+Natureza, colina, 6
+Natureza, planície, 8
+Natureza, deserto, 7
+Natureza, floresta, 8
+Natureza, selva, 5
+Natureza, pântano, 7
+Natureza, lago, 4
+Natureza, lagoa, 5
+Natureza, rio, 3
+Natureza, riacho, 6
+Natureza, cachoeira, 9
+Natureza, oceano, 6
+Natureza, mar, 3
+Natureza, baía, 4
+Natureza, recife, 6
+Natureza, ilha, 4
+Natureza, arquipélago, 11
+Natureza, caverna, 6
+Natureza, gruta, 5
+Natureza, duna, 4
+Natureza, cânion, 6
+Natureza, penhasco, 8
+Natureza, falésia, 7
+Natureza, geleira, 7
+Natureza, iceberg, 7
+Natureza, vulcão, 6
+Natureza, cratera, 7
+Natureza, nascente, 8
+Natureza, estuário, 8
+Natureza, manguezal, 9
+Natureza, savana, 6
+Natureza, tundra, 6
+Natureza, pradaria, 8
+Natureza, bosque, 6
+Natureza, matagal, 7
+Natureza, selado, 6
+Natureza, brejo, 5
+Natureza, charco, 6
+Natureza, correnteza, 10
+Natureza, maré, 4
+Natureza, onda, 4
+Natureza, maremoto, 8
+Natureza, tsunami, 7
+Natureza, tempestade, 10
+Natureza, furacão, 7
+Natureza, ciclone, 7
+Natureza, tornado, 7
+Natureza, vendaval, 8
+Natureza, brisa, 5
+Natureza, ventania, 8
+Natureza, nuvem-cúmulo, 12
+Natureza, nuvem-estrato, 13
+Natureza, nuvem-cirro, 11
+Natureza, atmosfera, 9
+Natureza, estratosfera, 12
+Natureza, ionosfera, 9
+Natureza, litosfera, 9
+Natureza, biosfera, 8
+Natureza, hidrosfera, 10
+Natureza, estalactite, 11
+Natureza, estalagmite, 11
+Natureza, rocha, 5
+Natureza, pedregulho, 10
+Natureza, areia, 5
+Natureza, barro, 5
+Natureza, argila, 6
+Natureza, grão, 4
+Natureza, solo, 4
+Natureza, húmus, 5
+Natureza, terra, 5
+Natureza, barro, 5
+Natureza, lama, 4
+Natureza, poeira, 6
+Natureza, fumaça, 6
+Natureza, bruma, 5
+Natureza, horizonte, 9
+Natureza, aurora, 6
+Natureza, crepúsculo, 10
+Natureza, pôr-do-sol, 8
+Natureza, nascer-do-sol, 13
+Natureza, noite, 5
+Natureza, dia, 3
+Natureza, amanhecer, 9
+Natureza, anoitecer, 9
+Natureza, eclipse, 7
+Natureza, constelação, 12
+Natureza, galáxia, 6
+Natureza, nebulosa, 8
+Natureza, cometa, 6
+Natureza, asteroide, 9
+Natureza, meteoro, 7
+Natureza, meteorito, 10
+Natureza, poeira estelar, 13
+Natureza, cinturão, 8
+Natureza, mar profundo, 12
+Natureza, zona abissal, 11
+Natureza, corrente oceânica, 18
+Natureza, mar coralino, 12
+Natureza, platô, 4
+Natureza, rochedo, 7
+Natureza, crista, 6
+Natureza, nascente, 8
+Natureza, afluente, 8
+Natureza, delta, 5
+Natureza, foz, 3
+Natureza, cabeceira, 9
+Natureza, leito, 4
+Natureza, barranco, 8
+Natureza, península, 9
+Natureza, istmo, 5
+Natureza, cordilheira, 11
+Natureza, serra, 5
+Natureza, encosta, 7
+Natureza, sopé, 4
+Natureza, planalto, 8
+Natureza, chapada, 7
+Natureza, chaparral, 8
+Natureza, caatinga, 8
+Natureza, pantanal, 8
+Natureza, cerrado, 7
+Natureza, mata atlântica, 13
+Natureza, amazônia, 8
+Natureza, campo, 5
+Natureza, brejo, 5
+Natureza, marisma, 7
+Natureza, dunas móveis, 11
+Natureza, tempestade solar, 15
+Natureza, aurora boreal, 13
+Natureza, aurora austral, 14
+Natureza, poço, 4
+Natureza, fumarola, 8
+Natureza, gêiser, 6
+Natureza, fonte termal, 12
+Natureza, campo magnético, 16
+Natureza, placa tectônica, 15
+Natureza, falha geológica, 15
+Natureza, terremoto, 9
+Natureza, abalo, 5
+Natureza, avalanche, 8
+Natureza, deslizamento, 12
+Natureza, erosão, 6
+Natureza, sedimentação, 12
+Natureza, intemperismo, 12
+Natureza, evaporação, 10
+Natureza, condensação, 11
+Natureza, precipitação, 12
+Natureza, infiltração, 11
+Natureza, transbordo, 10
+Natureza, degelo, 6
+Natureza, geleira, 7
+Natureza, calota polar, 12
+Natureza, estalactite, 11
+Natureza, estalagmite, 11
+Natureza, campo de gelo, 12
+Natureza, tundra ártica, 12
+Natureza, bioma boreal, 12
+Natureza, bioma tropical, 13
+Natureza, bioma temperado, 15
+Natureza, estepes, 7
+Natureza, pradaria, 8
+Natureza, campos inundáveis, 17
+Natureza, restingas, 9
+Natureza, dunas costeiras, 14
+Natureza, brejos, 6
+Natureza, cavernas marinhas, 16
+Natureza, piscinas naturais, 16
+Natureza, cânions estreitos, 15
+Natureza, paredões, 8
+Natureza, abismos, 7
+Natureza, torres de rocha, 14
+Natureza, montes, 6
+Natureza, morro, 5
+Natureza, ravina, 6
+Natureza, vala, 4
+Natureza, cume, 4
+Natureza, pico, 4
+Natureza, sereno, 6
+Natureza, geada, 5
+Natureza, friagem, 7
+Natureza, calor, 5
+Natureza, braseiro, 8
+Natureza, fogo, 4
+Natureza, chama, 5
+Natureza, brasas, 6
+Natureza, cinzas, 6
+Natureza, fuligem, 7
+Natureza, fósforo natural, 15
+Natureza, musgo, 5
+Natureza, líquen, 6
+Natureza, raiz, 4
+Natureza, tronco, 6
+Natureza, galho, 5
+Natureza, folha, 5
+Natureza, pétala, 6
+Natureza, polén, 5
+Natureza, semente, 7
+Natureza, broto, 5
+Natureza, arbusto, 7
+Natureza, árvore, 6
+Natureza, pinheiro, 8
+Natureza, carvalho, 7
+Natureza, eucalipto, 9
+Natureza, bambu, 5
+Natureza, cipó, 4
+Natureza, trepadeira, 10
+Natureza, flor, 4
+Natureza, rosa, 4
+Natureza, lírio, 5
+Natureza, orquídea, 8
+Natureza, girassol, 8
+Natureza, margarida, 9
+Natureza, violeta, 7
+Natureza, dente-de-leão, 13
+Natureza, samambaia, 9
+Natureza, cacto, 5
+Natureza, suculenta, 9
+Tecnologia, computador, 9
+Tecnologia, celular, 7
+Tecnologia, tablet, 6
+Tecnologia, notebook, 8
+Tecnologia, smartphone, 10
+Tecnologia, impressora, 10
+Tecnologia, scanner, 7
+Tecnologia, monitor, 7
+Tecnologia, teclado, 7
+Tecnologia, mouse, 5
+Tecnologia, webcam, 6
+Tecnologia, roteador, 8
+Tecnologia, modem, 5
+Tecnologia, servidor, 8
+Tecnologia, pendrive, 8
+Tecnologia, hd externo, 10
+Tecnologia, ssd, 3
+Tecnologia, cabo usb, 7
+Tecnologia, antena, 6
+Tecnologia, wi-fi, 4
+Tecnologia, bluetooth, 9
+Tecnologia, chip, 4
+Tecnologia, placa-mãe, 8
+Tecnologia, processador, 11
+Tecnologia, memória ram, 10
+Tecnologia, placa de vídeo, 14
+Tecnologia, cooler, 6
+Tecnologia, gabinete, 8
+Tecnologia, fonte, 5
+Tecnologia, projetor, 8
+Tecnologia, caixa de som, 11
+Tecnologia, fone de ouvido, 14
+Tecnologia, headset, 7
+Tecnologia, microfone, 10
+Tecnologia, câmera digital, 14
+Tecnologia, câmera 4k, 9
+Tecnologia, drone, 5
+Tecnologia, smartwatch, 10
+Tecnologia, relógio digital, 15
+Tecnologia, televisão, 9
+Tecnologia, tv led, 6
+Tecnologia, tv oled, 7
+Tecnologia, tv 4k, 5
+Tecnologia, smart tv, 8
+Tecnologia, controle remoto, 15
+Tecnologia, console, 7
+Tecnologia, joystick, 8
+Tecnologia, videogame, 9
+Tecnologia, xbox, 4
+Tecnologia, playstation, 11
+Tecnologia, nintendo, 8
+Tecnologia, gamepad, 7
+Tecnologia, óculos vr, 8
+Tecnologia, realidade virtual, 17
+Tecnologia, realidade aumentada, 18
+Tecnologia, inteligência artificial, 22
+Tecnologia, robô, 4
+Tecnologia, robótica, 8
+Tecnologia, android, 7
+Tecnologia, sistema operacional, 18
+Tecnologia, software, 8
+Tecnologia, hardware, 8
+Tecnologia, aplicativo, 10
+Tecnologia, app, 3
+Tecnologia, navegador, 9
+Tecnologia, site, 4
+Tecnologia, plataforma, 10
+Tecnologia, algoritmo, 9
+Tecnologia, banco de dados, 14
+Tecnologia, programação, 12
+Tecnologia, código, 6
+Tecnologia, html, 4
+Tecnologia, css, 3
+Tecnologia, javascript, 10
+Tecnologia, python, 6
+Tecnologia, java, 4
+Tecnologia, rede social, 11
+Tecnologia, e-mail, 5
+Tecnologia, login, 5
+Tecnologia, senha, 5
+Tecnologia, firewall, 8
+Tecnologia, antivírus, 9
+Tecnologia, vpn, 3
+Tecnologia, criptografia, 12
+Tecnologia, nuvem, 5
+Tecnologia, armazenamento, 14
+Tecnologia, backup, 6
+Tecnologia, streaming, 9
+Tecnologia, podcast, 7
+Tecnologia, vídeo online, 12
+Tecnologia, chamada de vídeo, 16
+Tecnologia, mensagem de voz, 16
+Tecnologia, chatbot, 7
+Tecnologia, automação, 9
+Tecnologia, internet, 8
+Tecnologia, fibra óptica, 11
+Tecnologia, satélite, 8
+Tecnologia, sensor, 6
+Tecnologia, microchip, 9
+Tecnologia, circuito, 8
+Tecnologia, placa de som, 11
+Tecnologia, placa lógica, 11
+Tecnologia, hdmi, 4
+Tecnologia, vga, 3
+Tecnologia, ethernet, 8
+Tecnologia, cabo de rede, 11
+Tecnologia, bateria, 7
+Tecnologia, carregador, 10
+Tecnologia, powerbank, 9
+Tecnologia, tomada inteligente, 18
+Tecnologia, lâmpada inteligente, 19
+Tecnologia, alexa, 5
+Tecnologia, assistente virtual, 17
+Tecnologia, impressora 3d, 13
+Tecnologia, scanner 3d, 11
+Tecnologia, cnc, 3
+Tecnologia, cortadora laser, 14
+Tecnologia, fresadora, 9
+Tecnologia, plotter, 7
+Tecnologia, drone agrícola, 13
+Tecnologia, drone de corrida, 14
+Tecnologia, gps, 3
+Tecnologia, geolocalização, 15
+Tecnologia, cartão de memória, 16
+Tecnologia, leitor biométrico, 16
+Tecnologia, reconhecimento facial, 19
+Tecnologia, holograma, 8
+Tecnologia, display, 7
+Tecnologia, led, 3
+Tecnologia, oled, 4
+Tecnologia, lcd, 3
+Tecnologia, touch screen, 12
+Tecnologia, touchpad, 8
+Tecnologia, trackpad, 8
+Tecnologia, notebook gamer, 13
+Tecnologia, pc gamer, 8
+Tecnologia, placa de captura, 16
+Tecnologia, stream deck, 11
+Tecnologia, mixer de áudio, 14
+Tecnologia, sintetizador, 12
+Tecnologia, mesa de som, 10
+Tecnologia, microcontrolador, 15
+Tecnologia, arduino, 7
+Tecnologia, raspberry pi, 12
+Tecnologia, esp32, 4
+Tecnologia, servo motor, 11
+Tecnologia, motor de passo, 14
+Tecnologia, sensor ultrassônico, 17
+Tecnologia, sensor infravermelho, 18
+Tecnologia, giroscópio, 10
+Tecnologia, acelerômetro, 13
+Tecnologia, magnetômetro, 13
+Tecnologia, dronestação, 11
+Tecnologia, turbina, 7
+Tecnologia, painel solar, 11
+Tecnologia, energia solar, 12
+Tecnologia, bateria solar, 13
+Tecnologia, célula fotovoltaica, 17
+Tecnologia, estação meteorológica, 21
+Tecnologia, estação base, 12
+Tecnologia, roteamento, 10
+Tecnologia, automóvel elétrico, 17
+Tecnologia, carro autônomo, 13
+Tecnologia, ônibus elétrico, 14
+Tecnologia, bicicleta elétrica, 17
+Tecnologia, patinete elétrico, 18
+Tecnologia, scooter elétrica, 16
+Tecnologia, drone delivery, 13
+Tecnologia, exoesqueleto, 11
+Tecnologia, impressora térmica, 17
+Tecnologia, câmera de segurança, 18
+Tecnologia, sirene eletrônica, 16
+Tecnologia, trena digital, 12
+Tecnologia, medidor laser, 12
+Tecnologia, osciloscópio, 12
+Tecnologia, multímetro, 10
+Tecnologia, protoboard, 10
+Tecnologia, cabo jumper, 10
+Tecnologia, rele, 4
+Tecnologia, transistor, 10
+Tecnologia, resistor, 8
+Tecnologia, capacitor, 9
+Tecnologia, indutor, 7
+Tecnologia, diodo, 5
+Tecnologia, led rgb, 6
+Tecnologia, câmera térmica, 14
+Tecnologia, termovisor, 10
+Tecnologia, drone subaquático, 17
+Tecnologia, tablet gráfico, 14
+Tecnologia, mesa digitalizadora, 18
+Tecnologia, stylus, 6
+Tecnologia, leitor de cartão, 15
+Tecnologia, máquina de cartão, 17
+Tecnologia, caixa eletrônico, 15
+Tecnologia, terminal de pagamento, 19
+Tecnologia, smartwatch infantil, 18
+Tecnologia, fone bluetooth, 14
+Tecnologia, hub usb, 7
+Tecnologia, switch de rede, 13
+Tecnologia, servidor em nuvem, 15
+Tecnologia, datacenter, 10
+Tecnologia, supercomputador, 15
+Tecnologia, cluster, 7
+Tecnologia, rede neural, 10
+
+
 
 
