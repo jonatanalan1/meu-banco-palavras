@@ -47,7 +47,6 @@ Objetos, ventilador, 10
 Objetos, aspirador, 9
 Objetos, câmera, 6
 Objetos, tripé, 5
-Objetos, mochila, 7
 Objetos, estojo, 6
 Objetos, envelope, 8
 Objetos, impressora, 10
@@ -60,7 +59,6 @@ Objetos, detergente, 10
 Objetos, esponja, 7
 Objetos, sabão, 5
 Objetos, balança, 7
-Objetos, tapete, 6
 Objetos, toalha, 6
 Objetos, sabonete, 8
 Objetos, perfume, 7
@@ -68,8 +66,6 @@ Objetos, escova, 6
 Objetos, pente, 5
 Objetos, secador, 7
 Objetos, chapinha, 8
-Objetos, mochila, 7
-Objetos, capacete, 8
 Objetos, martelo, 7
 Objetos, chaveiro, 8
 Objetos, furadeira, 9
@@ -96,7 +92,6 @@ Objetos, fósforo, 7
 Objetos, isqueiro, 8
 Objetos, carteira, 8
 Objetos, bolsa, 5
-Objetos, relógio, 7
 Objetos, bracelete, 9
 Objetos, anel, 4
 Objetos, colar, 5
@@ -113,17 +108,14 @@ Objetos, calça, 5
 Objetos, bermuda, 7
 Objetos, luva, 4
 Objetos, boné, 4
-Objetos, mochila, 7
 Objetos, guarda-roupa, 12
 Objetos, estante, 7
 Objetos, prateleira, 10
 Objetos, moldura, 7
-Objetos, quadro, 6
 Objetos, retrato, 7
 Objetos, porta, 5
 Objetos, janela, 6
 Objetos, cortina, 7
-Objetos, tapete, 6
 Objetos, vaso, 4
 Objetos, jarro, 5
 Objetos, flor, 4
@@ -134,14 +126,12 @@ Objetos, pá, 1
 Objetos, enxada, 6
 Objetos, carrinho, 8
 Objetos, bicicleta, 9
-Objetos, capacete, 8
 Objetos, skate, 5
 Objetos, patins, 6
 Objetos, bola, 4
 Objetos, rede, 4
 Objetos, apito, 5
 Objetos, uniforme, 8
-Objetos, mochila, 7
 Objetos, bandeja, 7
 Objetos, colher, 6
 Objetos, garfo, 5
@@ -150,12 +140,10 @@ Objetos, tábua, 5
 Objetos, escumadeira, 11
 Objetos, peneira, 7
 Objetos, espremedor, 10
-Objetos, panela, 6
 Objetos, frigideira, 10
 Objetos, chaleira, 8
 Objetos, bule, 4
 Objetos, xícara, 6
-Objetos, copo, 4
 Objetos, taça, 4
 Objetos, cofre, 5
 Objetos, caixa de som, 12
@@ -163,12 +151,9 @@ Objetos, fone, 4
 Objetos, microfone, 10
 Objetos, guitarra, 8
 Objetos, violão, 6
-Objetos, teclado, 7
-Objetos, bateria, 7
 Objetos, flauta, 6
 Objetos, trompete, 8
 Objetos, violino, 7
-Objetos, banco, 5
 Objetos, bilhete, 7
 Objetos, ingresso, 8
 Objetos, mapa, 4
@@ -180,7 +165,6 @@ Objetos, dado, 4
 Objetos, baralho, 7
 Objetos, quebra-cabeça, 13
 Objetos, boneca, 6
-Objetos, carrinho, 8
 Objetos, robô, 4
 Objetos, drone, 5
 Objetos, foguete, 7
@@ -190,10 +174,8 @@ Objetos, globo, 5
 Objetos, planeta, 7
 Objetos, telescópio, 10
 Objetos, microscópio, 12
-Objetos, bússola, 7
 Objetos, cronômetro, 10
 Objetos, calendário, 10
-Objetos, relógio, 7
 Objetos, diário, 6
 Objetos, revista, 7
 Objetos, jornal, 6
@@ -281,7 +263,6 @@ Animais, coiote, 6
 Animais, esquilo-voador, 14
 Animais, castor, 6
 Animais, lontra, 6
-Animais, foca, 4
 Animais, lince, 5
 Animais, guepardo, 8
 Animais, jaguar, 6
@@ -358,17 +339,14 @@ Animais, cutia, 5
 Animais, preá, 4
 Animais, paca, 4
 Animais, tatu-bola, 8
-Animais, ema, 3
 Animais, seriema, 7
 Animais, jacutinga, 9
 Animais, mutum, 5
 Animais, jacu, 4
 Animais, javaporco, 9
-Animais, búfalo, 6
 Animais, carneiro, 8
 Animais, lhama, 5
 Animais, alpaca, 6
-Animais, rena, 4
 Animais, iaque, 5
 Animais, boi-almiscarado, 15
 Animais, fura-pau, 8
@@ -491,7 +469,6 @@ Verbos, ajudar, 6
 Verbos, salvar, 6
 Verbos, proteger, 8
 Verbos, empilhar, 8
-Verbos, organizar, 9
 Verbos, decorar, 7
 Verbos, iluminar, 8
 Verbos, aquecer, 7
@@ -523,11 +500,9 @@ Verbos, destrancar, 10
 Verbos, desligar, 8
 Verbos, ligar, 5
 Verbos, conectar, 8
-Verbos, desligar, 8
 Verbos, configurar, 10
 Verbos, programar, 9
 Verbos, copiar, 6
-Verbos, colar, 4
 Verbos, digitar, 7
 Verbos, deletar, 7
 Verbos, imprimir, 8
@@ -549,7 +524,6 @@ Verbos, informar, 8
 Verbos, relatar, 7
 Verbos, lembrar, 7
 Verbos, esquecer, 8
-Verbos, procurar, 8
 Verbos, esconder, 8
 Verbos, revelar, 7
 Verbos, explorar, 8
@@ -597,7 +571,6 @@ Verbos, compartilhar, 12
 Verbos, seguir, 6
 Verbos, bloquear, 8
 Verbos, desfazer, 8
-Verbos, construir, 10
 Verbos, fabricar, 8
 Verbos, produzir, 8
 Verbos, cultivar, 8
@@ -684,7 +657,6 @@ Lugares, estúdio, 7
 Lugares, galeria, 7
 Lugares, auditório, 9
 Lugares, arena, 5
-Lugares, fábrica, 7
 Lugares, armazém, 7
 Lugares, depósito, 8
 Lugares, banco, 5
@@ -701,7 +673,6 @@ Lugares, cozinha, 7
 Lugares, banheiro, 8
 Lugares, quarto, 6
 Lugares, varanda, 7
-Lugares, garagem, 7
 Lugares, quintal, 7
 Lugares, porão, 5
 Lugares, sótão, 5
@@ -709,14 +680,9 @@ Lugares, corredor, 7
 Lugares, escada, 6
 Lugares, elevador, 8
 Lugares, telhado, 7
-Lugares, escritório, 10
 Lugares, sala de aula, 11
-Lugares, laboratório, 11
-Lugares, auditório, 9
 Lugares, refeitório, 10
 Lugares, pátio, 5
-Lugares, quadra, 6
-Lugares, ginásio, 7
 Lugares, bosque, 6
 Lugares, trilha, 6
 Lugares, caverna, 7
@@ -745,7 +711,6 @@ Lugares, abrigo, 6
 Lugares, refúgio, 6
 Lugares, estalagem, 9
 Lugares, farol, 5
-Lugares, porto, 5
 Lugares, doca, 4
 Lugares, navio, 5
 Lugares, garagem naval, 12
@@ -944,8 +909,6 @@ Profissões, Auditor, 7
 Profissões, Banqueiro, 9
 Profissões, Corretor, 8
 Profissões, Investidor, 9
-Profissões, Consultor, 8
-Profissões, Sommelier, 9
 Profissões, Quiropraxista, 13
 Profissões, Radiologista, 13
 Profissões, Paramédico, 9
@@ -978,7 +941,6 @@ Profissões, Youtuber, 8
 Profissões, Streamer, 8
 Profissões, Gamer, 5
 Profissões, Produtor, 8
-Profissões, Técnico, 7
 Profissões, Cenógrafo, 9
 Profissões, Iluminador, 10
 Profissões, Figurinista, 11
@@ -995,20 +957,16 @@ Profissões, Caminhoneiro, 12
 Profissões, Entregador, 10
 Profissões, Instrutor, 8
 Profissões, Mediador, 7
-Profissões, Juiz, 4
 Profissões, Árbitro, 6
 Profissões, Atleta, 6
 Profissões, Personal, 8
-Profissões, Bombeiro, 8
 Profissões, Guarda, 6
 Profissões, Detetive, 8
 Profissões, Investigador, 11
-Profissões, Técnico, 7
 Profissões, Almoxarife, 10
 Profissões, Estoquista, 10
 Profissões, Logístico, 8
 Profissões, Cobrador, 8
-Profissões, Operador, 8
 Profissões, Digitador, 9
 Profissões, Diagramador, 11
 Profissões, Publicitário, 12
@@ -1020,8 +978,6 @@ Profissões, Diplomata, 9
 Profissões, Embaixador, 10
 Profissões, Consul, 5
 Profissões, Arremessador, 12
-Profissões, Pescador, 8
-Profissões, Treinador, 9
 Profissões, Monitor, 7
 Profissões, Educador, 8
 Profissões, Cuidador, 8
@@ -1290,7 +1246,6 @@ Transportes, monotrilho, 10
 Transportes, funicular, 9
 Transportes, teleférico, 10
 Transportes, bondinho, 8
-Transportes, buggy, 5
 Transportes, hoverboard, 10
 Transportes, segway, 6
 Transportes, motoneta, 8
@@ -1301,18 +1256,15 @@ Transportes, ambulância, 10
 Transportes, viatura, 7
 Transportes, guincho, 6
 Transportes, blindado, 8
-Transportes, quadriciclo, 11
 Transportes, triciclo, 8
 Transportes, patins, 6
 Transportes, caiaque, 6
 Transportes, canoa, 5
 Transportes, jangada, 7
-Transportes, veleiro, 7
 Transportes, catamarã, 8
 Transportes, escuna, 6
 Transportes, iate, 4
 Transportes, ferryboat, 9
-Transportes, submarino, 9
 Transportes, navete, 6
 Transportes, cápsula espacial, 15
 Transportes, ônibus espacial, 14
@@ -1529,7 +1481,6 @@ Natureza, grão, 4
 Natureza, solo, 4
 Natureza, húmus, 5
 Natureza, terra, 5
-Natureza, barro, 5
 Natureza, lama, 4
 Natureza, poeira, 6
 Natureza, fumaça, 6
@@ -1560,7 +1511,6 @@ Natureza, mar coralino, 12
 Natureza, platô, 4
 Natureza, rochedo, 7
 Natureza, crista, 6
-Natureza, nascente, 8
 Natureza, afluente, 8
 Natureza, delta, 5
 Natureza, foz, 3
@@ -1582,7 +1532,6 @@ Natureza, cerrado, 7
 Natureza, mata atlântica, 13
 Natureza, amazônia, 8
 Natureza, campo, 5
-Natureza, brejo, 5
 Natureza, marisma, 7
 Natureza, dunas móveis, 11
 Natureza, tempestade solar, 15
@@ -1608,17 +1557,13 @@ Natureza, precipitação, 12
 Natureza, infiltração, 11
 Natureza, transbordo, 10
 Natureza, degelo, 6
-Natureza, geleira, 7
 Natureza, calota polar, 12
-Natureza, estalactite, 11
-Natureza, estalagmite, 11
 Natureza, campo de gelo, 12
 Natureza, tundra ártica, 12
 Natureza, bioma boreal, 12
 Natureza, bioma tropical, 13
 Natureza, bioma temperado, 15
 Natureza, estepes, 7
-Natureza, pradaria, 8
 Natureza, campos inundáveis, 17
 Natureza, restingas, 9
 Natureza, dunas costeiras, 14
@@ -1879,11 +1824,9 @@ Tecnologia, datacenter, 10
 Tecnologia, supercomputador, 15
 Tecnologia, cluster, 7
 Tecnologia, rede neural, 10
-Verbos, mergulhar, 9
 Verbos, resmungar, 9
 Verbos, arranhar, 8
 Verbos, segurar, 7
-Verbos, virar, 5
 Verbos, sacolejar, 10
 Verbos, roncar, 6
 Verbos, farejar, 7
@@ -1902,17 +1845,11 @@ Verbos, atrapalhar, 10
 Verbos, espionar, 8
 Verbos, rodear, 6
 Verbos, grudar, 6
-Verbos, esfriar, 7
 Verbos, esquentar, 9
-Verbos, digitar, 7
 Verbos, sintonizar, 10
-Verbos, iluminar, 8
-Verbos, congelar, 8
-Verbos, afundar, 7
 Verbos, soprar forte, 11
 Verbos, desembrulhar, 12
 Verbos, destravar, 9
-Verbos, costurar, 8
 Verbos, bordar, 6
 Verbos, raspar, 6
 Verbos, girar devagar, 13
@@ -1928,10 +1865,7 @@ Verbos, ferver, 6
 Verbos, triturar, 8
 Verbos, talhar, 6
 Verbos, projetar, 8
-Verbos, programar, 9
-Verbos, conectar, 8
 Verbos, anexar, 6
-Verbos, comparar, 8
 Verbos, julgar, 6
 Verbos, arrastar, 8
 Verbos, costear, 7
@@ -1943,9 +1877,7 @@ Verbos, dedilhar, 8
 Verbos, estender, 8
 Verbos, fatiar, 6
 Verbos, caminhar rápido, 15
-Verbos, escutar, 7
 Verbos, ronronar, 8
-Verbos, cheirar, 7
 Verbos, fofocar, 7
 Verbos, tombar, 6
 Verbos, encostar, 8
@@ -1964,30 +1896,23 @@ Verbos, inspirar, 8
 Verbos, expirar, 7
 Verbos, treinar, 7
 Verbos, regar, 4
-Verbos, podar, 5
 Verbos, transportar, 11
 Verbos, deslocar, 8
 Verbos, montar, 6
 Verbos, desmontar, 9
 Verbos, revirar, 7
-Verbos, escalar, 7
-Verbos, abraçar, 7
 Objetos, conector, 8
 Objetos, caixa térmica, 12
 Objetos, pochete, 7
-Objetos, telescópio, 10
 Objetos, porta-chaves, 12
 Objetos, lata de tinta, 12
 Objetos, estilete, 8
 Objetos, porta-guardanapo, 15
-Objetos, esponja, 7
 Objetos, biombo, 6
 Objetos, abajur, 6
 Objetos, porta-joias, 11
 Objetos, estojo rígido, 12
-Objetos, violino, 7
 Objetos, tambor, 6
-Objetos, flauta, 6
 Objetos, trombone, 8
 Objetos, porta-lápis, 11
 Objetos, porta-retratos, 14
@@ -1996,7 +1921,6 @@ Objetos, pregador, 8
 Objetos, varal, 5
 Objetos, lona, 4
 Objetos, funil pequeno, 13
-Objetos, prateleira, 10
 Objetos, máquina de costura, 19
 Objetos, jogo de panelas, 16
 Objetos, seringa, 7
@@ -2010,8 +1934,6 @@ Objetos, quadro branco, 12
 Objetos, placar, 6
 Objetos, torno, 5
 Objetos, broca, 5
-Objetos, trena, 5
-Objetos, alicate, 7
 Objetos, máscara de dormir, 17
 Objetos, aquário, 7
 Objetos, globo terrestre, 14
@@ -2020,7 +1942,6 @@ Objetos, bolsa térmica, 12
 Objetos, pincel chato, 11
 Objetos, pincel fino, 10
 Objetos, barraca, 7
-Objetos, lancheira, 9
 Objetos, cantil, 6
 Objetos, cabideiro, 9
 Objetos, porta-copo, 10
@@ -2028,7 +1949,6 @@ Objetos, tripé, 4
 Objetos, estabilizador, 13
 Objetos, alfinete, 8
 Objetos, clipe, 5
-Objetos, peneira, 7
 Objetos, chaleira elétrica, 16
 Objetos, jogo de xícaras, 16
 Objetos, tapete grande, 12
@@ -2036,9 +1956,7 @@ Objetos, pano de prato, 12
 Objetos, porta-sabão, 11
 Objetos, pá de lixo, 9
 Objetos, toalha de rosto, 14
-Objetos, cobertor, 8
 Objetos, luminária, 9
-Objetos, carteira, 8
 Objetos, estojo escolar, 13
 Objetos, despertador, 11
 Objetos, binóculos, 9
@@ -2070,20 +1988,15 @@ Objetos, caneca térmica, 13
 Objetos, quadro de avisos, 15
 Objetos, fruteira, 8
 Objetos, porta-tempero, 13
-Lugares, armazém, 7
 Lugares, vinícola, 8
-Lugares, farol, 5
 Lugares, olaria, 6
 Lugares, barraco, 7
 Lugares, posto avançado, 14
 Lugares, planície, 7
-Lugares, estalagem, 9
 Lugares, reduto, 6
 Lugares, retiro, 6
-Lugares, rancho, 6
 Lugares, subúrbio, 8
 Lugares, distrito, 8
-Lugares, observatório, 12
 Lugares, santuário, 9
 Lugares, abrigo montanhoso, 17
 Lugares, porto velho, 10
@@ -2091,12 +2004,10 @@ Lugares, mercado central, 15
 Lugares, bairro histórico, 14
 Lugares, porto pesqueiro, 15
 Lugares, terraço, 7
-Lugares, castelo, 7
 Lugares, pavilhão, 8
 Lugares, redonda, 7
 Lugares, baía, 4
 Lugares, enseada, 7
-Lugares, península, 9
 Lugares, corredeira, 10
 Lugares, aldeia, 6
 Lugares, hospedaria, 10
@@ -2104,7 +2015,6 @@ Lugares, monastério, 10
 Lugares, acampamento alto, 16
 Lugares, praça principal, 15
 Lugares, barbearia, 9
-Lugares, laboratório, 11
 Lugares, museu interativo, 16
 Lugares, jardim suspenso, 15
 Lugares, horta comunitária, 17
@@ -2121,12 +2031,10 @@ Lugares, rua sem saída, 13
 Lugares, morro, 5
 Lugares, colina alta, 11
 Lugares, estreito, 8
-Lugares, cânion, 6
 Lugares, barranco, 8
 Lugares, borda do lago, 13
 Lugares, trilha serrana, 13
 Lugares, caverninha, 10
-Lugares, gruta, 5
 Lugares, lago cristalino, 15
 Lugares, píer de madeira, 15
 Lugares, mercado rural, 13
@@ -2143,8 +2051,6 @@ Lugares, barragem velha, 14
 Lugares, cabine velha, 11
 Lugares, teatro pequeno, 14
 Lugares, cinema antigo, 13
-Lugares, centro esportivo, 15
-Lugares, arena, 5
 Lugares, pavilhão externo, 16
 Lugares, feirinha local, 13
 Lugares, vila rural, 9
@@ -2159,61 +2065,35 @@ Lugares, parque aquático, 14
 Lugares, pista rural, 10
 Lugares, vila costeira, 12
 Lugares, praça do lago, 13
-Comida, melancia, 8
-Comida, limão, 5
-Comida, jabuticaba, 10
-Comida, maracujá, 8
 Comida, repolho, 7
 Comida, acelga, 6
 Comida, rabanete, 8
-Comida, brócolis, 8
 Comida, couve-flor, 9
-Comida, espinafre, 9
 Comida, palmito, 7
 Comida, ricota, 6
 Comida, parmesão, 8
 Comida, cheddar, 7
-Comida, tapioca, 7
-Comida, pudim, 5
-Comida, brigadeiro, 10
-Comida, cocada, 6
 Comida, rapadura, 8
 Comida, goiabada, 8
 Comida, uva passa, 8
 Comida, maçã verde, 9
 Comida, ameixa seca, 11
 Comida, granulado, 9
-Comida, panetone, 8
-Comida, cuscuz, 6
-Comida, vatapá, 6
-Comida, moqueca, 7
 Comida, filé, 4
 Comida, lombo, 5
-Comida, bacalhau, 8
 Comida, sardinha frita, 14
 Comida, mandioca, 8
 Comida, pastelão, 8
 Comida, ravioli, 7
-Comida, nhoque, 6
-Comida, risoto, 6
-Comida, escondidinho, 12
 Comida, suflê, 5
 Comida, panqueca doce, 13
 Comida, torta salgada, 12
 Comida, bolo de cenoura, 14
-Comida, canjica, 7
-Comida, arroz doce, 9
-Comida, mingau, 6
 Comida, feijão branco, 13
 Comida, lentilha cozida, 15
 Comida, grão-de-bico, 12
 Comida, tabule, 6
 Comida, coalhada, 8
-Comida, quibe, 5
-Comida, esfiha, 6
-Comida, shawarma, 8
-Comida, kebab, 5
-Comida, burrito, 7
 Comida, taco, 4
 Comida, nacho, 5
 Comida, pretzel, 7
@@ -2226,22 +2106,14 @@ Comida, pudim de leite, 14
 Comida, pavê, 4
 Comida, cheesecake, 10
 Comida, alcaçuz, 7
-Comida, castanha, 8
-Comida, nozes, 5
 Comida, amêndoas, 8
-Comida, pistache, 8
-Comida, amendoim, 8
 Comida, pipoca doce, 10
-Comida, biscoito, 8
-Comida, torrada, 7
-Comida, gelatina, 8
 Comida, flan, 4
 Comida, pão de alho, 10
 Comida, salaminho, 9
 Comida, presunto, 8
 Comida, peito de peru, 13
 Comida, salpicão, 8
-Comida, estrogonofe, 11
 Comida, farofa de ovos, 14
 Comida, sopa de legumes, 15
 Comida, caldo verde, 10
@@ -2251,9 +2123,3 @@ Comida, pizza doce, 10
 Comida, hambúrguer artesanal, 20
 Comida, panetone trufado, 17
 Comida, pão de queijo, 12
-
-
-
-
-
-
