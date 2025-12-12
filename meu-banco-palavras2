@@ -295,3 +295,231 @@ Muito difícil,Verbos,normatizar,10,padronizar,regulamentar,regular
 Muito difícil,Verbos,universalizar,13,generalizar,expandir,difundir
 Muito difícil,Verbos,despersonalizar,16,abstrair,neutralizar,afastar
 Muito difícil,Verbos,interseccionar,14,cruzar,relacionar,integrar
+Fácil,Verbos,subir,5,ascender,elevar,erguer
+Fácil,Verbos,descer,6,baixar,diminuir,reduzir
+Fácil,Verbos,esperar,7,aguardar,permanecer,ficar
+Fácil,Verbos,tocar,5,apertar,pressionar,acariciar
+Fácil,Verbos,respirar,8,inspirar,expirar,oxigenar
+Fácil,Verbos,sentir,6,perceber,notar,experimentar
+Fácil,Verbos,imaginar,8,criar,fantasiar,supor
+Fácil,Verbos,observar,8,examinar,vigiar,notar
+Fácil,Verbos,viajar,6,deslocar,percorrer,explorar
+Fácil,Verbos,telefonar,9,ligar,chamar,comunicar
+Médio,Verbos,conectar,8,ligar,associar,integrar
+Médio,Verbos,gerenciar,9,administrar,coordenar,supervisionar
+Médio,Verbos,produzir,8,fabricar,criar,construir
+Médio,Verbos,planejar,8,organizar,programar,estruturar
+Médio,Verbos,melhorar,8,aprimorar,otimizar,ajustar
+Médio,Verbos,modificar,9,alterar,transformar,adaptar
+Médio,Verbos,projetar,8,desenhar,idealizar,construir
+Médio,Verbos,avaliar,7,examinar,verificar,analisar
+Médio,Verbos,comparar,8,contrastar,avaliar,medir
+Difícil,Verbos,elaborar,8,desenvolver,construir,produzir
+Difícil,Verbos,analizar,8,examinar,avaliar,investigar
+Difícil,Verbos,argumentar,9,defender,justificar,sustentar
+Difícil,Verbos,interrelacionar,15,conectar,associar,integrar
+Difícil,Verbos,interpretar,10,compreender,traduzir,analisar
+Difícil,Verbos,sistematizar,12,organizar,estruturar,ordenar
+Difícil,Verbos,contextualizar,14,situar,enquadrar,relacionar
+Muito difícil,Verbos,desenvolver,10,criar,construir,elaborar
+Muito difícil,Verbos,reestruturar,12,organizar,alterar,modificar
+Muito difícil,Verbos,implementer,11,aplicar,executar,operacionalizar
+Muito difícil,Verbos,transdisciplinar,16,integrar,conectar,cruzar
+Muito difícil,Verbos,reinventar,10,modificar,transformar,adaptar
+Fácil,Verbos,acelerar,8,apressar,adiantar,agilizar
+Fácil,Verbos,frear,5,parar,detener,diminuir
+Fácil,Verbos,saltar,6,pular,quicar,erguer
+Fácil,Verbos,rodar,5,girar,voltar,tornear
+Fácil,Verbos,agarrar,7,pegar,segurar,tomar
+Fácil,Verbos,escalar,7,subir,ascender,alcançar
+Fácil,Verbos,caminhar,8,andar,passear,percorrer
+Fácil,Verbos,mergulhar,9,nadar,imergir,submergir
+Fácil,Verbos,navegar,8,remar,dirigir,guiar
+Fácil,Verbos,respaldar,9,apoiar,suportar,auxiliar
+Médio,Verbos,investigar,10,pesquisar,examinar,analisar
+Médio,Verbos,estruturar,10,organizar,construir,planejar
+Médio,Verbos,planejar,8,programar,organizar,estruturar
+Médio,Verbos,aprofundar,10,analisar,detalhar,examinar
+Médio,Verbos,coordernar,9,organizar,alinhar,liderar
+Médio,Verbos,priorizar,9,escolher,focar,ordenar
+Médio,Verbos,otimizar,8,melhorar,refinar,ajustar
+Médio,Verbos,modular,7,ajustar,adaptar,alterar
+Médio,Verbos,organizar,9,estruturar,ordenar,planejar
+Difícil,Verbos,sintetizar,10,resumir,unificar,condensar
+Difícil,Verbos,articular,9,conectar,integrar,relacionar
+Difícil,Verbos,desenvolver,10,criar,produzir,elaborar
+Difícil,Verbos,elaborar,8,desenvolver,produzir,estruturar
+Difícil,Verbos,interpretar,10,analisar,compreender,traduzir
+Difícil,Verbos,problematizar,13,questionar,discutir,analisar
+Difícil,Verbos,contextualizar,14,situar,relacionar,enquadrar
+Difícil,Verbos,sistematizar,12,organizar,ordenar,estruturar
+Muito difícil,Verbos,reestruturar,12,organizar,alterar,modificar
+Muito difícil,Verbos,transdisciplinar,16,integrar,conectar,cruzar
+Muito difícil,Verbos,implementer,11,executar,aplicar,operacionalizar
+Muito difícil,Verbos,reinventar,10,transformar,modificar,adaptar
+Muito difícil,Verbos,epistemologizar,16,fundamentar,teorizar,refletir
+Muito difícil,Verbos,operacionalizar,16,executar,aplicar,implementar
+Muito difícil,Verbos,instrumentalizar,17,equipar,capacitar,adaptar
+Muito difícil,Verbos,ressignificar,13,redefinir,reinterpretar,transformar
+Fácil,Verbos,ajustar,6,adaptar,modificar,alterar
+Fácil,Verbos,alcançar,9,atingir,conseguir,chegar
+Fácil,Verbos,apagar,6,desligar,remover,extinguir
+Fácil,Verbos,apoiar,6,suportar,auxiliar,respaldar
+Fácil,Verbos,apresentar,10,mostrar,expor,demonstrar
+Fácil,Verbos,assinar,6,firmar,ratificar,confirmar
+Fácil,Verbos,atingir,7,alcançar,chegar,conseguir
+Fácil,Verbos,buscar,6,procurar,investigar,explorar
+Fácil,Verbos,celebrar,8,comemorar,festar,parabenizar
+Fácil,Verbos,chegar,6,atingir,acessar,alcançar
+Fácil,Verbos,clicar,6,pressionar,tocar,acionar
+Fácil,Verbos,coletar,7,reunir,agrupar,arrecadar
+Fácil,Verbos,comemorar,9,celebrar,festejar,parabenizar
+Fácil,Verbos,comprar,7,adquirir,obter,conseguir
+Fácil,Verbos,conferir,8,verificar,examinar,checar
+Fácil,Verbos,construir,9,fabricar,erguer,produzir
+Fácil,Verbos,continuar,10,prosseguir,manter,perseverar
+Fácil,Verbos,cozinhar,8,assar,fritar,ferver
+Fácil,Verbos,cortar,6,aparar,dividir,recortar
+Fácil,Verbos,crescer,7,aumentar,expandir,desenvolver
+Fácil,Verbos,criar,5,produzir,fabricar,conceber
+Fácil,Verbos,dar,3,oferecer,entregar,ceder
+Fácil,Verbos,desejar,7,querer,almejar,sonhar
+Fácil,Verbos,digerir,7,processar,assimilar,absorver
+Fácil,Verbos,dirigir,7,conduzir,guiar,controlar
+Fácil,Verbos,dividir,7,separar,partir,distribuir
+Fácil,Verbos,doar,4,entregar,ceder,oferecer
+Fácil,Verbos,editar,6,modificar,alterar,ajustar
+Fácil,Verbos,enviar,6,mandar,remeter,expedir
+Fácil,Verbos,esconder,8,ocultar,camuflar,guardar
+Fácil,Verbos,esperar,7,aguardar,permanecer,ficar
+Fácil,Verbos,estudar,7,aprender,memorizar,revisar
+Fácil,Verbos,examinar,8,analisar,inspecionar,investigar
+Fácil,Verbos,festejar,8,celebrar,comemorar,parabenizar
+Fácil,Verbos,ficar,5,permanecer,estar,continuar
+Fácil,Verbos,fotografar,11,registrar,imortalizar,capturar
+Fácil,Verbos,ganhar,6,obter,receber,conseguir
+Fácil,Verbos,girar,5,rodar,voltar,tornear
+Fácil,Verbos,guardar,7,proteger,conservar,manter
+Fácil,Verbos,haver,5,existir,ocorrer,acontecer
+Fácil,Verbos,imaginar,8,criar,supor,fantasiar
+Fácil,Verbos,iniciar,7,começar,abrir,lançar
+Fácil,Verbos,insistir,8,persistir,perseverar,manter
+Fácil,Verbos,interagir,9,participar,comunicar,conectar
+Fácil,Verbos,jogar,5,brincar,competir,divertir
+Fácil,Verbos,juntar,6,unir,agrupar,combinar
+Fácil,Verbos,lavar,5,limpar,esfregar,enxaguar
+Fácil,Verbos,ler,3,folhear,consultar,estudar
+Fácil,Verbos,lutar,5,batalhar,combater,defender
+Fácil,Verbos,marchar,7,andar,deslocar,perambular
+Fácil,Verbos,mexer,5,movimentar,agitar,remexer
+Fácil,Verbos,misturar,8,combinar,unir,agitar
+Fácil,Verbos,montar,6,construir,fabricar,erguer
+Fácil,Verbos,mover,5,deslocar,transportar,agitar
+Fácil,Verbos,notar,5,perceber,observar,identificar
+Fácil,Verbos,observar,8,examinar,notar,vigiar
+Fácil,Verbos,oferecer,8,doar,entregar,apresentar
+Fácil,Verbos,ouvir,5,escutar,prestar atenção,atentar
+Fácil,Verbos,palpar,6,tocar,sentir,apreender
+Fácil,Verbos,parar,5,frenar,detener,interromper
+Fácil,Verbos,passar,6,transitar,atravessar,mover
+Fácil,Verbos,patrulhar,10,vigiar,monitorar,observar
+Fácil,Verbos,pegar,5,agarrar,segurar,tomar
+Fácil,Verbos,pensar,6,refletir,meditar,considerar
+Fácil,Verbos,planear,7,organizar,programar,planejar
+Fácil,Verbos,pintar,6,desenhar,ilustrar,repintar
+Fácil,Verbos,pular,5,saltar,quicar,erguer
+Fácil,Verbos,procurar,8,buscar,rastrear,investigar
+Fácil,Verbos,produzir,8,fabricar,criar,gerar
+Fácil,Verbos,promover,8,divulgar,impulsionar,estimular
+Fácil,Verbos,proteger,8,guardar,defender,preservar
+Fácil,Verbos,provocar,9,desafiar,estimular,incitar
+Fácil,Verbos,publicar,8,divulgar,lançar,anunciar
+Fácil,Verbos,quebrar,7,partir,danificar,romper
+Fácil,Verbos,questionar,11,indagar,interrogar,desafiar
+Fácil,Verbos,receber,7,aceitar,obter,ganhar
+Fácil,Verbos,registrar,9,documentar,anotar,gravar
+Fácil,Verbos,reparar,7,consertar,restaurar,ajustar
+Fácil,Verbos,responder,9,replicar,contestar,reativar
+Fácil,Verbos,retirar,7,afastar,remover,extrair
+Fácil,Verbos,reunir,6,juntar,agrupar,coletar
+Fácil,Verbos,rodar,5,girar,voltar,tornear
+Fácil,Verbos,romper,6,quebrar,destruir,partir
+Fácil,Verbos,saltar,6,pular,quicar,erguer
+Fácil,Verbos,sentar,6,assentar,acomodar,pousar
+Fácil,Verbos,sorrir,6,rir,gargalhar,satisfeitar
+Fácil,Verbos,suportar,8,aguentar,manter,ajudar
+Fácil,Verbos,surgir,6,aparecer,manifestar,despontar
+Fácil,Verbos,telefonar,9,ligar,chamar,comunicar
+Fácil,Verbos,tocar,5,apertar,pressionar,acariciar
+Fácil,Verbos,tomar,5,pegar,adquirir,receber
+Fácil,Verbos,transportar,12,mover,levar,deslocar
+Fácil,Verbos,viajar,6,percorrer,explorar,deslocar
+Fácil,Verbos,vencer,6,ganhar,superar,conquistar
+Fácil,Verbos,verificar,9,checar,examinar,confirmar
+Fácil,Verbos,vigiar,6,observar,monitorar,controlar
+Fácil,Verbos,comer,5,ingerir,degustar,alimentar
+Fácil,Verbos,beber,5,ingerir,sorver,degustar
+Fácil,Verbos,andar,5,caminhar,passear,deslocar
+Fácil,Verbos,falar,5,dizer,contar,explicar
+Fácil,Verbos,ouvir,5,escutar,prestar atenção,atentar
+Fácil,Verbos,ver,3,observar,notar,examinar
+Fácil,Verbos,dormir,6,cochilar,repousar,descansar
+Fácil,Verbos,correr,6,sprintar,marchar,deslocar
+Fácil,Verbos,pular,5,saltar,quicar,erguer
+Fácil,Verbos,brincar,7,jogar,interagir,divertir
+Fácil,Verbos,rir,3,sorrir,gargalhar,divertir
+Fácil,Verbos,chorar,6,lamentar,soluçar,prantear
+Fácil,Verbos,ler,3,folhear,consultar,estudar
+Fácil,Verbos,escrever,7,redigir,registrar,anotar
+Fácil,Verbos,jogar,5,competir,divertir,brincar
+Fácil,Verbos,gritar,6,chamar,alertar,denunciar
+Fácil,Verbos,sussurrar,9,cochichar,murmurar,falar
+Fácil,Verbos,abrir,4,destrancar,escancarar,iniciar
+Fácil,Verbos,fechar,6,trancar,encerrar,vedar
+Fácil,Verbos,pegar,5,agarrar,segurar,tomar
+Médio,Verbos,organizar,9,ordenar,planejar,estruturar
+Médio,Verbos,planejar,8,programar,estruturar,organizar
+Médio,Verbos,comparar,8,avaliar,contrastar,medir
+Médio,Verbos,resolver,8,solucionar,decidir,concluir
+Médio,Verbos,proteger,8,defender,guardar,preservar
+Médio,Verbos,liderar,7,comandar,orientar,guiar
+Médio,Verbos,seguir,5,acompanhar,obedecer,continuar
+Médio,Verbos,decidir,7,escolher,optar,resolver
+Médio,Verbos,coordenar,9,organizar,alinhar,liderar
+Médio,Verbos,priorizar,9,escolher,hierarquizar,focar
+Médio,Verbos,otimizar,8,melhorar,ajustar,refinar
+Médio,Verbos,mediar,6,interceder,negociar,conciliar
+Médio,Verbos,estruturar,10,organizar,planejar,construir
+Médio,Verbos,transformar,11,modificar,alterar,adaptar
+Médio,Verbos,modificar,9,alterar,mudar,transformar
+Médio,Verbos,adaptar,7,ajustar,alterar,modificar
+Difícil,Verbos,descender,8,baixar,cair,diminuir
+Difícil,Verbos,sintetizar,10,resumir,condensar,unificar
+Difícil,Verbos,contextualizar,14,situar,relacionar,enquadrar
+Difícil,Verbos,argumentar,9,defender,justificar,sustentar
+Difícil,Verbos,questionar,9,indagar,perguntar,desafiar
+Difícil,Verbos,interpretar,10,compreender,traduzir,analisar
+Difícil,Verbos,elaborar,8,desenvolver,criar,estruturar
+Difícil,Verbos,sistematizar,12,organizar,estruturar,ordenar
+Difícil,Verbos,legitimar,9,validar,confirmar,autorizar
+Difícil,Verbos,regulamentar,12,normatizar,controlar,padronizar
+Difícil,Verbos,problematizar,13,questionar,analisar,discutir
+Difícil,Verbos,articular,9,conectar,relacionar,integrar
+Difícil,Verbos,conceituar,9,definir,explicar,enquadrar
+Muito difícil,Verbos,epistemologizar,16,fundamentar,teorizar,refletir
+Muito difícil,Verbos,operacionalizar,16,executar,aplicar,implementar
+Muito difícil,Verbos,instrumentalizar,17,equipar,capacitar,adaptar
+Muito difícil,Verbos,ressignificar,13,reinterpretar,redefinir,transformar
+Muito difícil,Verbos,transversalizar,15,integrar,cruzar,conectar
+Muito difícil,Verbos,descontextualizar,17,isolar,retirar,abstrair
+Muito difícil,Verbos,potencializar,13,ampliar,fortalecer,impulsionar
+Muito difícil,Verbos,institucionalizar,18,formalizar,estabelecer,consolidar
+Muito difícil,Verbos,hierarquizar,12,ordenar,priorizar,classificar
+Muito difícil,Verbos,retroalimentar,14,reforçar,revisar,ajustar
+Muito difícil,Verbos,racionalizar,12,sistematizar,organizar,calcular
+Muito difícil,Verbos,complexificar,13,aprofundar,ampliar,densificar
+Muito difícil,Verbos,parametrizar,12,ajustar,configurar,regular
+Muito difícil,Verbos,normatizar,10,padronizar,regulamentar,regular
+Muito difícil,Verbos,universalizar,13,generalizar,expandir,difundir
+Muito difícil,Verbos,despersonalizar,16,abstrair,neutralizar,afastar
+Muito difícil,Verbos,interseccionar,14,cruzar,relacionar,integrar
