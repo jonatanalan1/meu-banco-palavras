@@ -1,1037 +1,297 @@
-Fácil - Objetos - Mesa - 4 - Cadeira - Banco - Escrivaninha
-Fácil - Objetos - Copo - 4 - Taça - Caneca - Vidro
-Fácil - Objetos - Lápis - 5 - Caneta - Giz - Marcador
-Fácil - Objetos - Livro - 5 - Revista - Caderno - Álbum
-Fácil - Objetos - Janela - 6 - Porta - Vitral - Persiana
-Fácil - Objetos - Bolsa - 5 - Mochila - Carteira - Mala
-Fácil - Objetos - Chave - 5 - Cadeado - Fechadura - Tranca
-Fácil - Objetos - Rádio - 5 - Caixa - Televisor - Som
-Fácil - Objetos - Telefone - 8 - Celular - Rádio - Interfone
-Fácil - Objetos - Cadeira - 7 - Banco - Banqueta - Poltrona
-Fácil - Objetos - Garfo - 5 - Colher - Faca - Espátula
-Fácil - Objetos - Prato - 5 - Tigela - Travessa - Bandeja
-Fácil - Objetos - Pente - 5 - Escova - Grampo - Presilha
-Fácil - Objetos - Lâmpada - 7 - Lanterna - Vela - Holofote
-Fácil - Objetos - Óculos - 6 - Lupa - Binóculo - Máscara
-Fácil - Objetos - Toalha - 6 - Pano - Tecido - Lençol
-Fácil - Objetos - Caixa - 5 - Baú - Estojo - Contêiner
-Fácil - Objetos - Balança - 7 - Régua - Medidor - Termômetro
-Fácil - Objetos - Tesoura - 7 - Estilete - Cortador - Faca
-Fácil - Objetos - Botão - 5 - Zíper - Trava - Fecho
-Médio - Objetos - Martelo - 7 - Chave - Alicate - Marreta
-Médio - Objetos - Lanterna - 8 - Farol - Holofote - Lâmpada
-Médio - Objetos - Mochila - 7 - Bolsa - Cartucheira - Pasta
-Médio - Objetos - Estilete - 8 - Navalha - Faca - Tesoura
-Médio - Objetos - Tesoura - 7 - Estilete - Cortador - Faca
-Médio - Objetos - Trena - 5 - Régua - Nível - Medidor
-Médio - Objetos - Capacete - 8 - Máscara - Boné - Touca
-Médio - Objetos - Tampinha - 8 - Rolha - Tampa - Lacre
-Médio - Objetos - Fechadura - 9 - Cadeado - Tranca - Dobradiça
-Médio - Objetos - Quadro - 6 - Moldura - Tela - Fotografia
-Médio - Objetos - Colher - 6 - Garfo - Espátula - Concha
-Médio - Objetos - Aquecedor - 9 - Fogareiro - Forno - Chaleira
-Médio - Objetos - Extintor - 8 - Mangueira - Hidrante - Alarme
-Médio - Objetos - Almofada - 8 - Travesseiro - Colchão - Manta
-Médio - Objetos - Ventilador - 10 - Abanador - Ar-condicionado - Exaustor
-Médio - Objetos - Jenipapo - 8 - Madeira - Casco - Fibra
-Médio - Objetos - Bandeja - 7 - Travessa - Prato - Tabuleiro
-Médio - Objetos - Panela - 6 - Caçarola - Tacho - Chaleira
-Médio - Objetos - Engrenagem - 10 - Polia - Roldana - Mecanismo
-Médio - Objetos - Perfume - 7 - Essência - Aroma - Colônia
-Difícil - Objetos - Travesseiro - 11 - Almofada - Colchão - Cobertor
-Difícil - Objetos - Aspirador - 9 - Vassoura - Rodo - Esfregão
-Difícil - Objetos - Prancheta - 9 - Pasta - Quadro - Prancha
-Difícil - Objetos - Binóculo - 8 - Monóculo - Luneta - Óculos
-Difícil - Objetos - Maçarico - 8 - Isqueiro - Tocha - Chama
-Difícil - Objetos - Alfinete - 8 - Grampo - Presilha - Pregador
-Difícil - Objetos - Estojo - 6 - Caixa - Embalagem - Cartucho
-Difícil - Objetos - Metrônomo - 9 - Relógio - Timer - Contador
-Difícil - Objetos - Volante - 7 - Manopla - Guidão - Manche
-Difícil - Objetos - Isqueiro - 7 - Fósforo - Tocha - Maçarico
-Difícil - Objetos - Prendedor - 9 - Grampo - Presilha - Clipe
-Difícil - Objetos - Desengripante - 13 - Lubrificante - Graxa - Solvente
-Difícil - Objetos - Broca - 5 - Ponteiro - Cinzel - Escareador
-Difícil - Objetos - Manômetro - 9 - Barômetro - Medidor - Sensor
-Difícil - Objetos - Torquímetro - 11 - Chave - Medidor - Multiplicador
-Difícil - Objetos - Retificador - 11 - Transformador - Inversor - Conversor
-Difícil - Objetos - Resistor - 8 - Capacitor - Diodo - Transistor
-Difícil - Objetos - Serrilhador - 11 - Cortador - Serra - Lixador
-Difícil - Objetos - Manivela - 8 - Volante - Polia - Roldana
-Difícil - Objetos - Engastador - 10 - Grampeador - Prensador - Fixador
-Muito difícil - Objetos - Odorizador - 10 - Aromatizador - Purificador - Umidificador
-Muito difícil - Objetos - Espectrômetro - 13 - Medidor - Detector - Analisador
-Muito difícil - Objetos - Hidrômetro - 9 - Medidor - Contador - Sensor
-Muito difícil - Objetos - Cronógrafo - 10 - Relógio - Temporizador - Timer
-Muito difícil - Objetos - Polimerizador - 13 - Endurecedor - Catalisador - Selante
-Muito difícil - Objetos - Osciloscópio - 11 - Multímetro - Analisador - Medidor
-Muito difícil - Objetos - Caleidoscópio - 13 - Prisma - Lente - Refletor
-Muito difícil - Objetos - Destilador - 10 - Filtro - Purificador - Evaporador
-Muito difícil - Objetos - Termociclador - 13 - Incubadora - Estufa - Processador
-Muito difícil - Objetos - Torrefador - 10 - Forno - Estufa - Aquecedor
-Muito difícil - Objetos - Alambique - 9 - Destilador - Tonel - Barril
-Muito difícil - Objetos - Barômetro - 9 - Higrômetro - Termômetro - Manômetro
-Muito difícil - Objetos - Bureta - 6 - Pipeta - Probeta - Béquer
-Muito difícil - Objetos - Calibrador - 10 - Medidor - Regulador - Ajustador
-Muito difícil - Objetos - Desidratador - 12 - Forno - Estufa - Secador
-Muito difícil - Objetos - Aerógrafo - 9 - Compressor - Bico - Pistola
-Muito difícil - Objetos - Hiposcópio - 10 - Lente - Monóculo - Óptico
-Muito difícil - Objetos - Ebulidor - 8 - Aquecedor - Panela - Fervedor
-Muito difícil - Objetos - Estereoscópio - 13 - Lupa - Binóculo - Microscópio
-Muito difícil - Objetos - Piezômetro - 10 - Sensor - Medidor - Transdutor
-Fácil - Objetos - Vaso - 4 - Jarro - Garrafa - Copo
-Fácil - Objetos - Quadro - 6 - Moldura - Tela - Retrato
-Fácil - Objetos - Estojo - 6 - Caixa - Embalagem - Cartucho
-Fácil - Objetos - Rádio - 5 - Televisor - Som - Caixa
-Fácil - Objetos - Teclado - 7 - Mouse - Monitor - Impressora
-Fácil - Objetos - Mouse - 5 - Teclado - Touchpad - Controle
-Fácil - Objetos - Impressora - 10 - Scanner - Plotter - Copiadora
-Fácil - Objetos - Varal - 5 - Corda - Haste - Suporte
-Fácil - Objetos - Chaleira - 8 - Panela - Cafeteira - Bule
-Fácil - Objetos - Bule - 4 - Chaleira - Garrafa - Caneco
-Fácil - Objetos - Forno - 5 - Fogão - Micro-ondas - Chaleira
-Fácil - Objetos - Fogão - 5 - Forno - Chapa - Cooktop
-Fácil - Objetos - Panela - 6 - Caçarola - Tacho - Frigideira
-Fácil - Objetos - Balde - 5 - Bacia - Caixa - Recipiente
-Fácil - Objetos - Rodo - 4 - Vassoura - Esfregão - Pano
-Fácil - Objetos - Vassoura - 8 - Rodo - Esfregão - Aspirador
-Fácil - Objetos - Pano - 4 - Toalha - Tecido - Flanela
-Fácil - Objetos - Colchão - 7 - Coberta - Almofada - Travesseiro
-Fácil - Objetos - Fone - 4 - Headset - Microfone - Caixa
-Fácil - Objetos - Guarda - 6 - Estante - Armário - Prateleira
-Médio - Objetos - Prancha - 7 - Tábua - Quadro - Painel
-Médio - Objetos - Capacete - 8 - Máscara - Touca - Boné
-Médio - Objetos - Chaveiro - 8 - Pingente - Broche - Medalha
-Médio - Objetos - Broche - 6 - Presilha - Grampo - Botão
-Médio - Objetos - Cassetete - 9 - Tacape - Bastão - Porrete
-Médio - Objetos - Estetoscópio - 13 - Termômetro - Medidor - Sensor
-Médio - Objetos - Gerador - 7 - Motor - Bateria - Turbina
-Médio - Objetos - Transformador - 13 - Conversor - Inversor - Regulador
-Médio - Objetos - Halter - 6 - Peso - Kettlebell - Barra
-Médio - Objetos - Régua - 5 - Trena - Compasso - Esquadro
-Médio - Objetos - Esquadro - 7 - Régua - Triângulo - Compasso
-Médio - Objetos - Poltrona - 8 - Sofá - Banco - Cadeira
-Médio - Objetos - Abajur - 6 - Lâmpada - Lanterna - Holofote
-Médio - Objetos - Cofre - 5 - Caixa - Gaveta - Armário
-Médio - Objetos - Gaveta - 6 - Armário - Porta - Compartimento
-Médio - Objetos - Flanela - 7 - Toalha - Pano - Tecido
-Médio - Objetos - Moringa - 7 - Jarro - Garrafa - Vaso
-Médio - Objetos - Portátil - 8 - Notebook - Tablet - Console
-Médio - Objetos - Carrinho - 8 - Carroça - Vagão - Trolley
-Médio - Objetos - Lapiseira - 9 - Lápis - Caneta - Giz
-Difícil - Objetos - Radiador - 8 - Aquecedor - Trocador - Condensador
-Difícil - Objetos - Condensador - 11 - Radiador - Compressor - Evaporador
-Difícil - Objetos - Escareador - 10 - Broca - Cinzel - Lixador
-Difícil - Objetos - Pulverizador - 12 - Nebulizador - Borrifador - Atomizador
-Difícil - Objetos - Nebulizador - 11 - Pulve­rizador - Atomizador - Vaporizador
-Difícil - Objetos - Mancal - 6 - Rolamento - Bucha - Engaste
-Difícil - Objetos - Engate - 6 - Acoplador - Conector - Suporte
-Difícil - Objetos - Reator - 6 - Transformador - Regulador - Fonte
-Difícil - Objetos - Ressaltador - 11 - Marcador - Caneta - Giz
-Difícil - Objetos - Destilador - 10 - Filtro - Evaporador - Aquecedor
-Difícil - Objetos - Prensa - 6 - Compactador - Amassadeira - Aplanador
-Difícil - Objetos - Aplanador - 10 - Prensa - Lixadeira - Plainadeira
-Difícil - Objetos - Plainadeira - 11 - Lixadeira - Politriz - Desempenadeira
-Difícil - Objetos - Vibrador - 8 - Compactador - Batedor - Compulsor
-Difícil - Objetos - Centrífuga - 10 - Separadora - Extratora - Homogeneizadora
-Difícil - Objetos - Retífica - 8 - Politriz - Lixadeira - Torno
-Difícil - Objetos - Politriz - 8 - Lixadeira - Retífica - Esmeril
-Difícil - Objetos - Esmeril - 7 - Politriz - Retífica - Lixadeira
-Difícil - Objetos - Torquímetro - 11 - Chave - Medidor - Multiplicador
-Difícil - Objetos - Termostato - 10 - Regulador - Medidor - Sensor
-Muito difícil - Objetos - Viscosímetro - 12 - Reômetro - Medidor - Analisador
-Muito difícil - Objetos - Hemocitômetro - 13 - Contador - Sensor - Medidor
-Muito difícil - Objetos - Fotodiodo - 9 - Sensor - Detector - Transdutor
-Muito difícil - Objetos - Piroêmetro - 10 - Termômetro - Termopar - Medidor
-Muito difícil - Objetos - Magnetômetro - 13 - Sensor - Bobina - Medidor
-Muito difícil - Objetos - Esferoscópio - 13 - Lente - Prisma - Monóculo
-Muito difícil - Objetos - Criostato - 9 - Refrigerador - Congelador - Incubadora
-Muito difícil - Objetos - Refratômetro - 13 - Densímetro - Polarímetro - Medidor
-Muito difícil - Objetos - Analisador - 10 - Detector - Sensor - Medidor
-Muito difícil - Objetos - Termocalibrador - 15 - Regulador - Medidor - Sensor
-Muito difícil - Objetos - Colorímetro - 11 - Espectrômetro - Fotômetro - Analisador
-Muito difícil - Objetos - Fotômetro - 8 - Colorímetro - Luxímetro - Medidor
-Muito difícil - Objetos - Luxímetro - 9 - Fotômetro - Medidor - Sensor
-Muito difícil - Objetos - Turbidímetro - 12 - Sensor - Refratômetro - Medidor
-Muito difícil - Objetos - Esfigmomanômetro - 15 - Medidor - Estetoscópio - Sensor
-Muito difícil - Objetos - Termociclador - 13 - Incubadora - Estufa - Processador
-Muito difícil - Objetos - Cronotacógrafo - 14 - Registrador - Sensor - Medidor
-Muito difícil - Objetos - Criodesidratador - 15 - Secador - Estufa - Evaporador
-Muito difícil - Objetos - Magnetocalorímetro - 18 - Espectrômetro - Detector - Medidor
-Muito difícil - Objetos - Micromanipulador - 16 - Pinça - Sonda - Ferramenta
-Fácil - Objetos - Relógio - 7 - Timer - Despertador - Cronômetro
-Fácil - Objetos - Bíblia - 6 - Livro - Revista - Álbum
-Fácil - Objetos - Porta - 5 - Janela - Portão - Batente
-Fácil - Objetos - Vidro - 5 - Cristal - Acrílico - Plástico
-Fácil - Objetos - Boné - 4 - Chapéu - Touca - Viseira
-Fácil - Objetos - Tinta - 5 - Pigmento - Verniz - Solvente
-Fácil - Objetos - Sino - 4 - Campana - Gongo - Alarme
-Fácil - Objetos - Frigideira - 10 - Panela - Chapa - Caçarola
-Fácil - Objetos - Banheira - 8 - Pia - Chuveiro - Duchas
-Fácil - Objetos - Escada - 6 - Degrau - Rampa - Plataforma
-Fácil - Objetos - Porta-retrato - 12 - Moldura - Quadro - Tela
-Fácil - Objetos - Tabuleiro - 9 - Mesa - Bandeja - Prancha
-Fácil - Objetos - Fantoche - 8 - Boneco - Marionete - Máscara
-Fácil - Objetos - Quimono - 7 - Roupa - Túnica - Traje
-Fácil - Objetos - Chupeta - 7 - Mamadeira - Bico - Mordedor
-Fácil - Objetos - Mamadeira - 9 - Garrafa - Copo - Bico
-Fácil - Objetos - Macaco - 6 - Alicate - Alavanca - Suporte
-Fácil - Objetos - Concha - 6 - Colher - Espátula - Pegador
-Fácil - Objetos - Repelente - 9 - Creme - Spray - Pomada
-Fácil - Objetos - Moldura - 7 - Quadro - Tela - Porta-retrato
-Médio - Objetos - Dialeto - 7 - Documento - Texto - Manuscrito
-Médio - Objetos - Pergaminho - 10 - Manuscrito - Carta - Rolo
-Médio - Objetos - Glote - 5 - Aparelho - Dispositivo - Peça
-Médio - Objetos - Barreira - 8 - Muro - Cerca - Portão
-Médio - Objetos - Parafuso - 8 - Prego - Rebite - Porca
-Médio - Objetos - Gipso - 5 - Massa - Argamassa - Concreto
-Médio - Objetos - Resma - 5 - Papel - Pacote - Folha
-Médio - Objetos - Pastilha - 8 - Cápsula - Comprimido - Tablete
-Médio - Objetos - Talher - 6 - Faca - Garfo - Colher
-Médio - Objetos - Borrifador - 10 - Pulverizador - Atomizador - Nebulizador
-Médio - Objetos - Alicate - 7 - Chave - Martelo - Torquês
-Médio - Objetos - Martelo - 7 - Marreta - Trado - Cinzel
-Médio - Objetos - Rebolo - 6 - Lixador - Politriz - Esmeril
-Médio - Objetos - Dosímetro - 9 - Medidor - Sensor - Detector
-Médio - Objetos - Anel - 4 - Pulseira - Colar - Cordão
-Médio - Objetos - Bandeirola - 10 - Bandeira - Placa - Cartaz
-Médio - Objetos - Catraca - 7 - Torniquete - Portão - Tranca
-Médio - Objetos - Diamante - 8 - Cristal - Pedra - Rubi
-Médio - Objetos - Torradeira - 10 - Forno - Chapa - Sanduicheira
-Médio - Objetos - Pipa - 4 - Papagaio - Balão - Brinquedo
-Difícil - Objetos - Mandril - 7 - Fixador - Suporte - Encaixe
-Difícil - Objetos - Copo-medidor - 12 - Béquer - Probeta - Bureta
-Difícil - Objetos - Pluviômetro - 11 - Termômetro - Barômetro - Higrômetro
-Difícil - Objetos - Odômetro - 8 - Contador - Sensor - Cronômetro
-Difícil - Objetos - Pêndulo - 7 - Relógio - Mecanismo - Engrenagem
-Difícil - Objetos - Luxímetro - 9 - Fotômetro - Colorímetro - Sensor
-Difícil - Objetos - Oscilador - 9 - Gerador - Reator - Modulador
-Difícil - Objetos - Válvula - 7 - Registro - Torneira - Adaptador
-Difícil - Objetos - Catalisador - 11 - Reagente - Absorvente - Acelerador
-Difícil - Objetos - Seladora - 8 - Lacradora - Empacotadora - Prensa
-Difícil - Objetos - Cristaleira - 10 - Armário - Estante - Vitrine
-Difícil - Objetos - Anemômetro - 10 - Sensor - Medidor - Barômetro
-Difícil - Objetos - Garateia - 8 - Âncora - Gancho - Haste
-Difícil - Objetos - Prumo - 5 - Nível - Régua - Medidor
-Difícil - Objetos - Decoçadora - 10 - Processadora - Moenda - Extratora
-Difícil - Objetos - Estilógrafo - 11 - Caneta - Marcador - Lapiseira
-Difícil - Objetos - Radiotransmissor - 15 - Rádio - Antena - Receptor
-Difícil - Objetos - Holofote - 8 - Lanterna - Spot - Farol
-Difícil - Objetos - Picador - 7 - Moedor - Triturador - Ralador
-Difícil - Objetos - Ralador - 7 - Triturador - Picador - Moedor
-Muito difícil - Objetos - Espectrofotômetro - 17 - Analisador - Fotômetro - Colorímetro
-Muito difícil - Objetos - Homogeneizador - 13 - Triturador - Misturador - Processador
-Muito difícil - Objetos - Criomicroscópio - 15 - Microscópio - Lente - Sensor
-Muito difícil - Objetos - Eletroímã - 10 - Bobina - Solenóide - Condutor
-Muito difícil - Objetos - Gravímetro - 9 - Sismógrafo - Acelerômetro - Medidor
-Muito difícil - Objetos - Goniómetro - 9 - Transferidor - Esquadro - Régua
-Muito difícil - Objetos - Politropo - 9 - Difusor - Venturi - Modulador
-Muito difícil - Objetos - Termogravador - 14 - Registrador - Sensor - Medidor
-Muito difícil - Objetos - Fotopolimerizador - 16 - Catalisador - Endurecedor - Selador
-Muito difícil - Objetos - Cronotermostato - 15 - Regulador - Sensor - Temporizador
-Muito difícil - Objetos - Refratometria - 13 - Densímetro - Analisador - Espectrômetro
-Muito difícil - Objetos - Autoclave - 9 - Estufa - Esterilizador - Câmara
-Muito difícil - Objetos - Microtomo - 8 - Cortador - Lâmina - Fatiador
-Muito difícil - Objetos - Criosonda - 8 - Detector - Sensor - Lâmina
-Muito difícil - Objetos - Neutroniômetro - 15 - Sensor - Detector - Medidor
-Muito difícil - Objetos - Radiômetro - 9 - Gravímetro - Medidor - Detector
-Muito difícil - Objetos - Hiperscopio - 11 - Monóculo - Lupa - Microscópio
-Muito difícil - Objetos - Termopar - 8 - Termômetro - Sensor - Detector
-Muito difícil - Objetos - Alicerce - 8 - Fundação - Base - Suporte
-Muito difícil - Objetos - Criodinâmica - 12 - Congelador - Câmara - Incubadora
-Fácil - Objetos - Extintor - 8 - Mangueira - Alarme - Sirene
-Fácil - Objetos - Trinco - 6 - Fecho - Cadeado - Tranca
-Fácil - Objetos - Molho - 5 - Temperos - Vinagre - Azeite
-Fácil - Objetos - Sabonete - 8 - Shampoo - Condicionador - Espuma
-Fácil - Objetos - Balão - 5 - Bola - Bexiga - Enfeite
-Fácil - Objetos - Pente - 5 - Escova - Trança - Presilha
-Fácil - Objetos - Palito - 6 - Fósforo - Grampo - Haste
-Fácil - Objetos - Forno - 5 - Fogão - Microondas - Churrasqueira
-Fácil - Objetos - Cinto - 5 - Fivela - Suspensório - Alça
-Fácil - Objetos - Rádio - 5 - Caixa - Amplificador - Vitrola
-Médio - Objetos - Contador - 8 - Relógio - Marcador - Medidor
-Médio - Objetos - Grampeador - 10 - Furador - Clips - Prendedor
-Médio - Objetos - Tripé - 5 - Suporte - Base - Cavalete
-Médio - Objetos - Peneira - 7 - Escorredor - Coador - Filtro
-Médio - Objetos - Medalha - 7 - Troféu - Símbolo - Emblema
-Médio - Objetos - Desodorante - 11 - Perfume - Sabonete - Hidratante
-Médio - Objetos - Cabresto - 8 - Corda - Rédea - Freio
-Médio - Objetos - Capacitor - 9 - Bateria - Resistor - Bobina
-Médio - Objetos - Barril - 6 - Tambo - Pote - Recipiente
-Médio - Objetos - Timbre - 6 - Sino - Gongo - Campainha
-Difícil - Objetos - Estetoscópio - 12 - Termômetro - Otoscópio - Esfigmomanômetro
-Difícil - Objetos - Monóculo - 8 - Óculos - Lente - Binóculo
-Difícil - Objetos - Estopim - 6 - Fósforo - Isqueiro - Pavio
-Difícil - Objetos - Glifo - 5 - Símbolo - Letra - Ícone
-Difícil - Objetos - Alambique - 9 - Destilador - Caldeirão - Tonel
-Difícil - Objetos - Galvanômetro - 12 - Voltímetro - Amperímetro - Osciloscópio
-Difícil - Objetos - Seringa - 7 - Agulha - Frasco - Compressa
-Difícil - Objetos - Polaina - 7 - Faixa - Protetor - Tecido
-Difícil - Objetos - Vitrais - 7 - Janela - Vidro - Painel
-Difícil - Objetos - Escafandro - 10 - Cilindro - Máscara - Traje
-Muito difícil - Objetos - Antena - 6 - Receptor - Sinal - Torre
-Muito difícil - Objetos - Giroscópio - 10 - Bússola - Sensor - Acelerômetro
-Muito difícil - Objetos - Pantógrafo - 10 - Régua - Compasso - Transferidor
-Muito difícil - Objetos - Ampulheta - 9 - Relógio - Cronômetro - Temporizador
-Muito difícil - Objetos - Esquadro - 7 - Régua - Triângulo - Compasso
-Muito difícil - Objetos - Calibrador - 10 - Medidor - Sensor - Escala
-Muito difícil - Objetos - Catavento - 8 - Hélice - Ventoinha - Moinho
-Muito difícil - Objetos - Transceptor - 11 - Rádio - Antena - Modem
-Muito difícil - Objetos - Odômetro - 8 - Velocímetro - Tacômetro - Marcador
-Muito difícil - Objetos - Periscópio - 10 - Lente - Óculos - Binóculo
-Fácil - Objetos - Gaveta - 6 - Armário - Cofre - Porta
-Fácil - Objetos - Toalha - 6 - Pano - Lenço - Manta
-Fácil - Objetos - Tesoura - 7 - Faca - Cortador - Estilete
-Fácil - Objetos - Bússola - 7 - Mapa - Roda - Guia
-Fácil - Objetos - Prato - 5 - Tigela - Bandeja - Travessa
-Fácil - Objetos - Lixeira - 7 - Cesto - Balde - Contêiner
-Fácil - Objetos - Teclado - 7 - Mouse - Tela - Monitor
-Fácil - Objetos - Traves - 6 - Poste - Barra - Rede
-Fácil - Objetos - Pistola - 7 - Arco - Flecha - Estilingue
-Fácil - Objetos - Colher - 6 - Garfo - Faca - Espátula
-Médio - Objetos - Maçarico - 8 - Isqueiro - Tocha - Fósforo
-Médio - Objetos - Serpentina - 10 - Fita - Enfeite - Papel
-Médio - Objetos - Alicate - 7 - Chave - Martelo - Torquês
-Médio - Objetos - Engrenagem - 10 - Roda - Eixo - Polia
-Médio - Objetos - Telemetria - 11 - Sensor - Medidor - Rastreador
-Médio - Objetos - Diapasão - 8 - Tono - Som - Vibrador
-Médio - Objetos - Tridente - 8 - Lança - Espada - Machado
-Médio - Objetos - Capacete - 8 - Máscara - Touca - Elmo
-Médio - Objetos - Gaveteiro - 9 - Armário - Caixa - Estante
-Médio - Objetos - Tanque - 6 - Reservatório - Caixa - Recipiente
-Difícil - Objetos - Ampola - 6 - Frasco - Vidro - Tubo
-Difícil - Objetos - Astrolábio - 10 - Bússola - Sextante - Ruma
-Difícil - Objetos - Bastão - 6 - Vara - Cetro - Lança
-Difícil - Objetos - Cilindro - 8 - Rolo - Tubo - Fuso
-Difícil - Objetos - Plúvio - 6 - Medidor - Régua - Sensor
-Difícil - Objetos - Gradil - 6 - Grade - Cerca - Parede
-Difícil - Objetos - Sifão - 5 - Cano - Válvula - Torneira
-Difícil - Objetos - Manômetro - 9 - Barômetro - Sensor - Indicador
-Difícil - Objetos - Moenda - 6 - Prensa - Amassador - Triturador
-Difícil - Objetos - Arpão - 5 - Lança - Gancho - Flecha
-Muito difícil - Objetos - Panturrilha - 11 - Estribo - Suporte - Alça
-Muito difícil - Objetos - Incensário - 10 - Turíbulo - Caixa - Recipiente
-Muito difícil - Objetos - Inverossímil (OBJ colocou? Removido — NÃO é objeto)  
-Muito difícil - Objetos - Caleidoscópio - 13 - Lente - Prisma - Espelho
-Muito difícil - Objetos - Estroboscópio - 13 - Lâmpada - Flash - Sinalizador
-Muito difícil - Objetos - Barômetro - 9 - Manômetro - Termômetro - Altímetro
-Muito difícil - Objetos - Esticador - 9 - Catraca - Cinta - Gancho
-Muito difícil - Objetos - Torquímetro - 11 - Chave - Catraca - Ferramenta
-Muito difícil - Objetos - Osmômetro - 9 - Sensor - Medidor - Indicador
-Muito difícil - Objetos - Anemômetro - 10 - Ventoinha - Hélice - Catavento
-Fácil - Objetos - Bandeja - 7 - Prato - Travessa - Tabuleiro
-Fácil - Objetos - Escada - 6 - Degrau - Rampa - Banquinho
-Fácil - Objetos - Vela - 4 - Tocha - Lâmpada - Fósforo
-Fácil - Objetos - Fone - 4 - Rádio - Caixinha - Microfone
-Fácil - Objetos - Mapa - 4 - Bússola - Guia - Carta
-Fácil - Objetos - Vidro - 5 - Taça - Copo - Garrafa
-Fácil - Objetos - Chave - 5 - Cadeado - Tranca - Fecho
-Fácil - Objetos - Martelo - 7 - Faca - Estilete - Alicate
-Fácil - Objetos - Lupa - 4 - Óculos - Lente - Binóculo
-Fácil - Objetos - Panela - 6 - Frigideira - Caçarola - Chaleira
-Médio - Objetos - Tinta - 5 - Pincel - Giz - Spray
-Médio - Objetos - Estilete - 8 - Faca - Navalha - Tesoura
-Médio - Objetos - Enxada - 6 - Pá - Foice - Rastelo
-Médio - Objetos - Catraca - 7 - Engrenagem - Polia - Chaveta
-Médio - Objetos - Régua - 5 - Compasso - Esquadro - Transferidor
-Médio - Objetos - Prancheta - 9 - Pasta - Quadro - Suporte
-Médio - Objetos - Suporte - 7 - Tripé - Base - Cavalete
-Médio - Objetos - Funil - 5 - Coador - Filtro - Peneira
-Médio - Objetos - Pulverizador - 12 - Spray - Atomizador - Vaporizador
-Médio - Objetos - Mandril - 7 - Torno - Pinça - Garra
-Difícil - Objetos - Laringoscópio - 13 - Endoscópio - Fibroscópio - Otoscópio
-Difícil - Objetos - Autoclave - 9 - Esterilizador - Câmara - Forno
-Difícil - Objetos - Hidrolisador - 11 - Destilador - Caldeira - Reator
-Difícil - Objetos - Cianômetro - 9 - Colorímetro - Espectro - Medidor
-Difícil - Objetos - Barquinha - 9 - Canoa - Barco - Lancha
-Difícil - Objetos - Câimbra (excluído — não é objeto)  
-Difícil - Objetos - Torneira - 8 - Válvula - Registro - Conector
-Difícil - Objetos - Morsa - 5 - Prensa - Grampo - Torno
-Difícil - Objetos - Condensador - 11 - Evaporador - Radiador - Bobina
-Difícil - Objetos - Amostrador - 10 - Coletor - Sonda - Detector
-Muito difícil - Objetos - Sismógrafo - 11 - Acelerômetro - Sensor - Placa
-Muito difícil - Objetos - Fotômetro - 8 - Colorímetro - Medidor - Espectrômetro
-Muito difícil - Objetos - Magnetômetro - 12 - Bússola - Sensor - Gaussímetro
-Muito difícil - Objetos - Cronógrafo - 11 - Relógio - Temporizador - Contador
-Muito difícil - Objetos - Geodímetro - 10 - Teodolito - Nível - Laser
-Muito difícil - Objetos - Hemocitômetro - 13 - Microscópio - Câmara - Lâmina
-Muito difícil - Objetos - Pirotécnico (removido — não é objeto, é adjetivo/profissão)
-Muito difícil - Objetos - Osciloscópio - 12 - Medidor - Sensor - Telêmetro
-Muito difícil - Objetos - Catetômetro - 10 - Régua - Transferidor - Goniômetro
-Muito difícil - Objetos - Esfigmomanômetro - 17 - Manômetro - Estetoscópio - Medidor
-Fácil - Objetos - Bandeirola - 10 - Bandeira - Flâmula - Sinal
-Fácil - Objetos - Caderno - 7 - Livro - Agenda - Bloco
-Fácil - Objetos - Espelho - 7 - Vidro - Lente - Janela
-Fácil - Objetos - Caixote - 7 - Caixa - Cofre - Baú
-Fácil - Objetos - Lanterna - 8 - Farol - Tocha - Vela
-Fácil - Objetos - Apito - 5 - Sirene - Sinal - Campainha
-Fácil - Objetos - Fivela - 6 - Cinto - Alça - Prendedor
-Fácil - Objetos - Colchão - 7 - Almofada - Travesseiro - Manta
-Fácil - Objetos - Tesoura - 7 - Faca - Cortador - Estilete
-Fácil - Objetos - Frigideira - 10 - Panela - Chapa - Grelha
-
-Médio - Objetos - Extintor - 8 - Sirene - Mangueira - Alarme
-Médio - Objetos - Pistilo - 7 - Pinça - Agulha - Ferramenta
-Médio - Objetos - Mandril - 7 - Torno - Pinça - Grampo
-Médio - Objetos - Graxeira - 8 - Funil - Tubo - Depósito
-Médio - Objetos - Correia - 7 - Cinta - Corda - Fivela
-Médio - Objetos - Prancha - 7 - Tábua - Placa - Painel
-Médio - Objetos - Engate - 6 - Gancho - Trava - Acoplador
-Médio - Objetos - Gotejador - 10 - Bico - Válvula - Dispenser
-Médio - Objetos - Esticador - 9 - Catraca - Cinta - Gancho
-Médio - Objetos - Ladrilho - 8 - Azulejo - Piso - Placa
-
-Difícil - Objetos - Tímpano - 7 - Membrana - Placa - Disco
-Difícil - Objetos - Pavio - 5 - Fósforo - Estopim - Vela
-Difícil - Objetos - Gabarito - 8 - Modelo - Esquadro - Molde
-Difícil - Objetos - Monóculo - 8 - Óculos - Lente - Binóculo
-Difícil - Objetos - Seringa - 7 - Agulha - Frasco - Compressa
-Difícil - Objetos - Pluviômetro - 11 - Medidor - Sensor - Barômetro
-Difícil - Objetos - Molinete - 8 - Carretilha - Bobina - Rolo
-Difícil - Objetos - Calibrador - 10 - Medidor - Sensor - Régua
-Difícil - Objetos - Fole - 4 - Bomba - Soprador - Ventilador
-Difícil - Objetos - Pórtico - 7 - Arco - Estrutura - Moldura
-
-Muito difícil - Objetos - Tensiômetro - 11 - Medidor - Sensor - Manômetro
-Muito difícil - Objetos - Goniômetro - 10 - Esquadro - Transferidor - Régua
-Muito difícil - Objetos - Teodolito - 9 - Nível - Régua - Laser
-Muito difícil - Objetos - Cronômetro - 10 - Timer - Relógio - Contador
-Muito difícil - Objetos - Hemocitômetro - 13 - Microscópio - Lâmina - Câmara
-Muito difícil - Objetos - Anemômetro - 10 - Ventoinha - Hélice - Catavento
-Muito difícil - Objetos - Magnetômetro - 12 - Sensor - Bússola - Medidor
-Muito difícil - Objetos - Catetômetro - 10 - Régua - Esquadro - Medidor
-Muito difícil - Objetos - Pantógrafo - 10 - Régua - Compasso - Transferidor
-Muito difícil - Objetos - Higrômetro - 9 - Sensor - Barômetro - Termômetro
-Fácil - Objetos - Chinelo - 7 - Sapato - Tênis - Sandália
-Fácil - Objetos - Cordão - 6 - Fita - Barbante - Laço
-Fácil - Objetos - Sacola - 6 - Bolsa - Mala - Mochila
-Fácil - Objetos - Almofada - 8 - Travesseiro - Colchão - Manta
-Fácil - Objetos - Jornal - 6 - Revista - Folheto - Livro
-Fácil - Objetos - Fechadura - 9 - Cadeado - Tranca - Ferrolho
-Fácil - Objetos - Caixa - 5 - Baú - Cofre - Estojo
-Fácil - Objetos - Bandeira - 8 - Flâmula - Sinal - Estandarte
-Fácil - Objetos - Recipiente - 10 - Pote - Jarro - Frasco
-Fácil - Objetos - Garrafa - 7 - Vidro - Copo - Cantil
-
-Médio - Objetos - Catraca - 7 - Polia - Engrenagem - Chaveta
-Médio - Objetos - Chaveta - 7 - Pino - Engate - Catraca
-Médio - Objetos - Mandril - 7 - Torno - Garra - Grampo
-Médio - Objetos - Cadarço - 7 - Fita - Cordão - Linha
-Médio - Objetos - Broca - 5 - Ponteiro - Lâmina - Serrote
-Médio - Objetos - Bandeirinha - 11 - Flâmula - Estandarte - Sinal
-Médio - Objetos - Catraca - 7 - Engrenagem - Polia - Trava
-Médio - Objetos - Funil - 5 - Filtro - Peneira - Coador
-Médio - Objetos - Cofre - 5 - Baú - Caixa - Estojo
-Médio - Objetos - Latrina - 7 - Vaso - Pia - Torneira
-
-Difícil - Objetos - Carrossel - 9 - Engrenagem - Roda - Estrutura
-Difícil - Objetos - Moinho - 6 - Ventoinha - Hélice - Catavento
-Difícil - Objetos - Clavícula (excluído — parte do corpo)
-Difícil - Objetos - Gramínea (excluído — planta)
-Difícil - Objetos - Balancim - 8 - Guincho - Pórtico - Polia
-Difícil - Objetos - Estilete - 8 - Navalha - Faca - Tesoura
-Difícil - Objetos - Estirador - 9 - Prancheta - Mesa - Cavalete
-Difícil - Objetos - Odômetro - 8 - Velocímetro - Marcador - Contador
-Difícil - Objetos - Polígrafo - 9 - Sensor - Gravador - Registrador
-Difícil - Objetos - Taquímetro - 9 - Marcador - Tacômetro - Odômetro
-
-Muito difícil - Objetos - Refratômetro - 12 - Lente - Medidor - Sensor
-Muito difícil - Objetos - Oscilador - 8 - Modulador - Gerador - Sinalizador
-Muito difícil - Objetos - Espectrógrafo - 12 - Prisma - Sensor - Fotômetro
-Muito difícil - Objetos - Fotômetro - 8 - Medidor - Colorímetro - Sensor
-Muito difícil - Objetos - Microtomógrafo - 13 - Scanner - Sensor - Câmara
-Muito difícil - Objetos - Cronógrafo - 11 - Temporizador - Contador - Timer
-Muito difícil - Objetos - Polarímetro - 10 - Fotômetro - Sensor - Medidor
-Muito difícil - Objetos - Fluorímetro - 10 - Fotômetro - Detetor - Sensor
-Muito difícil - Objetos - Catadióptrico - 13 - Espelho - Lente - Prisma
-Muito difícil - Objetos - Holografador - 12 - Laser - Scanner - Projetor
-Fácil - Objetos - Balde - 5 - Bacia - Cuba - Recipiente
-Fácil - Objetos - Bandeja - 7 - Travessa - Prato - Tabuleiro
-Fácil - Objetos - Filtro - 6 - Peneira - Coador - Tela
-Fácil - Objetos - Cobertor - 8 - Manta - Edredom - Colcha
-Fácil - Objetos - Cordinha - 8 - Fita - Linha - Barbante
-Fácil - Objetos - Banco - 5 - Cadeira - Banquinho - Sofá
-Fácil - Objetos - Capa - 4 - Manto - Tecido - Forro
-Fácil - Objetos - Prego - 5 - Parafuso - Grampo - Pino
-Fácil - Objetos - Cinto - 5 - Fivela - Suspensório - Correia
-Fácil - Objetos - Vassoura - 8 - Rodo - Escova - Esfregão
-
-Médio - Objetos - Bucha - 5 - Esponja - Pano - Trapo
-Médio - Objetos - Sonda - 5 - Agulha - Tubo - Cateter
-Médio - Objetos - Torno - 5 - Morsa - Grampo - Mandril
-Médio - Objetos - Rabicho - 7 - Cabo - Fio - Extensão
-Médio - Objetos - Puxador - 7 - Maçaneta - Trinco - Fecho
-Médio - Objetos - Conversor - 9 - Adaptador - Modem - Receptor
-Médio - Objetos - Isolador - 8 - Borracha - Vedação - Suporte
-Médio - Objetos - Pantufa - 7 - Chinelo - Sapato - Sandália
-Médio - Objetos - Cantil - 6 - Garrafa - Frasco - Recipiente
-Médio - Objetos - Desfibrador - 11 - Aparelho - Sensor - Monitor
-
-Difícil - Objetos - Reator - 6 - Caldeira - Estufa - Câmara
-Difícil - Objetos - Soprador - 8 - Ventilador - Compressor - Fole
-Difícil - Objetos - Torquímetro - 11 - Medidor - Chave - Catraca
-Difícil - Objetos - Cronoscópio - 11 - Cronômetro - Timer - Registrador
-Difícil - Objetos - Hidroscópio - 10 - Sensor - Medidor - Indicador
-Difícil - Objetos - Enxofrador - 10 - Pulverizador - Atomizador - Vaporizador
-Difícil - Objetos - Polimento - 8 - Lixa - Esmeril - Rebolo
-Difícil - Objetos - Escariador - 10 - Lima - Broca - Ponteiro
-Difícil - Objetos - Estribo - 7 - Suporte - Alça - Correia
-Difícil - Objetos - Passarela - 9 - Ponte - Plataforma - Passagem
-
-Muito difícil - Objetos - Anciloscópio - 12 - Osciloscópio - Medidor - Sensor
-Muito difícil - Objetos - Interferômetro - 13 - Laser - Medidor - Sensor
-Muito difícil - Objetos - Espectrômetro - 12 - Sensor - Prisma - Detector
-Muito difícil - Objetos - Albedômetro - 10 - Sensor - Fotômetro - Medidor
-Muito difícil - Objetos - Piezômetro - 9 - Manômetro - Sensor - Indicador
-Muito difícil - Objetos - Baroscópio - 9 - Barômetro - Sensor - Medidor
-Muito difícil - Objetos - Termorresistor - 13 - Sensor - Termômetro - Medidor
-Muito difícil - Objetos - Magnetocalorímetro - 18 - Sensor - Medidor - Bobina
-Muito difícil - Objetos - Quirógrafo - 10 - Documento - Registro - Papel
-Muito difícil - Objetos - Radiômetro - 9 - Sensor - Medidor - Fotômetro
-Fácil - Objetos - Vaso - 4 - Jarro - Pote - Recipiente
-Fácil - Objetos - Caixa - 5 - Estojo - Cofre - Baú
-Fácil - Objetos - Luva - 4 - Mão - Dedal - Protetor
-Fácil - Objetos - Prancha - 7 - Tábua - Placa - Painel
-Fácil - Objetos - Folha - 5 - Papel - Cartolina - Placa
-Fácil - Objetos - Chaleira - 8 - Panela - Bule - Jarro
-Fácil - Objetos - Almofariz - 9 - Pilão - Tigela - Pote
-Fácil - Objetos - Agulha - 6 - Alfinete - Sonda - Pino
-Fácil - Objetos - Escudo - 6 - Proteção - Metal - Placa
-Fácil - Objetos - Estojo - 6 - Caixa - Compartimento - Case
-
-Médio - Objetos - Mandril - 7 - Torno - Grampo - Garra
-Médio - Objetos - Espátula - 8 - Colher - Faca - Pincel
-Médio - Objetos - Lâmpada - 7 - Luz - Lanterna - Farol
-Médio - Objetos - Catraca - 7 - Engrenagem - Polia - Trava
-Médio - Objetos - Serrote - 7 - Serra - Machado - Lâmina
-Médio - Objetos - Pulverizador - 12 - Spray - Atomizador - Vaporizador
-Médio - Objetos - Disjuntor - 9 - Chave - Interruptor - Fusível
-Médio - Objetos - Estêncil - 7 - Molde - Forma - Gabarito
-Médio - Objetos - Régua - 5 - Esquadro - Compasso - Transferidor
-Médio - Objetos - Catraca - 7 - Engrenagem - Polia - Trava
-
-Difícil - Objetos - Relê - 4 - Chave - Fusível - Contator
-Difícil - Objetos - Condensador - 11 - Evaporador - Radiador - Bobina
-Difícil - Objetos - Evaporímetro - 11 - Sensor - Medidor - Indicador
-Difícil - Objetos - Radiador - 8 - Condensador - Ventilador - Hélice
-Difícil - Objetos - Odógrafo - 8 - Registrador - Marcador - Medidor
-Difícil - Objetos - Calibrador - 10 - Sensor - Medidor - Indicador
-Difícil - Objetos - Retificador - 11 - Conversor - Placa - Controlador
-Difícil - Objetos - Hidratômetro - 11 - Sensor - Medidor - Indicador
-Difícil - Objetos - Aerômetro - 8 - Sensor - Anemômetro - Barômetro
-Difícil - Objetos - Cronoscópio - 11 - Medidor - Temporizador - Registrador
-
-Muito difícil - Objetos - Magnetofômetro - 14 - Sensor - Indutor - Bobina
-Muito difícil - Objetos - Termoanemômetro - 15 - Sensor - Anemômetro - Medidor
-Muito difícil - Objetos - Pirofotômetro - 12 - Fotômetro - Sensor - Receptor
-Muito difícil - Objetos - Termopar - 8 - Sensor - Termômetro - Indicador
-Muito difícil - Objetos - Actinômetro - 10 - Sensor - Fotômetro - Medidor
-Muito difícil - Objetos - Microdensitômetro - 16 - Scanner - Fotômetro - Sensor
-Muito difícil - Objetos - Espectrofotômetro - 16 - Fotômetro - Sensor - Prisma
-Muito difícil - Objetos - Catadióptrico - 13 - Espelho - Prisma - Lente
-Muito difícil - Objetos - Radiotelemetro - 13 - Medidor - Radar - Sensor
-Muito difícil - Objetos - Magnetômetro - 12 - Sensor - Medidor - Bússola
-Fácil - Objetos - Regador - 7 - Mangueira - Baldinho - Pulverizador
-Fácil - Objetos - Cabine - 6 - Quarto - Sala - Box
-Fácil - Objetos - Bandeja - 7 - Prato - Tabuleiro - Cesta
-Fácil - Objetos - Chaveiro - 8 - Pingente - Carteira - Estojo
-Fácil - Objetos - Espelho - 7 - Vidro - Tela - Janela
-Fácil - Objetos - Abajur - 6 - Lâmpada - Luz - Lanterna
-Fácil - Objetos - Telefone - 8 - Celular - Rádio - Interfone
-Fácil - Objetos - Caixa - 5 - Baú - Estojo - Recipiente
-Fácil - Objetos - Pincel - 6 - Rolo - Esponja - Giz
-Fácil - Objetos - Trena - 5 - Régua - Nível - Compasso
-Fácil - Objetos - Martelo - 7 - Marreta - Chave - Taco
-Fácil - Objetos - Colher - 6 - Garfo - Faca - Concha
-Fácil - Objetos - Garrafa - 7 - Copo - Cantil - Jarra
-Fácil - Objetos - Torneira - 8 - Registro - Chuveiro - Válvula
-Fácil - Objetos - Gaveta - 6 - Prateleira - Nicho - Porta
-Fácil - Objetos - Toalha - 6 - Pano - Manta - Tecido
-Fácil - Objetos - Armadura - 8 - Escudo - Elmo - Peitoral
-Fácil - Objetos - Violino - 7 - Guitarra - Viola - Banjo
-Fácil - Objetos - Corda - 5 - Fio - Cabo - Laço
-Fácil - Objetos - Tambor - 6 - Bateria - Surdo - Caixa
-Fácil - Objetos - Chaleira - 8 - Panela - Caneca - Jarra
-Fácil - Objetos - Lanterna - 8 - Lâmpada - Abajur - Tocha
-Fácil - Objetos - Mochila - 7 - Bolsa - Mala - Pasta
-Fácil - Objetos - Tesoura - 7 - Faca - Cortador - Estilete
-Fácil - Objetos - Guarda - 6 - Fecho - Trava - Cadeado
-Fácil - Objetos - Boné - 4 - Chapéu - Viseira - Touca
-Fácil - Objetos - Sapato - 6 - Tênis - Tamanco - Bota
-Fácil - Objetos - Esponja - 7 - Pano - Bucha - Tecido
-Fácil - Objetos - Tijolo - 6 - Pedra - Bloco - Concreto
-Fácil - Objetos - Prancha - 7 - Tábua - Lâmina - Plataforma
-Fácil - Objetos - Disco - 5 - Roda - CD - Prato
-Fácil - Objetos - Selo - 4 - Etiqueta - Adesivo - Carimbo
-Fácil - Objetos - Tinta - 5 - Verniz - Pigmento - Cor
-Fácil - Objetos - Panela - 6 - Caçarola - Frigideira - Chaleira
-Fácil - Objetos - Antena - 6 - Rádio - Satélite - Receptor
-Fácil - Objetos - Forno - 5 - Fogão - Churrasqueira - Microondas
-Fácil - Objetos - Bengala - 7 - Suporte - Bastão - Vara
-Fácil - Objetos - Guarda-roupa - 12 - Armário - Closet - Estante
-Fácil - Objetos - Tatuagem - 8 - Desenho - Marca - Selo
-Fácil - Objetos - Esteira - 7 - Tapete - Manta - Passadeira
-Fácil - Objetos - Moldura - 7 - Quadro - Porta-retrato - Painel
-
-Médio - Objetos - Extintor - 8 - Mangueira - Alarme - Bomba
-Médio - Objetos - Tripé - 5 - Suporte - Pedestal - Coluna
-Médio - Objetos - Correia - 7 - Cinto - Fivela - Faixa
-Médio - Objetos - Engrenagem - 10 - Roda - Eixo - Polia
-Médio - Objetos - Molinete - 8 - Carretilha - Rolo - Manivela
-Médio - Objetos - Conduíte - 8 - Tubo - Cano - Duto
-Médio - Objetos - Bússola - 7 - Mapa - GPS - Rota
-Médio - Objetos - Portátil - 8 - Notebook - Tablet - Celular
-Médio - Objetos - Reservatório - 12 - Caixa - Tanque - Depósito
-Médio - Objetos - Borracha - 8 - Apagador - Esponja - Pano
-Médio - Objetos - Lacre - 5 - Selo - Tampão - Fecho
-Médio - Objetos - Cilindro - 8 - Tubo - Rolo - Tanque
-Médio - Objetos - Escultura - 9 - Estátua - Arte - Figura
-Médio - Objetos - Alavanca - 8 - Manivela - Haste - Barra
-Médio - Objetos - Jumelo - 6 - Binóculo - Luneta - Óculos
-Médio - Objetos - Galão - 5 - Recipiente - Garrafa - Botijão
-Médio - Objetos - Dobradiça - 9 - Pino - Trava - Encaixe
-Médio - Objetos - Fechadura - 9 - Cadeado - Trava - Chaveiro
-Médio - Objetos - Aspirador - 9 - Vassoura - Panela - Esfregão
-Médio - Objetos - Disjuntor - 9 - Interruptor - Relé - Fusível
-Médio - Objetos - Reator - 6 - Motor - Gerador - Turbina
-Médio - Objetos - Radiador - 8 - Ventoinha - Trocador - Compressor
-Médio - Objetos - Manete - 6 - Alavanca - Controle - Haste
-Médio - Objetos - Painel - 6 - Tela - Quadro - Moldura
-Médio - Objetos - Ferrolho - 8 - Trava - Cadeado - Fecho
-Médio - Objetos - Frasco - 6 - Vidro - Recipiente - Tubo
-Médio - Objetos - Válvula - 7 - Registro - Torneira - Trava
-Médio - Objetos - Densímetro - 10 - Medidor - Barra - Régua
-Médio - Objetos - Difusor - 7 - Ventoinha - Bocais - Saída
-Médio - Objetos - Mandril - 7 - Fixador - Prensa - Suporte
-Médio - Objetos - Filtro - 6 - Tela - Malha - Grade
-Médio - Objetos - Lâmina - 6 - Faca - Navalha - Serra
-Médio - Objetos - Bobina - 6 - Fio - Carretel - Rolo
-Médio - Objetos - Tonel - 5 - Barril - Tacho - Galão
-Médio - Objetos - Retentor - 8 - Vedação - Anel - Borracha
-Médio - Objetos - Refil - 5 - Cartucho - Carga - Componente
-Médio - Objetos - Mordente - 8 - Garra - Pinça - Suporte
-Médio - Objetos - Prisma - 6 - Vidro - Cristal - Lente
-Médio - Objetos - Estêncil - 8 - Molde - Carimbo - Máscara
-Médio - Objetos - Peneira - 7 - Malha - Rede - Coador
-Médio - Objetos - Moeda - 5 - Cédula - Ficha - Medalha
-Médio - Objetos - Plinto - 6 - Base - Suporte - Peanha
-Médio - Objetos - Gancho - 6 - Suporte - Argola - Haste
-
-Difícil - Objetos - Catavento - 9 - Hélice - Ventilador - Bandeirola
-Difícil - Objetos - Odorizador - 10 - Essência - Perfume - Difusor
-Difícil - Objetos - Higrômetro - 10 - Medidor - Sensor - Barômetro
-Difícil - Objetos - Luneta - 6 - Binóculo - Telescópio - Monóculo
-Difícil - Objetos - Monóculo - 8 - Óculos - Lente - Luneta
-Difícil - Objetos - Estojo - 6 - Caixa - Bolsa - Case
-Difícil - Objetos - Tímpano - 7 - Membrana - Placa - Disco
-Difícil - Objetos - Ampulheta - 10 - Relógio - Cronômetro - Temporizador
-Difícil - Objetos - Metronomo - 9 - Relógio - Ritmo - Pêndulo
-Difícil - Objetos - Belfre - 6 - Torre - Sino - Estrutura
-Difícil - Objetos - Canivete - 8 - Faca - Navalha - Ferramenta
-Difícil - Objetos - Catraca - 7 - Engrenagem - Trava - Mecanismo
-Difícil - Objetos - Girândola - 9 - Roda - Engrenagem - Rodete
-Difícil - Objetos - Turíbulo - 8 - Incensário - Recipiente - Cálice
-Difícil - Objetos - Pregador - 8 - Prendedor - Gancho - Braçadeira
-Difícil - Objetos - Rosácea - 7 - Ornamento - Escultura - Relevo
-Difícil - Objetos - Seringa - 7 - Ampola - Agulha - Tubo
-Difícil - Objetos - Cossinete - 9 - Tarraxa - Lima - Ferramenta
-Difícil - Objetos - Agogô - 5 - Sino - Triângulo - Tambor
-Difícil - Objetos - Régua - 5 - Compasso - Trena - Escala
-Difícil - Objetos - Esquadro - 7 - Régua - Gabarito - Compasso
-Difícil - Objetos - Aerofólio - 9 - Asa - Aileron - Defletor
-Difícil - Objetos - Parafuso - 8 - Prego - Porca - Bucha
-Difícil - Objetos - Moringa - 7 - Jarra - Garrafa - Vaso
-Difícil - Objetos - Mandinga - 8 - Amuleto - Talismã - Medalha
-Difícil - Objetos - Lunário - 7 - Almanaque - Calendário - Tábua
-Difícil - Objetos - Astrolábio - 10 - Sextante - Bússola - Medidor
-Difícil - Objetos - Dínamo - 6 - Motor - Gerador - Rotor
-Difícil - Objetos - Flauta - 6 - Oboé - Clarim - Fagote
-Difícil - Objetos - Cavaco - 6 - Violão - Cavaquinho - Banjo
-Difícil - Objetos - Botija - 6 - Vaso - Recipiente - Garrafa
-Difícil - Objetos - Barril - 6 - Tonel - Tacho - Galão
-Difícil - Objetos - Foice - 5 - Faca - Serrote - Machado
-Difícil - Objetos - Torsor - 6 - Eixo - Haste - Braço
-Difícil - Objetos - Bujão - 5 - Botijão - Cilindro - Tanque
-Difícil - Objetos - Pluviógrafo - 11 - Medidor - Sensor - Higrômetro
-Difícil - Objetos - Cupinzeiro - 10 - Montículo - Estrutura - Ninho
-Difícil - Objetos - Parquímetro - 11 - Medidor - Relógio - Painel
-
-Muito difícil - Objetos - Taquígrafo - 10 - Estenógrafo - Registrador - Escriba
-Muito difícil - Objetos - Cilindrómetro - 12 - Medidor - Ferramenta - Escala
-Muito difícil - Objetos - Pantógrafo - 10 - Estêncil - Copiador - Molde
-Muito difícil - Objetos - Calibrador - 10 - Medidor - Paquímetro - Régua
-Muito difícil - Objetos - Hidroscópio - 11 - Medidor - Sensor - Pluviógrafo
-Muito difícil - Objetos - Termômetro - 10 - Barômetro - Higrômetro - Medidor
-Muito difícil - Objetos - Cronômetro - 10 - Relógio - Temporizador - Ampulheta
-Muito difícil - Objetos - Girômetro - 9 - Sensor - Roda - Rotor
-Muito difícil - Objetos - Baioneta - 8 - Lâmina - Faca - Espada
-Muito difícil - Objetos - Plectro - 7 - Palheta - Pua - Ponteira
-Muito difícil - Objetos - Alabarda - 8 - Lança - Machado - Espada
-Muito difícil - Objetos - Arpéu - 5 - Gancho - Haste - Garra
-Muito difícil - Objetos - Mangual - 7 - Porrete - Corrente - Maça
-Muito difícil - Objetos - Hastímetro - 9 - Medidor - Régua - Gabarito
-Muito difícil - Objetos - Selímetro - 8 - Medidor - Escala - Régua
-Muito difícil - Objetos - Clarinete - 9 - Flauta - Oboé - Saxofone
-Muito difícil - Objetos - Carrilhão - 9 - Sino - Campana - Badalo
-Muito difícil - Objetos - Epinétrio - 9 - Vaso - Urna - Recipiente
-Muito difícil - Objetos - Esfíngio - 8 - Escultura - Figura - Estátua
-Muito difícil - Objetos - Sifão - 5 - Tubo - Válvula - Duto
-Fácil - Objetos - Alicate - 7 - Chave - Martelo - Torquês
-Fácil - Objetos - Varal - 5 - Corda - Haste - Suporte
-Fácil - Objetos - Bule - 4 - Jarra - Chaleira - Caneca
-Fácil - Objetos - Cofre - 5 - Caixa - Armário - Gaveta
-Fácil - Objetos - Tocha - 5 - Lanterna - Luz - Abajur
-Fácil - Objetos - Vaso - 4 - Jarro - Recipiente - Taça
-Fácil - Objetos - Balde - 5 - Bacia - Cesto - Caixa
-Fácil - Objetos - Sino - 4 - Campana - Gongo - Placa
-Fácil - Objetos - Lousa - 5 - Quadro - Painel - Tela
-Fácil - Objetos - Globo - 5 - Mapa - Esfera - Terra
-Fácil - Objetos - Aro - 3 - Roda - Anel - Arco
-Fácil - Objetos - Jarro - 5 - Vaso - Garrafa - Taça
-Fácil - Objetos - Trompa - 6 - Trompete - Corneta - Clarim
-Fácil - Objetos - Pente - 5 - Escova - Aparador - Navalha
-Fácil - Objetos - Grelha - 6 - Chapa - Grade - Tela
-Fácil - Objetos - Talher - 6 - Colher - Faca - Garfo
-Fácil - Objetos - Bacia - 5 - Tigela - Balde - Recipiente
-Fácil - Objetos - Tapete - 6 - Manta - Carpete - Esteira
-Fácil - Objetos - Forquilha - 9 - Garfo - Garras - Haste
-Fácil - Objetos - Régua - 5 - Trena - Gabarito - Escala
-
-Médio - Objetos - Estojo - 6 - Caixa - Case - Kit
-Médio - Objetos - Seringa - 7 - Agulha - Ampola - Tubo
-Médio - Objetos - Gabarito - 8 - Molde - Escala - Régua
-Médio - Objetos - Tubulação - 9 - Cano - Duto - Conduto
-Médio - Objetos - Roldana - 7 - Polia - Eixo - Engrenagem
-Médio - Objetos - Rebite - 6 - Parafuso - Pino - Porca
-Médio - Objetos - Toldo - 5 - Cobertura - Lona - Sombrite
-Médio - Objetos - Verniz - 6 - Tinta - Selante - Resina
-Médio - Objetos - Pua - 3 - Broca - Ponta - Agulha
-Médio - Objetos - Compasso - 8 - Régua - Trena - Esquadro
-Médio - Objetos - Chapéu - 6 - Boné - Touca - Capacete
-Médio - Objetos - Triângulo - 9 - Tamborim - Agogô - Pandeiro
-Médio - Objetos - Zíper - 4 - Botão - Fecho - Presilha
-Médio - Objetos - Serpentina - 10 - Fita - Rolo - Cordão
-Médio - Objetos - Tridente - 8 - Lança - Garfo - Haste
-Médio - Objetos - Lorigal - 7 - Malha - Armadura - Tecido
-Médio - Objetos - Gongo - 5 - Sino - Campana - Tambor
-Médio - Objetos - Suporte - 7 - Gancho - Base - Pedestal
-Médio - Objetos - Palheta - 7 - Plectro - Pua - Ponteira
-Médio - Objetos - Lente - 5 - Vidro - Cristal - Ótica
-Médio - Objetos - Redoma - 6 - Vidro - Campânula - Tampa
-Médio - Objetos - Estatueta - 9 - Escultura - Figura - Ícone
-Médio - Objetos - Funil - 5 - Coador - Cone - Tubo
-Médio - Objetos - Feixe - 5 - Haste - Barra - Viga
-Médio - Objetos - Broca - 5 - Bico - Pua - Perfuração
-Médio - Objetos - Mandril - 7 - Fixador - Haste - Suporte
-Médio - Objetos - Tampão - 6 - Lacre - Vedação - Tampa
-Médio - Objetos - Espátula - 8 - Pão-duro - Raspador - Lâmina
-Médio - Objetos - Alforge - 7 - Bolsa - Saco - Mochila
-Médio - Objetos - Cartucho - 8 - Refil - Carga - Toner
-Médio - Objetos - Roseta - 6 - Ornamento - Enfeite - Moldura
-Médio - Objetos - Martelo - 7 - Trado - Torquês - Talhadeira
-Médio - Objetos - Tamborim - 8 - Pandeiro - Agogô - Surdo
-Médio - Objetos - Manivela - 8 - Alavanca - Haste - Barra
-Médio - Objetos - Caldeira - 8 - Forno - Tacho - Tanque
-Médio - Objetos - Catraca - 7 - Engrenagem - Trava - Mecanismo
-Médio - Objetos - Vedação - 7 - Retentor - Anel - Borracha
-Médio - Objetos - Estilete - 8 - Faca - Navalha - Cortador
-Médio - Objetos - Cavalete - 8 - Suporte - Pedestal - Tripé
-Médio - Objetos - Bisnaga - 7 - Tubo - Ampola - Recipiente
-Médio - Objetos - Chassi - 6 - Estrutura - Base - Suporte
-Médio - Objetos - Braseiro - 8 - Forno - Churrasqueira - Chapa
-Médio - Objetos - Morsete - 7 - Presilha - Trava - Grampo
-Médio - Objetos - Anzol - 5 - Gancho - Haste - Ponta
-Médio - Objetos - Compoteira - 10 - Vaso - Taça - Recipiente
-
-Difícil - Objetos - Orifício - 8 - Abertura - Entrada - Fenda
-Difícil - Objetos - Coador - 6 - Filtro - Tela - Malha
-Difícil - Objetos - Enxó - 4 - Formão - Talhadeira - Machado
-Difícil - Objetos - Tarraxa - 7 - Cossinete - Parafuso - Porca
-Difícil - Objetos - Fole - 4 - Sopro - Bolsa - Saco
-Difícil - Objetos - Maçarico - 8 - Tocha - Soldador - Bico
-Difícil - Objetos - Incensário - 10 - Turíbulo - Vaso - Urna
-Difícil - Objetos - Sarrilho - 8 - Guincho - Roldana - Engrenagem
-Difícil - Objetos - Alcova - 6 - Nicho - Recesso - Abrigo
-Difícil - Objetos - Oratório - 8 - Altar - Nicho - Santuário
-Difícil - Objetos - Pederneira - 10 - Isqueiro - Faísca - Chispa
-Difícil - Objetos - Tímpano - 7 - Membrana - Placa - Disco
-Difícil - Objetos - Flâmula - 7 - Bandeira - Estandarte - Insígnia
-Difícil - Objetos - Candelabro - 10 - Castiçal - Suporte - Luminária
-Difícil - Objetos - Canga - 5 - Haste - Suporte - Arco
-Difícil - Objetos - Borla - 5 - Franja - Enfeite - Pompom
-Difícil - Objetos - Penteadeira - 11 - Móvel - Mesa - Espelho
-Difícil - Objetos - Dourado - 7 - Metal - Bronze - Latão
-Difícil - Objetos - Espinhela - 8 - Viga - Trave - Haste
-Difícil - Objetos - Serrote - 7 - Faca - Serra - Machado
-Difícil - Objetos - Ralador - 7 - Faca - Lâmina - Triturador
-Difícil - Objetos - Corômetro - 8 - Relógio - Temporizador - Cronômetro
-Difícil - Objetos - Repuxo - 6 - Fonte - Jato - Bica
-Difícil - Objetos - Gurupés - 7 - Haste - Mastro - Trave
-Difícil - Objetos - Bulbo - 5 - Ampola - Lâmpada - Vidro
-Difícil - Objetos - Cinetoscópio - 12 - Projetor - Filmadora - Câmara
-Difícil - Objetos - Anzol - 5 - Gancho - Pua - Haste
-Difícil - Objetos - Almofariz - 9 - Pilão - Tigela - Recipiente
-Difícil - Objetos - Bureta - 6 - Pipeta - Tubo - Ampola
-Difícil - Objetos - Colombina - 9 - Máscara - Fantasia - Adereço
-Difícil - Objetos - Tafetá - 6 - Tecido - Seda - Lona
-Difícil - Objetos - Aguçada - 7 - Lâmina - Faca - Navalha
-Difícil - Objetos - Entalhe - 7 - Escultura - Relevo - Gravação
-Difícil - Objetos - Cossinete - 9 - Tarraxa - Parafuso - Bucha
-Difícil - Objetos - Raspador - 8 - Lâmina - Espátula - Rodo
-Difícil - Objetos - Gamelão - 7 - Tigela - Recipiente - Prato
-Difícil - Objetos - Teodolito - 9 - Medidor - Nível - Sensor
-Difícil - Objetos - Barquilha - 8 - Concha - Colher - Espátula
-Difícil - Objetos - Fagote - 6 - Clarinete - Oboé - Trompa
-Difícil - Objetos - Trípode - 7 - Tripé - Suporte - Pedestal
-
-Muito difícil - Objetos - Hipocampo - 9 - Escultura - Figura - Ornamento
-Muito difícil - Objetos - Estereoscópio - 13 - Óculos - Lente - Binóculo
-Muito difícil - Objetos - Tubuladura - 9 - Tubulação - Duto - Cano
-Muito difícil - Objetos - Heliografo - 9 - Medidor - Sensor - Relógio
-Muito difícil - Objetos - Esfigmômetro - 12 - Medidor - Sensor - Barômetro
-Muito difícil - Objetos - Pirotécnico - 11 - Artefato - Fogo - Explosivo
-Muito difícil - Objetos - Alquitara - 8 - Destilador - Recipiente - Cuba
-Muito difícil - Objetos - Vasculho - 8 - Vassoura - Rodo - Pano
-Muito difícil - Objetos - Desumidificador - 14 - Ventoinha - Extrator - Filtro
-Muito difícil - Objetos - Coruchéu - 8 - Ponta - Torre - Ornamento
-Muito difícil - Objetos - Alcímetro - 8 - Medidor - Sensor - Régua
-Muito difícil - Objetos - Palafita - 8 - Estrutura - Base - Suporte
-Muito difícil - Objetos - Deliquescência - 13 - Umidade - Reação - Solubilidade
-Muito difícil - Objetos - Lacônica - 7 - Inscrição - Letreiro - Marca
-Muito difícil - Objetos - Barômetro - 9 - Medidor - Sensor - Higrômetro
-Muito difícil - Objetos - Eclímetro - 9 - Régua - Gabarito - Escala
-Muito difícil - Objetos - Pipetador - 9 - Pipeta - Bureta - Ampola
-Muito difícil - Objetos - Coroação - 8 - Ornamento - Insígnia - Emblema
-Muito difícil - Objetos - Ambigrama - 9 - Figura - Símbolo - Desenho
-Médio - Objetos - fósforo - 7 - vela - isqueiro - chama
-Médio - Objetos - teia - 4 - fio - linha - rede
-Fácil - Objetos - sino - 4 - campana - badalo - bronze
-Médio - Objetos - mirante - 7 - torre - janela - vista
-Médio - Objetos - frasco - 6 - vidro - pote - ampola
-Fácil - Objetos - régua - 5 - linha - trena - escala
-Difícil - Objetos - astrolábio - 10 - bússola - sextante - mapa
-Médio - Objetos - ripas - 5 - tábua - madeira - vara
-Médio - Objetos - feixe - 5 - luz - raio - farol
-Fácil - Objetos - caixa - 5 - baú - cofre - embalagem
-Médio - Objetos - alicate - 7 - ferramenta - tenaz - grampo
-Médio - Objetos - estaca - 6 - poste - pilar - viga
-Fácil - Objetos - cabo - 4 - fio - corda - alça
-Difícil - Objetos - pergaminho - 10 - rolo - papiro - manuscrito
-Médio - Objetos - porrete - 7 - bastão - vara - clava
-Médio - Objetos - roldana - 7 - polia - engrenagem - eixo
-Fácil - Objetos - vela - 4 - chama - lâmpada - fósforo
-Médio - Objetos - escudo - 6 - proteção - tampa - barreira
-Médio - Objetos - folhagem - 8 - ramo - galho - planta
-Difícil - Objetos - diapasão - 8 - som - frequência - vibração
-Fácil - Objetos - banco - 5 - cadeira - sofá - apoio
-Médio - Objetos - martelo - 7 - prego - ferragem - batida
-Difícil - Objetos - incensário - 10 - vela - aroma - defumador
-Médio - Objetos - painel - 6 - quadro - superfície - tela
-Fácil - Objetos - jarra - 5 - vaso - bule - copo
-Médio - Objetos - seringa - 7 - agulha - injeção - tubo
-Médio - Objetos - prisma - 6 - vidro - bloco - cristal
-Difícil - Objetos - luneta - 6 - telescópio - vidro - mira
-Médio - Objetos - roleta - 6 - roda - disco - giro
-Fácil - Objetos - trapo - 5 - pano - tecido - flanela
-Médio - Objetos - mascote - 7 - figura - símbolo - boneco
-Difícil - Objetos - catavento - 9 - hélice - roda - vento
-Fácil - Objetos - lenço - 5 - pano - tecido - gaze
-Médio - Objetos - trompa - 6 - metal - som - trompete
-Difícil - Objetos - caldeirão - 9 - panela - ferro - pote
-Médio - Objetos - barrete - 7 - gorro - chapéu - touca
-Fácil - Objetos - moldura - 7 - quadro - parede - porta-retrato
-Médio - Objetos - talude - 6 - rampa - parede - inclinação
-Difícil - Objetos - estandarte - 10 - bandeira - símbolo - flâmula
-Médio - Objetos - espeto - 6 - ferro - vara - grelha
-Fácil - Objetos - travessa - 8 - prato - bandeja - recipiente
-Médio - Objetos - lanterna - 8 - luz - abajur - lâmpada
-Difícil - Objetos - nicomede - 8 - pergaminho - papiro - manuscrito
-Médio - Objetos - cantil - 6 - garrafa - frasco - pote
-Fácil - Objetos - baú - 3 - caixa - cofre - maleta
-Médio - Objetos - entalhe - 7 - escultura - detalhe - corte
-Difícil - Objetos - duplicador - 10 - máquina - cópia - prensa
-Fácil - Objetos - flecha - 6 - seta - dardo - lança
-Médio - Objetos - volante - 7 - roda - direção - guidão
-Fácil - Objetos - bolsa - 5 - saco - mochila - case
-Médio - Objetos - grampeador - 10 - clipe - grampo - fixador
-Difícil - Objetos - alforje - 7 - saco - bolsa - mala
-Fácil - Objetos - areia - 5 - grão - pó - terra
-Médio - Objetos - mosquiteiro - 11 - tela - rede - proteção
-Difícil - Objetos - cronômetro - 10 - relógio - tempo - contador
-Fácil - Objetos - vidro - 5 - copo - frasco - taça
-Médio - Objetos - talher - 6 - garfo - faca - colher
-Difícil - Objetos - anastigmático - 13 - lente - foco - óptica
-Médio - Objetos - fronha - 6 - capa - tecido - travesseiro
-Fácil - Objetos - corda - 5 - fio - laço - cabo
-Médio - Objetos - banquetas - 9 - banco - cadeira - assento
-Difícil - Objetos - hidrômetro - 10 - medidor - água - contador
-Fácil - Objetos - vela - 4 - luz - chama - fósforo
-Médio - Objetos - mastro - 6 - poste - haste - pilar
-Difícil - Objetos - planisfério - 10 - mapa - globo - chart
-Fácil - Objetos - panela - 6 - pote - tacho - frigideira
-Médio - Objetos - rolha - 5 - tampão - vedação - cortiça
-Difícil - Objetos - marionete - 9 - boneco - fantoche - figura
-Fácil - Objetos - prato - 5 - bandeja - travessa - louça
-Médio - Objetos - capacho - 7 - tapete - entrada - tecido
-Difícil - Objetos - aerógrafo - 9 - pintura - jato - compressor
-Fácil - Objetos - caneta - 6 - lápis - marcador - pincel
-Médio - Objetos - esquadro - 8 - régua - ângulo - trena
-Difícil - Objetos - estereoscópio - 13 - lente - visão - óptica
-Fácil - Objetos - filtro - 6 - peneira - malha - grade
-Médio - Objetos - torquês - 7 - ferramenta - alicate - tenaz
-Difícil - Objetos - bafômetro - 9 - medidor - álcool - sensor
-Fácil - Objetos - luva - 4 - proteção - tecido - pano
-Médio - Objetos - teodolito - 9 - mira - medição - instrumento
-Fácil - Objetos - vela - 4 - chama - luz - fósforo
-Médio - Objetos - pinça - 5 - alicate - ferramenta - tenaz
-Difícil - Objetos - cronógrafo - 10 - relógio - tempo - mecanismo
-Fácil - Objetos - bandeja - 7 - prato - travessa - suporte
-Médio - Objetos - dobradiça - 9 - porta - metal - eixo
-Difícil - Objetos - monóculo - 8 - lente - visão - óptica
-Fácil - Objetos - laço - 4 - corda - fio - nó
-Médio - Objetos - talão - 5 - papel - bloco - ficha
-Difícil - Objetos - pantógrafo - 10 - cópia - desenho - mecanismo
-Fácil - Objetos - haste - 5 - vara - mastro - poste
-Médio - Objetos - farolete - 8 - luz - lâmpada - lanterna
-Difícil - Objetos - galvanômetro - 12 - corrente - elétrica - instrumento
-Fácil - Objetos - quina - 4 - canto - beira - borda
-Médio - Objetos - laminado - 8 - folha - chapa - camada
-Difícil - Objetos - radiofarol - 10 - sinal - antena - navegação
-Fácil - Objetos - vela - 4 - luz - chama - fósforo
-Médio - Objetos - bridão - 6 - sela - arreio - cavalo
-Difícil - Objetos - gisômetro - 9 - medidor - escala - instrumento
-Fácil - Objetos - saco - 4 - bolsa - saco - mala
-Médio - Objetos - dínamo - 6 - energia - motor - carga
-Difícil - Objetos - espectrômetro - 12 - luz - análise - instrumento
-Fácil - Objetos - roda - 4 - pneu - aro - círculo
-Médio - Objetos - fusível - 7 - energia - proteção - circuito
-Difícil - Objetos - transcoder - 10 - sinal - dado - filtro
-Médio - Objetos - triângulo - 9 - régua - escala - forma
-Fácil - Objetos - pano - 4 - tecido - trapo - flanela
-Médio - Objetos - almofariz - 9 - pilão - pedra - esmagador
-Fácil - Objetos - espelho - 7 - vidro - reflexo - moldura
-Médio - Objetos - novelo - 6 - fio - lã - rolo
-Difícil - Objetos - taxímetro - 9 - contador - relógio - medidor
-Médio - Objetos - capuz - 5 - tecido - roupa - cobertura
-Fácil - Objetos - broxa - 5 - pincel - tinta - cerdas
-Médio - Objetos - campana - 7 - sino - bronze - toque
-Difícil - Objetos - pantim - 6 - ornamento - peça - detalhe
-Fácil - Objetos - pote - 4 - frasco - jarra - recipiente
-Médio - Objetos - borla - 5 - detalhe - tecido - enfeite
-Difícil - Objetos - mataborrão - 11 - papel - tinta - absorvente
-Fácil - Objetos - tampa - 5 - vedação - rolha - cobertura
-Médio - Objetos - malote - 6 - bolsa - saco - pasta
-Difícil - Objetos - xilógrafo - 9 - madeira - entalhe - gravação
-Fácil - Objetos - disco - 5 - círculo - mídia - roda
-Médio - Objetos - punção - 6 - metal - marca - ferramenta
-Difícil - Objetos - estileteiro - 11 - suporte - lâmina - caixa
-Fácil - Objetos - copo - 4 - taça - vidro - caneca
-Médio - Objetos - estojo - 6 - caixa - bolsa - suporte
-Difícil - Objetos - refratômetro - 12 - lente - medição - óptica
-Fácil - Objetos - vara - 4 - haste - mastro - bastão
-Médio - Objetos - cantoneira - 10 - metal - suporte - ângulo
-Difícil - Objetos - gabarito - 8 - molde - forma - medidor
-Fácil - Objetos - brinco - 6 - joia - argola - metal
-Médio - Objetos - mandril - 7 - fixador - torno - peça
-Difícil - Objetos - narcisador - 10 - frasco - perfume - borrifador
-Fácil - Objetos - fita - 4 - laço - tecido - faixa
-Médio - Objetos - espartilho - 10 - roupa - cinta - vestimenta
-Difícil - Objetos - planetário - 10 - globo - modelo - esfera
-Fácil - Objetos - talha - 5 - escultura - entalhe - corte
-Médio - Objetos - polaina - 7 - roupa - tecido - proteção
-Difícil - Objetos - otoscópio - 9 - lente - luz - exame
-Fácil - Objetos - faca - 4 - lâmina - cutelo - punho
-Médio - Objetos - moega - 5 - funil - grão - recipiente
-Difícil - Objetos - calígrafo - 9 - pena - tinta - escrita
-Fácil - Objetos - taco - 4 - bastão - vara - apoio
-Médio - Objetos - manopla - 7 - proteção - luva - metal
-Difícil - Objetos - desumidificador - 14 - filtro - ar - aparelho
-Fácil - Objetos - anzol - 5 - gancho - pesca - metal
-Médio - Objetos - boia - 4 - flutuação - água - círculo
-Difícil - Objetos - magnetômetro - 12 - campo - força - detector
-Fácil - Objetos - lupa - 4 - lente - vidro - aumento
-Médio - Objetos - galão - 5 - garrafa - frasco - recipiente
-Difícil - Objetos - endoscópio - 10 - tubo - lente - exame
-Fácil - Objetos - vela - 4 - chama - luz - fósforo
-Médio - Objetos - friso - 5 - detalhe - relevo - ornamento
-Difícil - Objetos - acendedor - 9 - chama - faísca - ignição
-Fácil - Objetos - sino - 4 - campana - bronze - toque
-Médio - Objetos - odalisco - 8 - figura - escultura - arte
-Difícil - Objetos - amperímetro - 11 - corrente - elétrica - medidor
-Fácil - Objetos - cabo - 4 - fio - corda - alça
-Médio - Objetos - peanha - 6 - base - suporte - coluna
-Difícil - Objetos - sericímetro - 10 - medição - fio - instrumento
-Fácil - Objetos - tábua - 5 - madeira - prancha - corte
-Médio - Objetos - couto - 5 - lâmina - faca - cutelo
-Difícil - Objetos - planímetro - 10 - medidor - superfície - área
-Fácil - Objetos - blecaute - 8 - pano - cortina - tecido
-Médio - Objetos - caixilho - 8 - moldura - vidro - janela
-Difícil - Objetos - isótopo - 7 - átomo - partícula - núcleo
-Fácil - Objetos - chave - 5 - metal - porta - fecho
-Médio - Objetos - zíper - 4 - fecho - roupa - trilho
-Difícil - Objetos - microtomógrafo - 14 - raio-x - imagem - aparelho
-Fácil - Objetos - pá - 1 - cavar - metal - ferramenta
-Médio - Objetos - tambor - 6 - pele - música - som
-Difícil - Objetos - espectômetro - 11 - luz - análise - instrumento
-Fácil - Objetos - frasco - 6 - vidro - pote - ampola
-Médio - Objetos - lâmina - 6 - faca - corte - tesoura
-Difícil - Objetos - catafísico - 10 - energia - onda - estudo
-Fácil - Objetos - laço - 4 - corda - nó - fita
-Médio - Objetos - ninho - 5 - palha - madeira - abrigo
-Difícil - Objetos - teodolito - 9 - mira - ângulo - medição
-Fácil - Objetos - folha - 5 - papel - página - superfície
-Médio - Objetos - cunha - 5 - madeira - peça - encaixe
-Difícil - Objetos - isocinético - 11 - força - tensão - aparelho
-Fácil - Objetos - pano - 4 - tecido - trapo - flanela
-Médio - Objetos - barril - 6 - madeira - tonel - recipiente
-Difícil - Objetos - osmômetro - 9 - solução - água - medição
-Fácil - Objetos - rodo - 4 - cabo - limpeza - borracha
-Médio - Objetos - filete - 6 - tira - linha - corte
-Difícil - Objetos - magnetoscópio - 14 - gravação - fita - leitura
-Fácil - Objetos - tanque - 6 - água - metal - depósito
-Médio - Objetos - talho - 5 - corte - lasca - madeira
-Difícil - Objetos - cromatóforo - 11 - cor - pigmento - célula
-Fácil - Objetos - pote - 4 - jarra - frasco - recipiente
-Médio - Objetos - escumadeira - 11 - cozinha - colher - metal
-Difícil - Objetos - heliómetro - 10 - sol - medidor - óptica
-Fácil - Objetos - sino - 4 - badalo - bronze - toque
-Médio - Objetos - fole - 4 - ar - sopro - couro
-Difícil - Objetos - criptoscópio - 12 - luz - lente - oculto
-Fácil - Objetos - fita - 4 - laço - faixa - corda
-Médio - Objetos - malhete - 7 - martelo - batida - madeira
-Difícil - Objetos - teleférico - 10 - cabo - cabine - transporte
-Fácil - Objetos - vela - 4 - luz - chama - fósforo
-Médio - Objetos - pilastra - 8 - coluna - suporte - base
-Difícil - Objetos - microbarômetro - 14 - pressão - ar - instrumento
-Fácil - Objetos - pano - 4 - tecido - trapo - malha
-Médio - Objetos - roldana - 7 - polia - engrenagem - eixo
-Difícil - Objetos - glicosímetro - 12 - açúcar - sangue - medidor
-Fácil - Objetos - poste - 5 - coluna - haste - suporte
-Médio - Objetos - embornal - 8 - saco - bolsa - alforje
-Difícil - Objetos - fitoscópio - 10 - planta - lente - exame
-Fácil - Objetos - vara - 4 - haste - pau - mastro
-Médio - Objetos - narguilé - 8 - vidro - fumaça - tubo
-Difícil - Objetos - sismógrafo - 10 - terremoto - vibração - registro
-Fácil - Objetos - roda - 4 - pneu - aro - círculo
-Médio - Objetos - engate - 6 - gancho - metal - encaixe
-Difícil - Objetos - espectrógrafo - 13 - luz - análise - prisma
-Fácil - Objetos - cabo - 4 - fio - corda - alça
-Médio - Objetos - cédula - 6 - papel - dinheiro - nota
-Difícil - Objetos - dínamometro - 11 - força - medição - aparelho
-Fácil - Objetos - jarra - 5 - vaso - bule - copo
-Médio - Objetos - amuleto - 7 - talismã - pedra - símbolo
-Difícil - Objetos - nadímetro - 9 - ângulo - medidor - cálculo
-Fácil - Objetos - galho - 5 - ramo - madeira - vara
-Médio - Objetos - poltrona - 8 - assento - cadeira - sofá
-Difícil - Objetos - espectrovisor - 13 - luz - imagem - instrumento
-Fácil - Objetos - capa - 4 - tecido - manto - proteção
-Médio - Objetos - canivete - 8 - lâmina - faca - bolso
-Difícil - Objetos - refratímetro - 12 - luz - prisma - medição
-Fácil - Objetos - pote - 4 - frasco - jarra - lata
-Médio - Objetos - boina - 5 - chapéu - gorro - tecido
-Difícil - Objetos - litógrafo - 9 - pedra - impressão - arte
-Fácil - Objetos - vela - 4 - chama - luz - fósforo
-Médio - Objetos - tacho - 5 - panela - pote - metal
-Difícil - Objetos - sonda - 5 - instrumento - tubo - exame
-Fácil - Objetos - pano - 4 - tecido - trapo - flanela
-Médio - Objetos - cálice - 6 - taça - copo - vidro
-Difícil - Objetos - fotoelasticímetro - 16 - luz - tensão - análise
+Nível,Categoria,Palavra,Nº de letras,Similar 1,Similar 2,Similar 3
+Fácil,Verbos,andar,5,caminhar,passear,marchar
+Fácil,Verbos,correr,6,sprintar,fugir,acelerar
+Fácil,Verbos,pular,5,saltar,quicar,erguer
+Fácil,Verbos,falar,5,dizer,contar,explicar
+Fácil,Verbos,ouvir,5,escutar,perceber,notar
+Fácil,Verbos,ver,3,olhar,enxergar,observar
+Fácil,Verbos,pegar,5,segurar,agarrar,tomar
+Fácil,Verbos,abrir,4,destrancar,escancarar,iniciar
+Fácil,Verbos,fechar,6,trancar,encerrar,vedar
+Fácil,Verbos,comer,5,mastigar,ingerir,provar
+Fácil,Verbos,beber,5,ingerir,tomar,sorver
+Fácil,Verbos,dormir,6,repousar,cochilar,descansar
+Fácil,Verbos,sentar,6,pousar,acomodar,repousar
+Fácil,Verbos,levantar,8,erguer,subir,alçar
+Fácil,Verbos,brincar,7,jogar,divertir,interagir
+Fácil,Verbos,rir,3,sorrir,gargalhar,divertir
+Fácil,Verbos,chorar,6,lamentar,soluçar,prantear
+Fácil,Verbos,trabalhar,9,atuar,laborar,produzir
+Fácil,Verbos,estudar,7,aprender,revisar,praticar
+Fácil,Verbos,ensinar,7,instruir,orientar,explicar
+Fácil,Verbos,jogar,5,brincar,competir,disputar
+Fácil,Verbos,dançar,6,bailar,rodopiar,mexer
+Fácil,Verbos,cantar,6,entonar,solfejar,entonar
+Fácil,Verbos,cozinhar,8,assar,fritar,ferver
+Fácil,Verbos,lavar,5,limpar,esfregar,enxaguar
+Fácil,Verbos,beijar,6,abraçar,tocar,acariciar
+Fácil,Verbos,abraçar,7,apertar,encostar,envolver
+Fácil,Verbos,viajar,6,percorrer,deslocar,explorar
+Fácil,Verbos,telefonar,9,ligar,comunicar,chamar
+Fácil,Verbos,escrever,8,redigir,anotar,registrar
+Fácil,Verbos,ler,3,folhear,consultar,examinar
+Fácil,Verbos,ouvir,5,escutar,perceber,atentar
+Fácil,Verbos,nadar,5,mergulhar,flutuar,borrar
+Fácil,Verbos,mergulhar,9,nadar,submergir,imergir
+Fácil,Verbos,voar,4,planar,pousar,alçar
+Fácil,Verbos,respirar,8,inspirar,expirar,oxigenar
+Fácil,Verbos,sentir,6,perceber,experimentar,notar
+Fácil,Verbos,perceber,8,notar,observar,sentir
+Fácil,Verbos,memorizar,9,decorar,gravar,lembrar
+Fácil,Verbos,calcular,8,somar,contar,medir
+Fácil,Verbos,medir,5,avaliar,determinar,checar
+Fácil,Verbos,avaliar,7,analisar,verificar,examinar
+Fácil,Verbos,descansar,9,repousar,relaxar,dormir
+Fácil,Verbos,procurar,8,buscar,rastrear,investigar
+Fácil,Verbos,organizar,9,ordenar,planejar,estruturar
+Fácil,Verbos,planejar,8,programar,estruturar,organizar
+Fácil,Verbos,revisar,7,estudar,verificar,consultar
+Fácil,Verbos,consultar,8,revisar,verificar,pesquisar
+Fácil,Verbos,pesquisar,9,investigar,consultar,explorar
+Fácil,Verbos,investigar,10,pesquisar,examinar,procurar
+Fácil,Verbos,examinar,8,analisar,inspecionar,investigar
+Fácil,Verbos,inspecionar,10,examinar,verificar,observar
+Fácil,Verbos,verificar,9,checar,examinar,confirmar
+Médio,Verbos,observar,8,analisar,vigiar,examinar
+Médio,Verbos,escolher,8,optar,selecionar,decidir
+Médio,Verbos,comparar,8,avaliar,contrastar,medir
+Médio,Verbos,construir,9,montar,erguer,fabricar
+Médio,Verbos,destruir,8,demolir,arruinar,quebrar
+Médio,Verbos,resolver,8,solucionar,decidir,concluir
+Médio,Verbos,organizar,9,estruturar,ordenar,alinhar
+Médio,Verbos,planejar,8,organizar,estruturar,prever
+Médio,Verbos,procurar,8,buscar,investigar,rastrear
+Médio,Verbos,explicar,8,detalhar,esclarecer,ensinar
+Médio,Verbos,imaginar,8,criar,supor,fantasiar
+Médio,Verbos,criar,5,inventar,produzir,conceber
+Médio,Verbos,melhorar,8,aprimorar,evoluir,ajustar
+Médio,Verbos,diminuir,8,reduzir,cortar,encolher
+Médio,Verbos,aumentar,8,ampliar,crescer,elevar
+Médio,Verbos,proteger,8,defender,guardar,preservar
+Médio,Verbos,atacar,6,agredir,investir,avançar
+Médio,Verbos,liderar,7,comandar,orientar,guiar
+Médio,Verbos,seguir,5,acompanhar,obedecer,continuar
+Médio,Verbos,decidir,7,escolher,optar,resolver
+Médio,Verbos,analisar,8,examinar,avaliar,investigar
+Médio,Verbos,avaliar,7,analisar,examinar,verificar
+Médio,Verbos,comparar,8,contrastar,avaliar,medir
+Médio,Verbos,coordenar,9,organizar,alinhar,liderar
+Médio,Verbos,priorizar,9,escolher,hierarquizar,focar
+Médio,Verbos,otimizar,8,melhorar,ajustar,refinar
+Médio,Verbos,mediar,6,interceder,negociar,conciliar
+Médio,Verbos,estruturar,10,organizar,planejar,construir
+Médio,Verbos,transformar,11,modificar,alterar,adaptar
+Médio,Verbos,modificar,9,alterar,mudar,transformar
+Médio,Verbos,adaptar,7,ajustar,alterar,modificar
+Difícil,Verbos,descender,8,baixar,cair,diminuir
+Difícil,Verbos,sintetizar,10,resumir,condensar,unificar
+Difícil,Verbos,contextualizar,14,situar,relacionar,enquadrar
+Difícil,Verbos,argumentar,9,defender,justificar,sustentar
+Difícil,Verbos,questionar,9,indagar,perguntar,desafiar
+Difícil,Verbos,interpretar,10,compreender,traduzir,analisar
+Difícil,Verbos,elaborar,8,desenvolver,criar,estruturar
+Difícil,Verbos,coordenar,9,organizar,alinhar,liderar
+Difícil,Verbos,sistematizar,12,organizar,estruturar,ordenar
+Difícil,Verbos,priorizar,9,escolher,hierarquizar,focar
+Difícil,Verbos,otimizar,8,melhorar,ajustar,refinar
+Difícil,Verbos,legitimar,9,validar,confirmar,autorizar
+Difícil,Verbos,regulamentar,12,normatizar,controlar,padronizar
+Difícil,Verbos,problematizar,13,questionar,analisar,discutir
+Difícil,Verbos,articular,9,conectar,relacionar,integrar
+Difícil,Verbos,conceituar,9,definir,explicar,enquadrar
+Muito difícil,Verbos,epistemologizar,16,fundamentar,teorizar,refletir
+Muito difícil,Verbos,operacionalizar,16,executar,aplicar,implementar
+Muito difícil,Verbos,instrumentalizar,17,equipar,capacitar,adaptar
+Muito difícil,Verbos,ressignificar,13,reinterpretar,redefinir,transformar
+Muito difícil,Verbos,transversalizar,15,integrar,cruzar,conectar
+Muito difícil,Verbos,descontextualizar,17,isolar,retirar,abstrair
+Muito difícil,Verbos,potencializar,13,ampliar,fortalecer,impulsionar
+Muito difícil,Verbos,institucionalizar,18,formalizar,estabelecer,consolidar
+Muito difícil,Verbos,hierarquizar,12,ordenar,priorizar,classificar
+Muito difícil,Verbos,retroalimentar,14,reforçar,revisar,ajustar
+Muito difícil,Verbos,racionalizar,12,sistematizar,organizar,calcular
+Muito difícil,Verbos,complexificar,13,aprofundar,ampliar,densificar
+Muito difícil,Verbos,parametrizar,12,ajustar,configurar,regular
+Muito difícil,Verbos,normatizar,10,padronizar,regulamentar,regular
+Muito difícil,Verbos,universalizar,13,generalizar,expandir,difundir
+Muito difícil,Verbos,despersonalizar,16,abstrair,neutralizar,afastar
+Muito difícil,Verbos,interseccionar,14,cruzar,relacionar,integrar
+Fácil,Verbos,desenhar,8,pintar,esboçar,rabiscar
+Fácil,Verbos,pintar,6,desenhar,ilustrar,repintar
+Fácil,Verbos,gravar,6,registrar,filmar,registrar
+Fácil,Verbos,film ar,5,gravar,registrar,documentar
+Fácil,Verbos,cantar,6,entonar,solfejar,entonar
+Fácil,Verbos,dançar,6,bailar,rodopiar,mexer
+Fácil,Verbos,jogar,5,brincar,competir,disputar
+Fácil,Verbos,cozinhar,8,assar,fritar,ferver
+Fácil,Verbos,lavar,5,limpar,esfregar,enxaguar
+Fácil,Verbos,dormir,6,repousar,cochilar,descansar
+Fácil,Verbos,sentir,6,perceber,experimentar,notar
+Fácil,Verbos,ouvir,5,escutar,perceber,atentar
+Fácil,Verbos,ver,3,olhar,enxergar,observar
+Fácil,Verbos,falar,5,dizer,contar,explicar
+Fácil,Verbos,andar,5,caminhar,passear,marchar
+Fácil,Verbos,correr,6,sprintar,fugir,acelerar
+Fácil,Verbos,pular,5,saltar,quicar,erguer
+Fácil,Verbos,abrir,4,destrancar,escancarar,iniciar
+Fácil,Verbos,fechar,6,trancar,encerrar,vedar
+Fácil,Verbos,pegar,5,segurar,agarrar,tomar
+Fácil,Verbos,levantar,8,erguer,subir,alçar
+Fácil,Verbos,brincar,7,jogar,divertir,interagir
+Fácil,Verbos,rir,3,sorrir,gargalhar,divertir
+Fácil,Verbos,chorar,6,lamentar,soluçar,prantear
+Fácil,Verbos,trabalhar,9,atuar,laborar,produzir
+Fácil,Verbos,estudar,7,aprender,revisar,praticar
+Fácil,Verbos,ensinar,7,instruir,orientar,explicar
+Fácil,Verbos,viajar,6,percorrer,deslocar,explorar
+Fácil,Verbos,telefonar,9,ligar,comunicar,chamar
+Fácil,Verbos,receber,7,aceitar,ganhar,obter
+Fácil,Verbos,doar,4,oferecer,entregar,ceder
+Fácil,Verbos,ajudar,6,auxiliar,suportar,assistir
+Fácil,Verbos,memorizar,9,decorar,gravar,lembrar
+Fácil,Verbos,decorar,7,memorizar,aprender,gravar
+Fácil,Verbos,documentar,10,registrar,anotar,arquivar
+Fácil,Verbos,anotar,6,registrar,documentar,escrever
+Fácil,Verbos,redigir,7,escrever,registrar,produzir
+Fácil,Verbos,produzir,8,criar,fabricar,gerar
+Fácil,Verbos,criar,5,produzir,fabricar,construir
+Fácil,Verbos,fabricar,8,criar,produzir,construir
+Fácil,Verbos,construir,9,fabricar,erguer,produzir
+Médio,Verbos,organizar,9,ordenar,planejar,estruturar
+Médio,Verbos,planejar,8,programar,estruturar,organizar
+Médio,Verbos,comparar,8,avaliar,contrastar,medir
+Médio,Verbos,resolver,8,solucionar,decidir,concluir
+Médio,Verbos,proteger,8,defender,guardar,preservar
+Médio,Verbos,atacar,6,agredir,investir,avançar
+Médio,Verbos,liderar,7,comandar,orientar,guiar
+Médio,Verbos,seguir,5,acompanhar,obedecer,continuar
+Médio,Verbos,decidir,7,escolher,optar,resolver
+Médio,Verbos,coordenar,9,organizar,alinhar,liderar
+Médio,Verbos,priorizar,9,escolher,hierarquizar,focar
+Médio,Verbos,otimizar,8,melhorar,ajustar,refinar
+Médio,Verbos,mediar,6,interceder,negociar,conciliar
+Médio,Verbos,estruturar,10,organizar,planejar,construir
+Médio,Verbos,transformar,11,modificar,alterar,adaptar
+Médio,Verbos,modificar,9,alterar,mudar,transformar
+Médio,Verbos,adaptar,7,ajustar,alterar,modificar
+Difícil,Verbos,descender,8,baixar,cair,diminuir
+Difícil,Verbos,sintetizar,10,resumir,condensar,unificar
+Difícil,Verbos,contextualizar,14,situar,relacionar,enquadrar
+Difícil,Verbos,argumentar,9,defender,justificar,sustentar
+Difícil,Verbos,questionar,9,indagar,perguntar,desafiar
+Difícil,Verbos,interpretar,10,compreender,traduzir,analisar
+Difícil,Verbos,elaborar,8,desenvolver,criar,estruturar
+Difícil,Verbos,sistematizar,12,organizar,estruturar,ordenar
+Difícil,Verbos,priorizar,9,escolher,hierarquizar,focar
+Difícil,Verbos,legitimar,9,validar,confirmar,autorizar
+Difícil,Verbos,regulamentar,12,normatizar,controlar,padronizar
+Difícil,Verbos,problematizar,13,questionar,analisar,discutir
+Difícil,Verbos,articular,9,conectar,relacionar,integrar
+Difícil,Verbos,conceituar,9,definir,explicar,enquadrar
+Muito difícil,Verbos,epistemologizar,16,fundamentar,teorizar,refletir
+Muito difícil,Verbos,operacionalizar,16,executar,aplicar,implementar
+Muito difícil,Verbos,instrumentalizar,17,equipar,capacitar,adaptar
+Muito difícil,Verbos,ressignificar,13,reinterpretar,redefinir,transformar
+Muito difícil,Verbos,transversalizar,15,integrar,cruzar,conectar
+Muito difícil,Verbos,descontextualizar,17,isolar,retirar,abstrair
+Muito difícil,Verbos,potencializar,13,ampliar,fortalecer,impulsionar
+Muito difícil,Verbos,institucionalizar,18,formalizar,estabelecer,consolidar
+Muito difícil,Verbos,hierarquizar,12,ordenar,priorizar,classificar
+Muito difícil,Verbos,retroalimentar,14,reforçar,revisar,ajustar
+Muito difícil,Verbos,racionalizar,12,sistematizar,organizar,calcular
+Muito difícil,Verbos,complexificar,13,aprofundar,ampliar,densificar
+Muito difícil,Verbos,parametrizar,12,ajustar,configurar,regular
+Muito difícil,Verbos,normatizar,10,padronizar,regulamentar,regular
+Muito difícil,Verbos,universalizar,13,generalizar,expandir,difundir
+Muito difícil,Verbos,despersonalizar,16,abstrair,neutralizar,afastar
+Muito difícil,Verbos,interseccionar,14,cruzar,relacionar,integrar
+Fácil,Verbos,gritar,6,chamar,alertar,denunciar
+Fácil,Verbos,sussurrar,9,cochichar,murmurar,falar
+Fácil,Verbos,olhar,5,enxergar,ver,observar
+Fácil,Verbos,escutar,8,ouvir,atentar,prestar
+Fácil,Verbos,apagar,6,extinguir,desligar,remover
+Fácil,Verbos,acender,7,iluminar,prender,ligar
+Fácil,Verbos,abrir,4,destrancar,escancarar,iniciar
+Fácil,Verbos,fechar,6,trancar,encerrar,vedar
+Fácil,Verbos,pegar,5,segurar,agarrar,tomar
+Fácil,Verbos,soltar,6,liberar,desprender,afastar
+Fácil,Verbos,liberar,7,soltar,permitir,desprender
+Fácil,Verbos,desprender,9,soltar,liberar,afastar
+Fácil,Verbos,afastar,7,desprender,retirar,soltar
+Fácil,Verbos,retirar,7,afastar,remover,extrair
+Fácil,Verbos,extrair,7,retirar,remover,obter
+Fácil,Verbos,remover,6,extrair,retirar,afastar
+Fácil,Verbos,doar,4,oferecer,entregar,ceder
+Fácil,Verbos,ajudar,6,auxiliar,suportar,assistir
+Fácil,Verbos,receber,7,aceitar,ganhar,obter
+Fácil,Verbos,aceitar,7,aprovar,receber,consentir
+Fácil,Verbos,aprovar,7,validar,aceitar,confirmar
+Fácil,Verbos,validar,7,aprovar,confirmar,checar
+Fácil,Verbos,confirmar,9,validar,aprovar,checar
+Fácil,Verbos,checar,6,verificar,confirmar,validar
+Fácil,Verbos,verificar,9,checar,examinar,confirmar
+Fácil,Verbos,examinar,8,analisar,inspecionar,investigar
+Fácil,Verbos,inspecionar,10,examinar,observar,verificar
+Fácil,Verbos,observar,8,examinar,analisar,inspecionar
+Fácil,Verbos,analisar,8,examinar,avaliar,estudar
+Fácil,Verbos,estudar,6,aprender,revisar,memorizar
+Fácil,Verbos,aprender,7,estudar,memorizar,praticar
+Fácil,Verbos,memorizar,9,decorar,gravar,lembrar
+Fácil,Verbos,decorar,7,memorizar,aprender,gravar
+Fácil,Verbos,gravar,6,registrar,film ar,anotar
+Fácil,Verbos,registrar,9,gravar,documentar,anotar
+Fácil,Verbos,documentar,10,registrar,anotar,arquivar
+Fácil,Verbos,anotar,6,registrar,documentar,escrever
+Fácil,Verbos,escrever,7,redigir,anotar,registrar
+Fácil,Verbos,redigir,7,escrever,registrar,produzir
+Fácil,Verbos,produzir,8,criar,fabricar,gerar
+Fácil,Verbos,criar,5,produzir,fabricar,construir
+Fácil,Verbos,fabricar,8,produzir,construir,criar
+Fácil,Verbos,construir,9,fabricar,erguer,produzir
+Médio,Verbos,organizar,9,ordenar,planejar,estruturar
+Médio,Verbos,planejar,8,programar,estruturar,organizar
+Médio,Verbos,comparar,8,avaliar,contrastar,medir
+Médio,Verbos,resolver,8,solucionar,decidir,concluir
+Médio,Verbos,proteger,8,defender,guardar,preservar
+Médio,Verbos,atacar,6,agredir,investir,avançar
+Médio,Verbos,liderar,7,comandar,orientar,guiar
+Médio,Verbos,seguir,5,acompanhar,obedecer,continuar
+Médio,Verbos,decidir,7,escolher,optar,resolver
+Médio,Verbos,coordenar,9,organizar,alinhar,liderar
+Médio,Verbos,priorizar,9,escolher,hierarquizar,focar
+Médio,Verbos,otimizar,8,melhorar,ajustar,refinar
+Médio,Verbos,mediar,6,interceder,negociar,conciliar
+Médio,Verbos,estruturar,10,organizar,planejar,construir
+Médio,Verbos,transformar,11,modificar,alterar,adaptar
+Médio,Verbos,modificar,9,alterar,mudar,transformar
+Médio,Verbos,adaptar,7,ajustar,alterar,modificar
+Difícil,Verbos,descender,8,baixar,cair,diminuir
+Difícil,Verbos,sintetizar,10,resumir,condensar,unificar
+Difícil,Verbos,contextualizar,14,situar,relacionar,enquadrar
+Difícil,Verbos,argumentar,9,defender,justificar,sustentar
+Difícil,Verbos,questionar,9,indagar,perguntar,desafiar
+Difícil,Verbos,interpretar,10,compreender,traduzir,analisar
+Difícil,Verbos,elaborar,8,desenvolver,criar,estruturar
+Difícil,Verbos,sistematizar,12,organizar,estruturar,ordenar
+Difícil,Verbos,legitimar,9,validar,confirmar,autorizar
+Difícil,Verbos,regulamentar,12,normatizar,controlar,padronizar
+Difícil,Verbos,problematizar,13,questionar,analisar,discutir
+Difícil,Verbos,articular,9,conectar,relacionar,integrar
+Difícil,Verbos,conceituar,9,definir,explicar,enquadrar
+Muito difícil,Verbos,epistemologizar,16,fundamentar,teorizar,refletir
+Muito difícil,Verbos,operacionalizar,16,executar,aplicar,implementar
+Muito difícil,Verbos,instrumentalizar,17,equipar,capacitar,adaptar
+Muito difícil,Verbos,ressignificar,13,reinterpretar,redefinir,transformar
+Muito difícil,Verbos,transversalizar,15,integrar,cruzar,conectar
+Muito difícil,Verbos,descontextualizar,17,isolar,retirar,abstrair
+Muito difícil,Verbos,potencializar,13,ampliar,fortalecer,impulsionar
+Muito difícil,Verbos,institucionalizar,18,formalizar,estabelecer,consolidar
+Muito difícil,Verbos,hierarquizar,12,ordenar,priorizar,classificar
+Muito difícil,Verbos,retroalimentar,14,reforçar,revisar,ajustar
+Muito difícil,Verbos,racionalizar,12,sistematizar,organizar,calcular
+Muito difícil,Verbos,complexificar,13,aprofundar,ampliar,densificar
+Muito difícil,Verbos,parametrizar,12,ajustar,configurar,regular
+Muito difícil,Verbos,normatizar,10,padronizar,regulamentar,regular
+Muito difícil,Verbos,universalizar,13,generalizar,expandir,difundir
+Muito difícil,Verbos,despersonalizar,16,abstrair,neutralizar,afastar
+Muito difícil,Verbos,interseccionar,14,cruzar,relacionar,integrar
